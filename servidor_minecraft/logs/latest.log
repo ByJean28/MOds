@@ -3694,3 +3694,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Jun2025 22:17:17.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 joined the game
 [29Jun2025 22:18:51.898] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByJean2812 lost connection: Disconnected
 [29Jun2025 22:18:51.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 left the game
+[29Jun2025 22:37:58.877] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ByJean2812[/127.171.90.144:34887] logged in with entity id 1949 at (25.979212555460844, -48.5, 160.94098318069166)
+[29Jun2025 22:37:58.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 joined the game
+[29Jun2025 22:38:26.376] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=25, y=-50, z=155} BlockPos{x=28, y=-49, z=155}
+[29Jun2025 22:39:51.474] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=26, y=-48, z=148} BlockPos{x=27, y=-48, z=147}
+[29Jun2025 22:39:52.329] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=26, y=-46, z=149} BlockPos{x=27, y=-47, z=151}
+[29Jun2025 22:40:08.651] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=44, y=-52, z=146} BlockPos{x=40, y=-50, z=151}
+[29Jun2025 22:40:08.678] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=40, y=-51, z=151} BlockPos{x=40, y=-50, z=151}
+[29Jun2025 22:40:42.231] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=21, y=-53, z=171} BlockPos{x=18, y=-53, z=170}
+[29Jun2025 22:40:42.277] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=21, y=-52, z=171} BlockPos{x=18, y=-53, z=170}
+[29Jun2025 22:40:42.376] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=21, y=-51, z=171} BlockPos{x=21, y=-52, z=172}
+[29Jun2025 22:41:27.377] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=-52, z=168} BlockPos{x=13, y=-52, z=167}
+[29Jun2025 22:41:30.875] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18, y=-48, z=168} BlockPos{x=18, y=-48, z=167}
+[29Jun2025 22:41:30.924] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18, y=-48, z=168} BlockPos{x=18, y=-48, z=167}
+[29Jun2025 22:41:31.004] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18, y=-48, z=168} BlockPos{x=18, y=-48, z=167}
+[29Jun2025 22:41:31.027] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18, y=-48, z=168} BlockPos{x=18, y=-48, z=167}
+[29Jun2025 22:42:14.528] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=-46, z=162} BlockPos{x=35, y=-46, z=161}
+[29Jun2025 22:42:39.377] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=-53, z=148} BlockPos{x=3, y=-54, z=147}
+[29Jun2025 22:42:57.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Not Today, Thank You]
+[29Jun2025 22:43:14.626] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=19, y=-46, z=154} BlockPos{x=18, y=-47, z=151}
+[29Jun2025 22:43:57.081] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=-46, z=172} BlockPos{x=30, y=-47, z=172}
+[29Jun2025 22:45:09.379] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=26, y=-46, z=170} BlockPos{x=27, y=-46, z=169}
+[29Jun2025 22:45:22.776] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pulpleito8[/127.73.31.138:57397] logged in with entity id 4069 at (35.30000001192093, 113.0, 71.30000001192093)
+[29Jun2025 22:45:22.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 joined the game
