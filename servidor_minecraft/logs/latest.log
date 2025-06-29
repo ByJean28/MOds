@@ -3825,3 +3825,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Jun2025 23:02:38.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made ByJean2812 a server operator
 [29Jun2025 23:02:47.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
 [29Jun2025 23:04:17.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[29Jun2025 23:13:07.152] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByJean2812 lost connection: Disconnected
+[29Jun2025 23:13:07.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 left the game
+[29Jun2025 23:13:10.560] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 lost connection: Disconnected
+[29Jun2025 23:13:10.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 left the game
