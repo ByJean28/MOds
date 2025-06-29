@@ -923,12 +923,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-06-29 22:54:27 +0000"
-    },
-    "done": false
-  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-06-29 22:42:57 +0000"
