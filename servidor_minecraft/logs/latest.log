@@ -636,3 +636,47 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Jun2025 01:38:56.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
 [30Jun2025 01:39:25.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
 [30Jun2025 01:39:39.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[30Jun2025 01:40:28.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[30Jun2025 01:41:05.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[30Jun2025 01:41:09.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was energized by Lightning Dragon
+[30Jun2025 01:41:09.050] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[30Jun2025 01:41:12.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[30Jun2025 01:41:24.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[30Jun2025 01:41:41.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[30Jun2025 01:41:43.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was doomed to fall by Lightning Dragon
+[30Jun2025 01:41:43.684] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[30Jun2025 01:41:46.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[30Jun2025 01:42:01.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[30Jun2025 01:42:21.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[30Jun2025 01:42:48.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was energized by Lightning Dragon
+[30Jun2025 01:42:48.874] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[30Jun2025 01:42:52.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[30Jun2025 01:42:55.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Lightning Dragon
+[30Jun2025 01:42:55.719] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[30Jun2025 01:43:00.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[30Jun2025 01:43:18.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was struck with lightning by Lightning Dragon
+[30Jun2025 01:43:18.374] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[30Jun2025 01:43:21.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[30Jun2025 01:43:25.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByJean2812 was kicked for floating too long!
+[30Jun2025 01:43:25.263] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByJean2812 lost connection: Flying is not enabled on this server
+[30Jun2025 01:43:25.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 left the game
+[30Jun2025 01:43:25.320] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Jun2025 01:43:47.233] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ByJean2812[/127.171.90.144:38449] logged in with entity id 35289 at (-7567.581759308094, 0.9247421239408457, -2141.0194738967434)
+[30Jun2025 01:43:47.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 joined the game
+[30Jun2025 01:44:06.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[30Jun2025 01:44:15.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was struck with lightning by Lightning Dragon
+[30Jun2025 01:44:15.276] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[30Jun2025 01:44:21.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[30Jun2025 01:44:24.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was energized by Lightning Dragon
+[30Jun2025 01:44:24.123] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[30Jun2025 01:44:28.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[30Jun2025 01:44:52.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was energized by Lightning Dragon
+[30Jun2025 01:44:52.127] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[30Jun2025 01:44:55.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[30Jun2025 01:45:17.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[30Jun2025 01:45:38.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Lightning Dragon
+[30Jun2025 01:45:38.383] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[30Jun2025 01:45:41.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[30Jun2025 01:48:17.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Mother of Dragons]
+[30Jun2025 01:48:30.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Mother of Dragons]
+[30Jun2025 01:49:02.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has reached the goal [Troll Hunter]

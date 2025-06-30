@@ -937,6 +937,12 @@
     },
     "done": true
   },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-06-30 01:05:14 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_bandit_village": {
     "criteria": {
       "location0": "2025-06-30 01:10:11 +0000"
@@ -952,12 +958,6 @@
   "betterdungeons:zombie_dungeon": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-06-30 01:30:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/fast_travel": {
-    "criteria": {
-      "travelled": "2025-06-30 01:05:14 +0000"
     },
     "done": true
   },
