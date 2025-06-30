@@ -242,6 +242,7 @@
       "glow_berries": "2025-06-11 04:29:41 +0000",
       "beetroot": "2025-06-11 03:52:33 +0000",
       "golden_carrot": "2025-06-23 02:01:36 +0000",
+      "cooked_rabbit": "2025-06-30 02:17:46 +0000",
       "cooked_chicken": "2025-06-08 22:13:11 +0000",
       "enchanted_golden_apple": "2025-06-14 21:10:22 +0000",
       "mushroom_stew": "2025-06-15 21:04:55 +0000",
@@ -962,15 +963,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-06-30 01:48:30 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed_by": "2025-06-30 01:56:17 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_egg": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "egg": "2025-06-30 01:48:30 +0000"
+      "in_better_fortress": "2025-06-30 02:16:43 +0000"
     },
     "done": true
   },

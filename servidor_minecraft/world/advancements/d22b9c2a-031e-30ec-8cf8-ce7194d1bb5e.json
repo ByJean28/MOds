@@ -294,6 +294,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-06-30 02:16:25 +0000",
       "minecraft:skeleton": "2025-06-08 22:55:31 +0000",
       "minecraft:ghast": "2025-06-15 23:14:29 +0000",
       "minecraft:hoglin": "2025-06-30 01:14:27 +0000",
@@ -557,9 +558,10 @@
       "minecraft:crimson_forest": "2025-06-30 01:00:42 +0000",
       "minecraft:nether_wastes": "2025-06-14 05:47:46 +0000",
       "minecraft:soul_sand_valley": "2025-06-15 23:26:50 +0000",
-      "minecraft:basalt_deltas": "2025-06-15 22:53:16 +0000"
+      "minecraft:basalt_deltas": "2025-06-15 22:53:16 +0000",
+      "minecraft:warped_forest": "2025-06-30 02:10:48 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:root": {
     "criteria": {
@@ -691,6 +693,8 @@
     "criteria": {
       "incendium:ash_barrens": "2025-06-15 23:25:21 +0000",
       "incendium:weeping_valley": "2025-06-30 01:57:02 +0000",
+      "incendium:quartz_flats": "2025-06-30 02:10:53 +0000",
+      "incendium:inverted_forest": "2025-06-30 02:14:08 +0000",
       "incendium:toxic_heap": "2025-06-15 23:05:18 +0000"
     },
     "done": false
@@ -852,6 +856,12 @@
     },
     "done": true
   },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-06-30 01:05:16 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_bandit_village": {
     "criteria": {
       "location0": "2025-06-30 01:12:45 +0000"
@@ -870,21 +880,27 @@
     },
     "done": true
   },
-  "enemyexpansion:troll_hunter": {
-    "criteria": {
-      "troll_hunter_0": "2025-06-30 01:49:02 +0000"
-    },
-    "done": true
-  },
   "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
       "egg": "2025-06-30 01:48:17 +0000"
     },
     "done": true
   },
-  "minecraft:nether/fast_travel": {
+  "enemyexpansion:troll_hunter": {
     "criteria": {
-      "travelled": "2025-06-30 01:05:16 +0000"
+      "troll_hunter_0": "2025-06-30 01:49:02 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-06-30 02:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-06-30 02:14:27 +0000"
     },
     "done": true
   },
