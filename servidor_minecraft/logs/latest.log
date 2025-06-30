@@ -728,3 +728,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Jun2025 02:20:21.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 left the game
 [30Jun2025 02:20:37.630] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pulpleito8[/127.73.31.138:52951] logged in with entity id 53511 at (1.9323583592620626, 162.3725441161386, 506.44634158412924)
 [30Jun2025 02:20:37.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 joined the game
+[30Jun2025 02:21:37.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[30Jun2025 02:22:03.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[30Jun2025 02:29:56.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [The Song of the Dragons]
+[30Jun2025 02:30:38.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Splintering II]
