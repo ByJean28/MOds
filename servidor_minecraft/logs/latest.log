@@ -680,3 +680,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Jun2025 01:48:17.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Mother of Dragons]
 [30Jun2025 01:48:30.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Mother of Dragons]
 [30Jun2025 01:49:02.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has reached the goal [Troll Hunter]
+[30Jun2025 01:52:09.021] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7555, y=-44, z=-2153} BlockPos{x=-7555, y=-43, z=-2154}
+[30Jun2025 01:52:16.916] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7557, y=-42, z=-2156} BlockPos{x=-7560, y=-42, z=-2156}
+[30Jun2025 01:52:32.916] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7581, y=-44, z=-2159} BlockPos{x=-7579, y=-45, z=-2160}
+[30Jun2025 01:52:32.968] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7581, y=-44, z=-2159} BlockPos{x=-7579, y=-45, z=-2160}
+[30Jun2025 01:52:33.021] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7581, y=-44, z=-2159} BlockPos{x=-7579, y=-45, z=-2160}
+[30Jun2025 01:52:33.219] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7582, y=-44, z=-2159} BlockPos{x=-7583, y=-44, z=-2160}
+[30Jun2025 01:52:33.268] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7582, y=-44, z=-2159} BlockPos{x=-7583, y=-44, z=-2160}
+[30Jun2025 01:52:33.316] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7582, y=-44, z=-2159} BlockPos{x=-7583, y=-44, z=-2160}
+[30Jun2025 01:52:40.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[30Jun2025 01:55:40.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[30Jun2025 01:56:01.242] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2299ms or 45 ticks behind
+[30Jun2025 01:56:17.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Nightmare Fuel]
+[30Jun2025 01:57:30.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[30Jun2025 01:59:13.808] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2165ms or 43 ticks behind

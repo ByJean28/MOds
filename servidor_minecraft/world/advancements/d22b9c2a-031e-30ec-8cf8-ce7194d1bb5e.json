@@ -690,6 +690,7 @@
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:ash_barrens": "2025-06-15 23:25:21 +0000",
+      "incendium:weeping_valley": "2025-06-30 01:57:02 +0000",
       "incendium:toxic_heap": "2025-06-15 23:05:18 +0000"
     },
     "done": false
@@ -866,6 +867,18 @@
   "tombstone:adventure/use_purification": {
     "criteria": {
       "has_magic_scroll": "2025-06-30 01:30:41 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:troll_hunter": {
+    "criteria": {
+      "troll_hunter_0": "2025-06-30 01:49:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-06-30 01:48:17 +0000"
     },
     "done": true
   },
