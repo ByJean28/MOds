@@ -634,3 +634,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jul2025 01:30:20.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
 [01Jul2025 01:30:32.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set the weather to clear]
 [01Jul2025 01:37:15.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[01Jul2025 01:41:51.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Spectator Mode]
+[01Jul2025 01:43:41.915] [Worker-Main-37/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jul2025 01:43:41.915] [Worker-Main-37/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jul2025 01:44:48.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pulpleito8> -362 6 877
+[01Jul2025 01:45:17.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Alex's Caves]
+[01Jul2025 01:45:47.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[01Jul2025 01:46:03.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
+[01Jul2025 01:46:54.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[01Jul2025 01:48:53.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
