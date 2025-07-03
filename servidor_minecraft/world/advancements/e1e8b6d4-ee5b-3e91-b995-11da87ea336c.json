@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-03 04:08:02 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_recipe": "2025-07-03 03:50:27 +0000"
@@ -47,9 +53,40 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-07-03 04:04:01 +0000",
+      "minecraft:basalt_deltas": "2025-07-03 04:10:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-07-03 04:04:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-03 04:04:00 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:theundeadchallenges": {
     "criteria": {
       "theundeadchallenges": "2025-07-03 03:50:27 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:quartz_flats": "2025-07-03 04:11:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-07-03 04:03:27 +0000"
     },
     "done": true
   },
@@ -59,9 +96,27 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-03 04:04:00 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2025-07-03 03:50:27 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-07-03 04:11:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-07-03 04:07:21 +0000"
     },
     "done": true
   },
@@ -97,7 +152,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-07-03 04:01:21 +0000"
+      "minecraft:skeleton": "2025-07-03 04:01:21 +0000",
+      "minecraft:piglin": "2025-07-03 04:05:09 +0000",
+      "quark:foxhound": "2025-07-03 04:05:23 +0000"
     },
     "done": false
   },
@@ -140,6 +197,12 @@
     },
     "done": true
   },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:quartz_flats": "2025-07-03 04:11:05 +0000"
+    },
+    "done": false
+  },
   "explorerscompass:explorers_compass_cobweb": {
     "criteria": {
       "has_recipe": "2025-07-03 03:50:27 +0000"
@@ -154,6 +217,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2025-07-03 04:03:06 +0000",
       "cookie": "2025-07-03 03:55:33 +0000"
     },
     "done": false
@@ -173,6 +237,12 @@
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-07-03 03:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-07-03 04:13:07 +0000"
     },
     "done": true
   },

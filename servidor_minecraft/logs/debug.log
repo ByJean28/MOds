@@ -8263,3 +8263,71 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jul2025 04:06:03.753] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:16, y:34, z:256, dim:minecraft:the_nether]
 [03Jul2025 04:06:03.759] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
 [03Jul2025 04:06:05.703] [Server thread/DEBUG] [twilightforest/]: Player ByJean2812 (3808f9c7-7752-31e7-94ba-300fec15b4b8) respawned and received items held in storage
+[03Jul2025 04:07:21.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [Acquire Hardware]
+[03Jul2025 04:08:02.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [Isn't It Iron Pick]
+[03Jul2025 04:08:06.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 04:08:06.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 04:09:37.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Nightmare Fuel]
+[03Jul2025 04:09:50.334] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[03Jul2025 04:10:04.495] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/13031, l='ServerLevel[world]', x=-126.67, y=-20.00, z=281.46] died: Toxic Slime was killed
+[03Jul2025 04:10:07.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2347ms or 46 ticks behind
+[03Jul2025 04:10:20.343] [Worker-Main-12/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[03Jul2025 04:10:20.344] [Worker-Main-12/DEBUG] [mixin/]: Mixing common.accessor.WorldGenRegionAccessor from aether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[03Jul2025 04:10:20.344] [Worker-Main-12/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betteroceanmonuments.mixins.json into net.minecraft.server.level.WorldGenRegion
+[03Jul2025 04:10:20.344] [Worker-Main-12/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[03Jul2025 04:10:20.344] [Worker-Main-12/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[03Jul2025 04:10:20.344] [Worker-Main-12/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterjungletemples.mixins.json into net.minecraft.server.level.WorldGenRegion
+[03Jul2025 04:10:20.344] [Worker-Main-12/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[03Jul2025 04:10:20.345] [Worker-Main-12/DEBUG] [mixin/]: Mixing SpawnerBlockListener from brutalbosses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[03Jul2025 04:10:20.345] [Worker-Main-12/DEBUG] [mixin/]: brutalbosses.mixins.json:SpawnerBlockListener: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[03Jul2025 04:10:20.347] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[03Jul2025 04:10:20.348] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[03Jul2025 04:10:20.348] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[03Jul2025 04:10:20.348] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[03Jul2025 04:10:20.348] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[03Jul2025 04:10:20.348] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[03Jul2025 04:10:20.348] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[03Jul2025 04:10:20.348] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[03Jul2025 04:10:20.348] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[03Jul2025 04:10:20.349] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[03Jul2025 04:10:20.349] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[03Jul2025 04:10:20.349] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[03Jul2025 04:10:20.349] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[03Jul2025 04:10:20.349] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[03Jul2025 04:10:20.349] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[03Jul2025 04:10:20.349] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[03Jul2025 04:10:20.881] [Worker-Main-10/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[03Jul2025 04:10:20.883] [Worker-Main-10/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[03Jul2025 04:10:24.841] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2222ms or 44 ticks behind
+[03Jul2025 04:10:29.927] [Worker-Main-43/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:witherskeletonrangedboss at BlockPos{x=-65, y=85, z=939} at Chest with:minecraft:chests/nether_bridge
+[03Jul2025 04:10:49.317] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:piglinbruteboss at BlockPos{x=-9, y=24, z=1014} at Chest with:minecraft:chests/nether_bridge
+[03Jul2025 04:11:02.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Pulpleito8]
+[03Jul2025 04:11:03.186] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:piglinbruteboss at BlockPos{x=-236, y=35, z=1027} at Chest with:minecraft:chests/bastion_other
+[03Jul2025 04:11:03.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Hellish Paradise]
+[03Jul2025 04:11:03.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Strange Biomes]
+[03Jul2025 04:11:04.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to Pulpleito8]
+[03Jul2025 04:11:05.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [Hellish Paradise]
+[03Jul2025 04:11:05.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [Strange Biomes]
+[03Jul2025 04:11:14.264] [Worker-Main-12/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:piglinbruteboss at BlockPos{x=-107, y=52, z=1111} at Chest with:minecraft:chests/nether_bridge
+[03Jul2025 04:11:23.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Monster Hunter]
+[03Jul2025 04:11:39.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [The Floor is Tears]
+[03Jul2025 04:12:32.862] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[03Jul2025 04:12:49.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [The Dust Settles]
+[03Jul2025 04:13:07.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [A Terrible Fortress]
+[03Jul2025 04:13:13.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 04:13:13.252] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 04:13:20.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Pulpleito8]
+[03Jul2025 04:13:21.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [A Terrible Fortress]
+[03Jul2025 04:13:29.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Stare Into Despair]
+[03Jul2025 04:14:17.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [A Strange Grave Dust]
+[03Jul2025 04:14:31.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported Pulpleito8 to ByJean2812]
+[03Jul2025 04:14:35.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [Diamonds!]
+[03Jul2025 04:14:37.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [The Beginning of An Adventure]
+[03Jul2025 04:14:37.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [Stare Into Despair]
+[03Jul2025 04:14:44.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[03Jul2025 04:14:53.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [Into Fire]
+[03Jul2025 04:15:02.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[03Jul2025 04:15:23.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Hellish Paradise]
+[03Jul2025 04:16:43.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [The Beginning of An Adventure]
+[03Jul2025 04:16:43.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Stare Into Despair]
+[03Jul2025 04:16:50.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Acquire Hardware]

@@ -31,13 +31,19 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 04:03:06 +0000"
+      "log_spam_fixer": "2025-07-03 04:13:13 +0000"
     },
     "done": false
   },
+  "incendium:quartz_flats/floor_is_tears": {
+    "criteria": {
+      "requirement": "2025-07-03 04:11:39 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 04:03:06 +0000"
+      "log_spam_fixer": "2025-07-03 04:13:13 +0000"
     },
     "done": false
   },
@@ -49,7 +55,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 04:03:06 +0000"
+      "log_spam_fixer": "2025-07-03 04:13:13 +0000"
     },
     "done": false
   },
@@ -65,9 +71,34 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-07-03 04:04:52 +0000",
+      "minecraft:basalt_deltas": "2025-07-03 04:05:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-07-03 04:04:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-03 04:04:52 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:theundeadchallenges": {
     "criteria": {
       "theundeadchallenges": "2025-07-03 03:47:09 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:quartz_flats": "2025-07-03 04:11:03 +0000"
     },
     "done": true
   },
@@ -101,6 +132,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-03 04:04:52 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2025-07-03 03:47:09 +0000"
@@ -109,9 +146,15 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 04:03:06 +0000"
+      "log_spam_fixer": "2025-07-03 04:13:13 +0000"
     },
     "done": false
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-07-03 04:11:03 +0000"
+    },
+    "done": true
   },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
@@ -121,7 +164,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 04:03:06 +0000"
+      "log_spam_fixer": "2025-07-03 04:13:13 +0000"
     },
     "done": false
   },
@@ -133,7 +176,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 04:03:06 +0000"
+      "log_spam_fixer": "2025-07-03 04:13:13 +0000"
     },
     "done": false
   },
@@ -173,6 +216,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-07-03 04:11:23 +0000"
+    },
+    "done": false
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-07-03 03:47:09 +0000"
@@ -185,9 +234,15 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-07-03 04:11:23 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 04:03:06 +0000"
+      "log_spam_fixer": "2025-07-03 04:13:13 +0000"
     },
     "done": false
   },
@@ -201,7 +256,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 04:03:06 +0000"
+      "log_spam_fixer": "2025-07-03 04:13:13 +0000"
     },
     "done": false
   },
@@ -213,7 +268,14 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 04:03:06 +0000"
+      "log_spam_fixer": "2025-07-03 04:13:13 +0000"
+    },
+    "done": false
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:ash_barrens": "2025-07-03 04:12:49 +0000",
+      "incendium:quartz_flats": "2025-07-03 04:11:03 +0000"
     },
     "done": false
   },
@@ -250,9 +312,15 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 04:03:06 +0000"
+      "log_spam_fixer": "2025-07-03 04:13:13 +0000"
     },
     "done": false
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2025-07-03 04:12:49 +0000"
+    },
+    "done": true
   },
   "betterdeserttemples:root": {
     "criteria": {
@@ -286,13 +354,13 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 04:03:06 +0000"
+      "log_spam_fixer": "2025-07-03 04:13:13 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 04:03:06 +0000"
+      "log_spam_fixer": "2025-07-03 04:13:13 +0000"
     },
     "done": false
   },
