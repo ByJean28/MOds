@@ -296,6 +296,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-06-15 18:45:36 +0000",
+      "minecraft:blaze": "2025-07-03 04:15:15 +0000",
       "minecraft:skeleton": "2025-06-08 23:08:40 +0000",
       "minecraft:ghast": "2025-06-15 23:15:48 +0000",
       "minecraft:hoglin": "2025-06-15 23:28:20 +0000",
@@ -760,6 +761,7 @@
     "criteria": {
       "incendium:ash_barrens": "2025-06-15 23:25:26 +0000",
       "incendium:weeping_valley": "2025-06-30 01:57:16 +0000",
+      "incendium:quartz_flats": "2025-07-03 04:15:23 +0000",
       "incendium:inverted_forest": "2025-06-30 01:03:55 +0000",
       "incendium:toxic_heap": "2025-06-15 23:05:04 +0000"
     },
@@ -1000,9 +1002,27 @@
     },
     "done": true
   },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-07-03 04:18:54 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-07-03 04:15:23 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragonbone_flaming_sword": {
     "criteria": {
       "sword": "2025-07-03 04:01:36 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/enter_castle": {
+    "criteria": {
+      "requirement": "2025-07-03 04:25:19 +0000"
     },
     "done": true
   },

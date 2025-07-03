@@ -8331,3 +8331,128 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jul2025 04:16:43.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [The Beginning of An Adventure]
 [03Jul2025 04:16:43.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Stare Into Despair]
 [03Jul2025 04:16:50.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Acquire Hardware]
+[03Jul2025 04:18:00.149] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:rabbitboss at BlockPos{x=294, y=31, z=894} at Chest with:minecraft:chests/ruined_portal
+[03Jul2025 04:18:13.216] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 04:18:13.234] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 04:18:14.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 fell from a high place
+[03Jul2025 04:18:14.758] [Server thread/DEBUG] [tombstone/]: A new grave of the player zens25 was created at position [x:-65, y:42, z:1017, dim:minecraft:the_nether]
+[03Jul2025 04:18:14.764] [Server thread/INFO] [tombstone/]: The player zens25 has successfully been saved
+[03Jul2025 04:18:19.929] [Server thread/DEBUG] [twilightforest/]: Player zens25 (bf71d5c8-39e5-3bc8-90c6-fa665d48c29c) respawned and received items held in storage
+[03Jul2025 04:18:26.548] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:ghastboss at BlockPos{x=388, y=36, z=614} at Chest with:minecraft:chests/bastion_other
+[03Jul2025 04:18:26.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[03Jul2025 04:18:33.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Knowledge of Death]
+[03Jul2025 04:18:33.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has reached the goal [Here They Come]
+[03Jul2025 04:18:34.218] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-63, y=99, z=70}
+[03Jul2025 04:18:34.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to Ale_sweeney]
+[03Jul2025 04:18:42.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Ale_sweeney]
+[03Jul2025 04:18:53.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Knowledge raises the soul]
+[03Jul2025 04:18:54.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Oh Shiny]
+[03Jul2025 04:19:52.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 fell from a high place
+[03Jul2025 04:19:52.464] [Server thread/INFO] [tombstone/]: The player zens25 has successfully been saved
+[03Jul2025 04:19:54.198] [Server thread/DEBUG] [twilightforest/]: Player zens25 (bf71d5c8-39e5-3bc8-90c6-fa665d48c29c) respawned and received items held in storage
+[03Jul2025 04:19:58.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Ale_sweeney]
+[03Jul2025 04:20:00.899] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/17083, l='ServerLevel[world]', x=170.98, y=32.00, z=801.62] died: Piglin Paratrooper was shot by ByJean2812
+[03Jul2025 04:20:12.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [The Dust Settles]
+[03Jul2025 04:20:29.059] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
+[03Jul2025 04:20:48.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Spooky Scary Skeleton]
+[03Jul2025 04:21:14.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[03Jul2025 04:21:39.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [Amateur Archaeologist]
+[03Jul2025 04:21:40.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [Magic Writing]
+[03Jul2025 04:21:57.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [Knowledge of Death]
+[03Jul2025 04:21:57.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has reached the goal [Great minds think alike]
+[03Jul2025 04:22:26.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Spectator Mode]
+[03Jul2025 04:23:04.464] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-218, y=10, z=-283}
+[03Jul2025 04:23:12.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Pulpleito8]
+[03Jul2025 04:23:13.259] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 04:23:13.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 04:23:42.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[03Jul2025 04:23:46.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zens25> tp
+[03Jul2025 04:23:50.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Pulpleito8]
+[03Jul2025 04:23:59.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to Pulpleito8]
+[03Jul2025 04:24:08.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
+[03Jul2025 04:25:19.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has reached the goal [In the Hall of the Piglin King]
+[03Jul2025 04:25:28.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 fell from a high place
+[03Jul2025 04:25:28.198] [Server thread/DEBUG] [tombstone/]: A new grave of the player zens25 was created at position [x:231, y:32, z:753, dim:minecraft:the_nether]
+[03Jul2025 04:25:28.203] [Server thread/INFO] [tombstone/]: The player zens25 has successfully been saved
+[03Jul2025 04:25:28.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 fell from a high place
+[03Jul2025 04:25:28.397] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:234, y:32, z:755, dim:minecraft:the_nether]
+[03Jul2025 04:25:28.403] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[03Jul2025 04:25:30.491] [Server thread/DEBUG] [twilightforest/]: Player zens25 (bf71d5c8-39e5-3bc8-90c6-fa665d48c29c) respawned and received items held in storage
+[03Jul2025 04:25:33.860] [Server thread/DEBUG] [twilightforest/]: Player ByJean2812 (3808f9c7-7752-31e7-94ba-300fec15b4b8) respawned and received items held in storage
+[03Jul2025 04:25:36.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Pulpleito8]
+[03Jul2025 04:25:43.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[03Jul2025 04:25:52.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has reached the goal [In the Hall of the Piglin King]
+[03Jul2025 04:25:55.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has reached the goal [In the Hall of the Piglin King]
+[03Jul2025 04:25:59.542] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[03Jul2025 04:25:59.542] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[03Jul2025 04:25:59.542] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[03Jul2025 04:25:59.542] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[03Jul2025 04:26:09.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[03Jul2025 04:26:11.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Pulpleito8]
+[03Jul2025 04:26:12.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has reached the goal [In the Hall of the Piglin King]
+[03Jul2025 04:26:18.934] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Archer'/17748, l='ServerLevel[world]', x=229.67, y=73.28, z=768.30] died: Piglin Archer suffocated in a wall whilst fighting ByJean2812
+[03Jul2025 04:27:47.195] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/17088, l='ServerLevel[world]', x=202.67, y=36.00, z=760.66] died: Piglin Knight was slain by Pulpleito8
+[03Jul2025 04:27:57.949] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[03Jul2025 04:27:57.949] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[03Jul2025 04:27:57.949] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[03Jul2025 04:27:57.949] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[03Jul2025 04:27:57.949] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[03Jul2025 04:27:57.949] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[03Jul2025 04:28:01.566] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[03Jul2025 04:28:01.566] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[03Jul2025 04:28:01.567] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[03Jul2025 04:28:01.567] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[03Jul2025 04:28:13.215] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 04:28:13.235] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 04:28:18.537] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/17749, l='ServerLevel[world]', x=232.06, y=36.00, z=726.43] died: Piglin Knight was burnt to a crisp whilst fighting ByJean2812
+[03Jul2025 04:28:24.808] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[03Jul2025 04:28:24.808] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[03Jul2025 04:28:24.808] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[03Jul2025 04:28:24.808] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[03Jul2025 04:28:24.808] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[03Jul2025 04:28:24.808] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[03Jul2025 04:28:24.809] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[03Jul2025 04:28:51.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 was slain by Piglin Paratrooper
+[03Jul2025 04:28:51.386] [Server thread/DEBUG] [tombstone/]: A new grave of the player zens25 was created at position [x:219, y:54, z:748, dim:minecraft:the_nether]
+[03Jul2025 04:28:51.423] [Server thread/INFO] [tombstone/]: The player zens25 has successfully been saved
+[03Jul2025 04:28:52.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Pulpleito8]
+[03Jul2025 04:28:52.952] [Server thread/DEBUG] [twilightforest/]: Player zens25 (bf71d5c8-39e5-3bc8-90c6-fa665d48c29c) respawned and received items held in storage
+[03Jul2025 04:29:14.246] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/17805, l='ServerLevel[world]', x=239.84, y=32.00, z=746.94] died: Piglin Paratrooper was doomed to fall by Ale_sweeney
+[03Jul2025 04:29:17.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to Ale_sweeney]
+[03Jul2025 04:29:23.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Pulpleito8]
+[03Jul2025 04:29:59.793] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/17493, l='ServerLevel[world]', x=223.66, y=54.50, z=748.71] died: Piglin Paratrooper was slain by zens25
+[03Jul2025 04:30:24.100] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/17084, l='ServerLevel[world]', x=196.72, y=54.00, z=757.28] died: Piglin Paratrooper was slain by Ale_sweeney
+[03Jul2025 04:30:30.396] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Scout'/17648, l='ServerLevel[world]', x=241.50, y=36.00, z=720.47] died: Piglin Scout was shot by ByJean2812
+[03Jul2025 04:30:45.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Piglin Paratrooper
+[03Jul2025 04:30:45.541] [Server thread/DEBUG] [tombstone/]: A new grave of the player Pulpleito8 was created at position [x:239, y:54, z:696, dim:minecraft:the_nether]
+[03Jul2025 04:30:45.555] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[03Jul2025 04:30:48.331] [Server thread/DEBUG] [twilightforest/]: Player Pulpleito8 (d22b9c2a-031e-30ec-8cf8-ce7194d1bb5e) respawned and received items held in storage
+[03Jul2025 04:30:55.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to Ale_sweeney]
+[03Jul2025 04:30:58.040] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/17804, l='ServerLevel[world]', x=252.38, y=29.00, z=755.70] died: Piglin Paratrooper tried to swim in lava
+[03Jul2025 04:31:15.847] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/17646, l='ServerLevel[world]', x=241.39, y=37.00, z=718.94] died: Piglin Knight was slain by ByJean2812
+[03Jul2025 04:31:35.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to Ale_sweeney]
+[03Jul2025 04:31:40.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney was doomed to fall
+[03Jul2025 04:31:40.209] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ale_sweeney was created at position [x:204, y:42, z:763, dim:minecraft:the_nether]
+[03Jul2025 04:31:40.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [Your First Grave]
+[03Jul2025 04:31:40.216] [Server thread/INFO] [tombstone/]: The player Ale_sweeney has successfully been saved
+[03Jul2025 04:31:43.980] [Server thread/DEBUG] [twilightforest/]: Player Ale_sweeney (e1e8b6d4-ee5b-3e91-b995-11da87ea336c) respawned and received items held in storage
+[03Jul2025 04:31:49.053] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-57, y=105, z=82}
+[03Jul2025 04:31:49.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
+[03Jul2025 04:32:26.692] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Alchemist'/17603, l='ServerLevel[world]', x=205.53, y=55.42, z=762.49] died: Piglin Alchemist was slain by ByJean2812
+[03Jul2025 04:32:49.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has reached the goal [Here They Come]
+[03Jul2025 04:33:13.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 04:33:13.225] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 04:35:10.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [The Most Useful Key]
+[03Jul2025 04:35:17.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has reached the goal [A Fast Comeback]
+[03Jul2025 04:35:20.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has reached the goal [Discreet Search]
+[03Jul2025 04:35:27.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
+[03Jul2025 04:35:43.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [Alex's Mobs]
+[03Jul2025 04:36:55.092] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Alchemist'/17573, l='ServerLevel[world]', x=207.70, y=54.46, z=740.07] died: Piglin Alchemist was slain by ByJean2812
+[03Jul2025 04:37:01.345] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/17717, l='ServerLevel[world]', x=200.59, y=54.00, z=744.44] died: Piglin Paratrooper was shot by Pulpleito8
+[03Jul2025 04:37:04.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 was slain by Piglin Scout
+[03Jul2025 04:37:04.141] [Server thread/DEBUG] [tombstone/]: A new grave of the player zens25 was created at position [x:197, y:54, z:736, dim:minecraft:the_nether]
+[03Jul2025 04:37:04.159] [Server thread/INFO] [tombstone/]: The player zens25 has successfully been saved
+[03Jul2025 04:37:04.542] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Alchemist'/17574, l='ServerLevel[world]', x=203.53, y=55.23, z=744.58] died: Piglin Alchemist was shot by ByJean2812
+[03Jul2025 04:37:05.441] [Server thread/DEBUG] [twilightforest/]: Player zens25 (bf71d5c8-39e5-3bc8-90c6-fa665d48c29c) respawned and received items held in storage
+[03Jul2025 04:37:17.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Pulpleito8]
+[03Jul2025 04:37:22.858] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Scout'/17649, l='ServerLevel[world]', x=204.93, y=54.00, z=741.50] died: Piglin Scout was slain by ByJean2812
