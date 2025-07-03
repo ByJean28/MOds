@@ -132,6 +132,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-07-03 04:35:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-07-03 04:14:53 +0000"
@@ -201,6 +207,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-07-03 03:50:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-07-03 04:35:17 +0000"
     },
     "done": true
   },
@@ -277,7 +289,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-07-03 04:03:06 +0000",
-      "cookie": "2025-07-03 03:55:33 +0000"
+      "cookie": "2025-07-03 03:55:33 +0000",
+      "golden_carrot": "2025-07-03 04:41:48 +0000"
     },
     "done": false
   },
@@ -296,6 +309,18 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-07-03 03:55:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2025-07-03 04:35:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-07-03 04:35:10 +0000"
     },
     "done": true
   },
