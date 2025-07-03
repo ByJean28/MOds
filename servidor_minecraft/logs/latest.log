@@ -590,3 +590,50 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jul2025 03:41:25.663] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ByJean2812[/127.171.90.144:32967] logged in with entity id 1545 at (-418.69999998807907, -5.0, 944.7121132706585)
 [03Jul2025 03:41:25.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 joined the game
 [03Jul2025 03:41:28.266] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2647ms or 52 ticks behind
+[03Jul2025 03:47:09.132] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zens25[/127.20.236.71:43589] logged in with entity id 2723 at (-43.5, 101.0, 70.5)
+[03Jul2025 03:47:09.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 joined the game
+[03Jul2025 03:47:09.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Ice and Fire]
+[03Jul2025 03:47:09.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has completed the challenge [The Undead]
+[03Jul2025 03:47:23.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Alex's Mobs]
+[03Jul2025 03:48:28.423] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pulpleito8[/127.73.31.138:55423] logged in with entity id 3537 at (-365.05477681905677, 65.0, 856.5086782238029)
+[03Jul2025 03:48:28.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 joined the game
+[03Jul2025 03:49:09.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported zens25 to ByJean2812]
+[03Jul2025 03:49:10.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[03Jul2025 03:50:02.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Stone Age]
+[03Jul2025 03:50:27.584] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ale_sweeney[/127.0.131.28:48135] logged in with entity id 4277 at (-45.5, 108.0, 87.5)
+[03Jul2025 03:50:27.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney joined the game
+[03Jul2025 03:50:27.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [Ice and Fire]
+[03Jul2025 03:50:27.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has completed the challenge [The Undead]
+[03Jul2025 03:50:34.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [When in Rome]
+[03Jul2025 03:50:53.015] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-53, y=104, z=86}
+[03Jul2025 03:50:53.212] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-52, y=104, z=86}
+[03Jul2025 03:50:54.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to Ale_sweeney]
+[03Jul2025 03:50:54.391] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-53, y=103, z=86}
+[03Jul2025 03:51:06.518] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-55, y=104, z=82}
+[03Jul2025 03:51:08.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Ale_sweeney]
+[03Jul2025 03:51:09.189] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-56, y=104, z=82}
+[03Jul2025 03:51:10.115] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-56, y=105, z=81}
+[03Jul2025 03:51:19.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Ale_sweeney]
+[03Jul2025 03:52:46.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 was doomed to fall by ByJean2812
+[03Jul2025 03:52:46.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Your First Grave]
+[03Jul2025 03:52:46.233] [Server thread/INFO] [tombstone/]: The player zens25 has successfully been saved
+[03Jul2025 03:53:14.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[03Jul2025 03:53:24.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to Pulpleito8]
+[03Jul2025 03:53:35.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Pulpleito8]
+[03Jul2025 03:55:21.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Suit Up]
+[03Jul2025 03:55:45.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [Suit Up]
+[03Jul2025 03:57:17.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[03Jul2025 03:59:26.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [The Parrots and the Bats]
+[03Jul2025 04:01:09.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [A Flaming Sword]
+[03Jul2025 04:01:21.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [Monster Hunter]
+[03Jul2025 04:01:36.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [A Flaming Sword]
+[03Jul2025 04:02:14.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [A Flaming Sword]
+[03Jul2025 04:02:16.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [A Flaming Sword]
+[03Jul2025 04:03:27.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [Stone Age]
+[03Jul2025 04:04:00.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [Incendium]
+[03Jul2025 04:04:00.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [We Need to Go Deeper]
+[03Jul2025 04:04:52.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Incendium]
+[03Jul2025 04:04:52.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [We Need to Go Deeper]
+[03Jul2025 04:05:15.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Pulpleito8]
+[03Jul2025 04:06:03.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 fell from a high place
+[03Jul2025 04:06:03.759] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
