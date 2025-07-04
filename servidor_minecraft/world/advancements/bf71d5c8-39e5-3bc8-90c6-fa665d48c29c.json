@@ -286,7 +286,8 @@
       "minecraft:creeper": "2025-07-04 02:48:10 +0000",
       "minecraft:zombified_piglin": "2025-07-03 04:14:02 +0000",
       "minecraft:wither_skeleton": "2025-07-03 04:14:17 +0000",
-      "minecraft:piglin": "2025-07-03 04:24:01 +0000"
+      "minecraft:piglin": "2025-07-03 04:24:01 +0000",
+      "minecraft:zombie": "2025-07-04 03:06:30 +0000"
     },
     "done": false
   },
@@ -386,9 +387,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-04 03:05:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-07-04 03:02:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-07-04 03:10:35 +0000"
     },
     "done": true
   },
