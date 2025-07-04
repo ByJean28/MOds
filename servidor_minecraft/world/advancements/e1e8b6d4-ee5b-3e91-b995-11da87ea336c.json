@@ -381,21 +381,27 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-07-04 02:54:51 +0000"
-    },
-    "done": false
-  },
   "incendium:ash_barrens/conquer_castle": {
     "criteria": {
       "requirement": "2025-07-04 02:44:29 +0000"
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-07-04 03:04:51 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:nightnight": {
     "criteria": {
       "nightnight": "2025-07-04 02:44:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-07-04 02:57:06 +0000"
     },
     "done": true
   },
