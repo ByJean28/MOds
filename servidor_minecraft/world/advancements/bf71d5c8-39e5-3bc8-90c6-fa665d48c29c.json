@@ -128,6 +128,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cherry_grove": "2025-07-03 03:53:35 +0000",
+      "minecraft:river": "2025-07-04 02:46:11 +0000",
       "minecraft:forest": "2025-07-03 03:47:10 +0000",
       "minecraft:savanna": "2025-07-04 02:43:33 +0000",
       "minecraft:plains": "2025-07-03 03:49:10 +0000"
@@ -281,6 +282,8 @@
       "minecraft:skeleton": "2025-07-03 04:11:23 +0000",
       "minecraft:magma_cube": "2025-07-03 04:23:54 +0000",
       "minecraft:piglin_brute": "2025-07-03 04:29:59 +0000",
+      "minecraft:spider": "2025-07-04 02:47:44 +0000",
+      "minecraft:creeper": "2025-07-04 02:48:10 +0000",
       "minecraft:zombified_piglin": "2025-07-03 04:14:02 +0000",
       "minecraft:wither_skeleton": "2025-07-03 04:14:17 +0000",
       "minecraft:piglin": "2025-07-03 04:24:01 +0000"
@@ -368,6 +371,18 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2025-07-03 04:51:02 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:nowyouknow": {
+    "criteria": {
+      "nowyouknow": "2025-07-04 02:50:39 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2025-07-04 02:46:56 +0000"
     },
     "done": true
   },

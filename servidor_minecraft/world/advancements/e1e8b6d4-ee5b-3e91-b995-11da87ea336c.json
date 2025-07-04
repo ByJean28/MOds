@@ -128,7 +128,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cherry_grove": "2025-07-03 03:53:24 +0000",
+      "minecraft:birch_forest": "2025-07-04 02:49:04 +0000",
+      "minecraft:river": "2025-07-04 02:50:49 +0000",
       "minecraft:forest": "2025-07-03 03:50:28 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-04 02:50:07 +0000",
       "minecraft:savanna": "2025-07-03 04:00:14 +0000",
       "minecraft:plains": "2025-07-03 03:53:39 +0000"
     },
@@ -377,6 +380,12 @@
       "useitem": "2025-07-03 04:35:43 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-04 02:54:51 +0000"
+    },
+    "done": false
   },
   "incendium:ash_barrens/conquer_castle": {
     "criteria": {

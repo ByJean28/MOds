@@ -651,3 +651,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Jul2025 02:47:18.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney was slain by Sucker
 [04Jul2025 02:47:19.306] [Server thread/INFO] [tombstone/]: The player Ale_sweeney has successfully been saved
 [04Jul2025 02:47:29.434] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-32, y=95, z=82}
+[04Jul2025 02:50:32.154] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-313, y=64, z=149} BlockPos{x=-313, y=63, z=151}
+[04Jul2025 02:50:32.194] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-313, y=64, z=149} BlockPos{x=-313, y=63, z=151}
+[04Jul2025 02:50:39.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 was squashed by The Bomber
+[04Jul2025 02:50:39.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has completed the challenge [Well, that was disgusting]
+[04Jul2025 02:50:39.225] [Server thread/INFO] [tombstone/]: The player zens25 has successfully been saved
+[04Jul2025 02:51:08.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported zens25 to ByJean2812]
+[04Jul2025 02:51:17.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported Ale_sweeney to zens25]
+[04Jul2025 02:52:58.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney was slain by Piglin Scout
+[04Jul2025 02:52:58.738] [Server thread/INFO] [tombstone/]: The player Ale_sweeney has successfully been saved
+[04Jul2025 02:53:33.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ByJean2812> que
+[04Jul2025 02:53:36.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ByJean2812> ritck
+[04Jul2025 02:53:52.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported Ale_sweeney to zens25]
