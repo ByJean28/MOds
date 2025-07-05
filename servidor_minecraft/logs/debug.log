@@ -9000,3 +9000,43 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jul2025 03:57:17.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was doomed to fall by Corpse Maggot
 [05Jul2025 03:57:17.558] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:506, y:1, z:1564, dim:minecraft:overworld]
 [05Jul2025 03:57:17.564] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[05Jul2025 03:57:44.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[05Jul2025 03:57:51.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ale_sweeney moved too quickly! 8.433726804307511,3.024424088213692,-4.612418077563916
+[05Jul2025 03:57:51.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6061ms or 121 ticks behind
+[05Jul2025 03:57:53.869] [Server thread/DEBUG] [twilightforest/]: Player ByJean2812 (3808f9c7-7752-31e7-94ba-300fec15b4b8) respawned and received items held in storage
+[05Jul2025 03:57:53.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[05Jul2025 03:59:49.409] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=871, y=-43, z=1760} at Chest with:betterdungeons:skeleton_dungeon/chests/common
+[05Jul2025 03:59:52.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 suffocated in a wall whilst fighting Lightning Dragon
+[05Jul2025 03:59:52.660] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:576, y:2, z:1546, dim:minecraft:overworld]
+[05Jul2025 03:59:52.681] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[05Jul2025 03:59:54.080] [Server thread/DEBUG] [twilightforest/]: Player ByJean2812 (3808f9c7-7752-31e7-94ba-300fec15b4b8) respawned and received items held in storage
+[05Jul2025 03:59:56.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[05Jul2025 04:00:25.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[05Jul2025 04:02:13.098] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 04:02:13.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 04:02:18.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[05Jul2025 04:02:21.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[05Jul2025 04:02:30.241] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler
+[05Jul2025 04:03:25.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
+[05Jul2025 04:03:31.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Mother of Dragons]
+[05Jul2025 04:03:45.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set the weather to rain & thunder]
+[05Jul2025 04:04:07.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [The Song of the Dragons]
+[05Jul2025 04:04:20.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [Mother of Dragons]
+[05Jul2025 04:05:25.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [The Song of the Dragons]
+[05Jul2025 04:05:40.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[05Jul2025 04:07:13.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 04:07:13.079] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 04:09:50.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Best Friends Forever]
+[05Jul2025 04:11:33.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Dragon Commander]
+[05Jul2025 04:11:39.981] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 lost connection: Disconnected
+[05Jul2025 04:11:39.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 left the game
+[05Jul2025 04:11:58.383] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByJean2812 lost connection: Disconnected
+[05Jul2025 04:11:58.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 left the game
+[05Jul2025 04:12:00.533] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zens25 lost connection: Disconnected
+[05Jul2025 04:12:00.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 left the game
+[05Jul2025 04:12:12.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 04:12:12.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 04:12:33.778] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ale_sweeney lost connection: Disconnected
+[05Jul2025 04:12:33.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney left the game
+[05Jul2025 04:17:12.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 04:17:12.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
