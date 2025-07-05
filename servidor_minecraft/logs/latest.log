@@ -600,3 +600,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jul2025 02:24:18.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Dragon Growth Hormone]
 [05Jul2025 02:28:21.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set the weather to clear]
 [05Jul2025 02:35:18.275] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14928, l='ServerLevel[world]', x=-594.50, y=75.00, z=614.50]
+[05Jul2025 02:36:25.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[05Jul2025 02:36:36.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Pulpleito8]
+[05Jul2025 02:37:08.192] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16745, l='ServerLevel[world]', x=-596.50, y=75.00, z=614.50]
+[05Jul2025 02:37:16.378] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16990, l='ServerLevel[world]', x=-535.50, y=69.00, z=525.50]
+[05Jul2025 02:40:42.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Pulpleito8]
+[05Jul2025 02:42:03.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has reached the goal [Strong or Careful]
+[05Jul2025 02:42:03.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 fell from a high place
+[05Jul2025 02:42:03.436] [Server thread/INFO] [tombstone/]: The player zens25 has successfully been saved
+[05Jul2025 02:42:10.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Pulpleito8]
+[05Jul2025 02:42:24.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zens25 was kicked for floating too long!
+[05Jul2025 02:42:24.904] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zens25 lost connection: Flying is not enabled on this server
+[05Jul2025 02:42:24.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 left the game
+[05Jul2025 02:42:47.765] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zens25[/127.20.236.71:47601] logged in with entity id 21358 at (256.30000001192093, 14.982090185031456, 1599.300000011921)
+[05Jul2025 02:42:47.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 joined the game
