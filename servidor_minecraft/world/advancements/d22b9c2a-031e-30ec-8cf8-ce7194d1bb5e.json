@@ -313,6 +313,7 @@
       "minecraft:cave_spider": "2025-07-01 02:04:24 +0000",
       "minecraft:piglin": "2025-06-15 23:10:47 +0000",
       "minecraft:enderman": "2025-06-12 02:14:10 +0000",
+      "minecraft:silverfish": "2025-07-05 03:02:25 +0000",
       "minecraft:vex": "2025-06-13 00:50:07 +0000",
       "minecraft:zombie": "2025-06-11 03:23:55 +0000",
       "quark:foxhound": "2025-06-15 23:01:22 +0000",
@@ -974,6 +975,36 @@
   "aether:read_lore": {
     "criteria": {
       "lore_book_entry": "2025-07-05 01:56:40 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-07-05 02:47:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-07-05 03:00:49 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed_by": "2025-07-05 03:00:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-05 03:07:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2025-07-05 03:53:05 +0000"
     },
     "done": true
   },

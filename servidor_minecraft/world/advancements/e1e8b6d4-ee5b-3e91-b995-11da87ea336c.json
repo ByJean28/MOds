@@ -134,7 +134,9 @@
       "minecraft:beach": "2025-07-05 02:34:50 +0000",
       "minecraft:sparse_jungle": "2025-07-04 03:22:37 +0000",
       "minecraft:river": "2025-07-04 02:50:49 +0000",
+      "minecraft:dripstone_caves": "2025-07-05 02:54:31 +0000",
       "minecraft:forest": "2025-07-03 03:50:28 +0000",
+      "minecraft:lush_caves": "2025-07-05 03:27:35 +0000",
       "minecraft:jungle": "2025-07-04 03:18:02 +0000",
       "minecraft:ocean": "2025-07-05 02:34:44 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-04 02:50:07 +0000",
@@ -166,8 +168,10 @@
       "cooked_mutton": "2025-07-05 01:39:27 +0000",
       "cooked_beef": "2025-07-05 02:22:36 +0000",
       "bread": "2025-07-03 04:03:06 +0000",
+      "golden_apple": "2025-07-05 03:04:14 +0000",
       "cookie": "2025-07-03 03:55:33 +0000",
-      "golden_carrot": "2025-07-03 04:41:48 +0000"
+      "golden_carrot": "2025-07-03 04:41:48 +0000",
+      "carrot": "2025-07-05 03:24:54 +0000"
     },
     "done": false
   },
@@ -459,6 +463,48 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-07-05 01:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-05 03:39:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-07-05 03:41:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-07-05 03:08:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-07-05 03:00:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-07-05 03:37:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-07-05 03:24:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-07-05 03:41:53 +0000"
     },
     "done": true
   },

@@ -614,3 +614,171 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jul2025 02:42:24.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 left the game
 [05Jul2025 02:42:47.765] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zens25[/127.20.236.71:47601] logged in with entity id 21358 at (256.30000001192093, 14.982090185031456, 1599.300000011921)
 [05Jul2025 02:42:47.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 joined the game
+[05Jul2025 02:47:06.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Chest Slayer]
+[05Jul2025 02:48:26.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[05Jul2025 02:49:29.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has reached the goal [Greed may lead to loss]
+[05Jul2025 02:52:02.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[05Jul2025 02:53:55.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ale_sweeney> a quien le estrego los frascos?
+[05Jul2025 02:54:18.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ale_sweeney> donde esta?
+[05Jul2025 02:54:30.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
+[05Jul2025 03:00:43.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Eye Spy]
+[05Jul2025 03:00:49.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Eye Spy]
+[05Jul2025 03:00:52.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [KEEP ROLLIN' ROLLIN' ROLLIN']
+[05Jul2025 03:00:52.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Eye Spy]
+[05Jul2025 03:00:53.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [Eye Spy]
+[05Jul2025 03:01:04.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Rocks Off!]
+[05Jul2025 03:04:14.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 fell from a high place
+[05Jul2025 03:04:14.800] [Server thread/INFO] [tombstone/]: The player zens25 has successfully been saved
+[05Jul2025 03:04:21.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Pulpleito8]
+[05Jul2025 03:07:44.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Not Today, Thank You]
+[05Jul2025 03:08:40.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [Cover Me with Diamonds]
+[05Jul2025 03:10:43.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Spectator Mode]
+[05Jul2025 03:12:31.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pulpleito8> 500 14 1568
+[05Jul2025 03:12:37.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[05Jul2025 03:12:44.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
+[05Jul2025 03:14:16.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
+[05Jul2025 03:14:41.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Amateur Archaeologist]
+[05Jul2025 03:14:52.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 froze to death
+[05Jul2025 03:14:52.993] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[05Jul2025 03:14:58.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
+[05Jul2025 03:15:55.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[05Jul2025 03:15:59.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
+[05Jul2025 03:16:29.033] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler
+[05Jul2025 03:16:38.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:38.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:39.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:39.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:39.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:39.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:40.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:40.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:40.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:41.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:41.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:41.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:42.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:42.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:42.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:42.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:43.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:43.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:43.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:54.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[05Jul2025 03:17:21.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:17:29.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:17:29.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:17:29.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:17:29.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:18:21.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[05Jul2025 03:18:37.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was killed
+[05Jul2025 03:18:37.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Killed Pulpleito8]
+[05Jul2025 03:18:37.307] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[05Jul2025 03:18:42.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[05Jul2025 03:21:16.876] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 0 in "curios" inventory handler
+[05Jul2025 03:21:17.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Ice Bucket Challenge]
+[05Jul2025 03:21:27.696] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler
+[05Jul2025 03:21:40.811] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 2 in "main" inventory handler
+[05Jul2025 03:24:01.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has reached the goal [Strong or Careful]
+[05Jul2025 03:24:01.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney was struck with lightning by Lightning Dragon
+[05Jul2025 03:24:03.081] [Server thread/INFO] [tombstone/]: The player Ale_sweeney has successfully been saved
+[05Jul2025 03:24:05.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByJean2812 moved wrongly!
+[05Jul2025 03:24:08.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 was struck with lightning by Lightning Dragon
+[05Jul2025 03:24:08.555] [Server thread/INFO] [tombstone/]: The player zens25 has successfully been saved
+[05Jul2025 03:24:11.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
+[05Jul2025 03:24:16.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved too quickly! 4.538116786075619,-6.300599394117581,7.149710380931538
+[05Jul2025 03:25:01.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was struck with lightning by Lightning Dragon
+[05Jul2025 03:25:01.914] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[05Jul2025 03:25:05.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
+[05Jul2025 03:27:02.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
+[05Jul2025 03:29:50.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Spectator Mode]
+[05Jul2025 03:30:01.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved too quickly! 10.089246293693407,1.3562400538921358,0.29914453205651625
+[05Jul2025 03:30:12.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[05Jul2025 03:30:19.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
+[05Jul2025 03:30:31.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pulpleito8> 500 14 1568
+[05Jul2025 03:31:18.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
+[05Jul2025 03:32:44.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[05Jul2025 03:32:46.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
+[05Jul2025 03:34:01.254] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/48523, l='ServerLevel[world]', x=495.50, y=10.00, z=1624.50]
+[05Jul2025 03:34:49.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[05Jul2025 03:34:51.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
+[05Jul2025 03:35:35.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was energized by Lightning Dragon
+[05Jul2025 03:35:35.501] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[05Jul2025 03:35:35.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[05Jul2025 03:35:37.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney was struck with lightning by Lightning Dragon
+[05Jul2025 03:35:37.855] [Server thread/INFO] [tombstone/]: The player Ale_sweeney has successfully been saved
+[05Jul2025 03:35:39.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[05Jul2025 03:35:45.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 suffocated in a wall whilst fighting Lightning Dragon
+[05Jul2025 03:35:45.323] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[05Jul2025 03:35:49.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
+[05Jul2025 03:36:51.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney was energized by Lightning Dragon
+[05Jul2025 03:36:51.543] [Server thread/INFO] [tombstone/]: The player Ale_sweeney has successfully been saved
+[05Jul2025 03:36:57.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
+[05Jul2025 03:37:33.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[05Jul2025 03:37:33.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has reached the goal [Chain Death]
+[05Jul2025 03:37:33.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney was struck with lightning by Lightning Dragon
+[05Jul2025 03:37:34.052] [Server thread/INFO] [tombstone/]: The player Ale_sweeney has successfully been saved
+[05Jul2025 03:38:13.305] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=518, y=4, z=1562} BlockPos{x=536, y=14, z=1570}
+[05Jul2025 03:38:26.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[05Jul2025 03:38:33.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Lightning Dragon
+[05Jul2025 03:38:33.721] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[05Jul2025 03:38:33.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[05Jul2025 03:38:38.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[05Jul2025 03:38:45.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Lightning Dragon
+[05Jul2025 03:38:45.466] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[05Jul2025 03:38:48.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
+[05Jul2025 03:38:58.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 was slain by Lightning Dragon
+[05Jul2025 03:38:58.650] [Server thread/INFO] [tombstone/]: The player zens25 has successfully been saved
+[05Jul2025 03:39:12.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Lightning Dragon
+[05Jul2025 03:39:12.279] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[05Jul2025 03:39:15.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
+[05Jul2025 03:39:56.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [Not Today, Thank You]
+[05Jul2025 03:40:06.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was energized by Lightning Dragon
+[05Jul2025 03:40:06.601] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[05Jul2025 03:40:10.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was doomed to fall by Lightning Dragon
+[05Jul2025 03:40:10.309] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[05Jul2025 03:40:10.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
+[05Jul2025 03:40:17.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
+[05Jul2025 03:40:25.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ale_sweeney> xd
+[05Jul2025 03:41:01.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was doomed to fall by Lightning Dragon
+[05Jul2025 03:41:01.263] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[05Jul2025 03:41:53.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [The Parrots and the Bats]
+[05Jul2025 03:45:17.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by The Hunter
+[05Jul2025 03:45:17.949] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[05Jul2025 03:45:27.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Ale_sweeney]
+[05Jul2025 03:46:51.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[05Jul2025 03:47:46.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[05Jul2025 03:48:44.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[05Jul2025 03:49:02.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 fell from a high place
+[05Jul2025 03:49:02.460] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[05Jul2025 03:49:10.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[05Jul2025 03:49:29.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 fell from a high place
+[05Jul2025 03:49:29.554] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[05Jul2025 03:49:34.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[05Jul2025 03:49:44.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ale_sweeney> Erick la puerta
+[05Jul2025 03:49:51.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 was kicked for floating too long!
+[05Jul2025 03:49:51.653] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 lost connection: Flying is not enabled on this server
+[05Jul2025 03:49:51.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 left the game
+[05Jul2025 03:49:57.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zens25> ya amor
+[05Jul2025 03:50:08.619] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pulpleito8[/127.73.31.138:40515] logged in with entity id 67261 at (516.6616656910503, 14.236358708447328, 1563.3300711501822)
+[05Jul2025 03:50:08.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 joined the game
+[05Jul2025 03:50:42.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[05Jul2025 03:51:19.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:52:19.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 fell from a high place
+[05Jul2025 03:52:19.545] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[05Jul2025 03:52:27.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[05Jul2025 03:52:30.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 hit the ground too hard whilst trying to escape Skeleton
+[05Jul2025 03:52:30.831] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[05Jul2025 03:52:34.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[05Jul2025 03:53:05.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has reached the goal [Discreet Search]
+[05Jul2025 03:53:13.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[05Jul2025 03:53:22.103] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/70758, l='ServerLevel[world]', x=-576.50, y=73.00, z=634.50]
+[05Jul2025 03:53:49.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Spectator Mode]
+[05Jul2025 03:54:21.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
+[05Jul2025 03:55:10.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to Ale_sweeney]
+[05Jul2025 03:55:22.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[05Jul2025 03:56:13.979] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/73830, l='ServerLevel[world]', x=-534.50, y=69.00, z=525.50]
+[05Jul2025 03:56:14.316] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/73851, l='ServerLevel[world]', x=-518.50, y=78.00, z=516.50]
+[05Jul2025 03:56:27.911] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/74285, l='ServerLevel[world]', x=-520.50, y=75.00, z=540.50]
+[05Jul2025 03:56:32.329] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[05Jul2025 03:57:17.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was doomed to fall by Corpse Maggot
+[05Jul2025 03:57:17.564] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved

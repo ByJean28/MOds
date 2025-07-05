@@ -133,6 +133,7 @@
       "minecraft:river": "2025-07-04 02:46:11 +0000",
       "minecraft:dripstone_caves": "2025-07-05 02:42:02 +0000",
       "minecraft:forest": "2025-07-03 03:47:10 +0000",
+      "minecraft:lush_caves": "2025-07-05 03:20:04 +0000",
       "minecraft:jungle": "2025-07-05 02:40:04 +0000",
       "minecraft:savanna": "2025-07-04 02:43:33 +0000",
       "minecraft:plains": "2025-07-03 03:49:10 +0000"
@@ -440,78 +441,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 02:42:06 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 02:42:06 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 02:42:06 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 02:42:06 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 02:42:06 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 02:42:06 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 02:42:06 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 02:42:06 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 02:42:06 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 02:42:06 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 02:42:06 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 02:42:06 +0000"
-    },
-    "done": false
-  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-07-05 02:18:41 +0000"
@@ -524,15 +453,39 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-07-05 02:28:25 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-07-05 02:42:03 +0000"
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "crafting_table": "2025-07-05 02:28:25 +0000"
+      "obsidian": "2025-07-05 03:21:17 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_shell": {
+    "criteria": {
+      "soul_heart": "2025-07-05 03:01:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-07-05 03:00:52 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-07-05 03:14:41 +0000"
     },
     "done": true
   },

@@ -8535,3 +8535,468 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jul2025 02:42:47.765] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zens25[/127.20.236.71:47601] logged in with entity id 21358 at (256.30000001192093, 14.982090185031456, 1599.300000011921)
 [05Jul2025 02:42:47.765] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@53893117 into net.minecraft.network.Connection@48def110
 [05Jul2025 02:42:47.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 joined the game
+[05Jul2025 02:47:05.059] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 02:47:05.078] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 02:47:06.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Chest Slayer]
+[05Jul2025 02:47:59.497] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evokerboss at BlockPos{x=655, y=92, z=1713} at Chest with:dungeons_arise:chests/jungle_tree_house/jungle_tree_house_treasure
+[05Jul2025 02:48:12.690] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=668, y=-15, z=1630} at Chest with:minecraft:chests/simple_dungeon
+[05Jul2025 02:48:26.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[05Jul2025 02:49:29.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has reached the goal [Greed may lead to loss]
+[05Jul2025 02:50:23.040] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:vexboss at BlockPos{x=513, y=-36, z=2130} at Chest with:minecraft:chests/simple_dungeon
+[05Jul2025 02:52:02.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[05Jul2025 02:52:05.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 02:52:05.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 02:53:16.948] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evilchickenboss at BlockPos{x=684, y=-29, z=1774} at Chest with:minecraft:chests/simple_dungeon
+[05Jul2025 02:53:55.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ale_sweeney> a quien le estrego los frascos?
+[05Jul2025 02:54:18.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ale_sweeney> donde esta?
+[05Jul2025 02:54:30.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
+[05Jul2025 02:57:05.043] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 02:57:05.062] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 03:00:43.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Eye Spy]
+[05Jul2025 03:00:49.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Eye Spy]
+[05Jul2025 03:00:52.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [KEEP ROLLIN' ROLLIN' ROLLIN']
+[05Jul2025 03:00:52.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Eye Spy]
+[05Jul2025 03:00:53.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [Eye Spy]
+[05Jul2025 03:01:04.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Rocks Off!]
+[05Jul2025 03:02:05.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 03:02:05.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 03:04:14.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 fell from a high place
+[05Jul2025 03:04:14.793] [Server thread/DEBUG] [tombstone/]: A new grave of the player zens25 was created at position [x:138, y:-2, z:1674, dim:minecraft:overworld]
+[05Jul2025 03:04:14.800] [Server thread/INFO] [tombstone/]: The player zens25 has successfully been saved
+[05Jul2025 03:04:16.584] [Server thread/DEBUG] [twilightforest/]: Player zens25 (bf71d5c8-39e5-3bc8-90c6-fa665d48c29c) respawned and received items held in storage
+[05Jul2025 03:04:21.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Pulpleito8]
+[05Jul2025 03:07:05.015] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 03:07:05.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 03:07:44.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Not Today, Thank You]
+[05Jul2025 03:08:40.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [Cover Me with Diamonds]
+[05Jul2025 03:10:43.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Spectator Mode]
+[05Jul2025 03:12:05.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 03:12:05.047] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 03:12:31.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pulpleito8> 500 14 1568
+[05Jul2025 03:12:37.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[05Jul2025 03:12:44.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
+[05Jul2025 03:14:16.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
+[05Jul2025 03:14:41.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Amateur Archaeologist]
+[05Jul2025 03:14:52.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 froze to death
+[05Jul2025 03:14:52.987] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:140, y:-16, z:1667, dim:minecraft:overworld]
+[05Jul2025 03:14:52.993] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[05Jul2025 03:14:54.699] [Server thread/DEBUG] [twilightforest/]: Player ByJean2812 (3808f9c7-7752-31e7-94ba-300fec15b4b8) respawned and received items held in storage
+[05Jul2025 03:14:58.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
+[05Jul2025 03:15:55.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[05Jul2025 03:15:59.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
+[05Jul2025 03:16:29.033] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler
+[05Jul2025 03:16:38.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:38.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:39.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:39.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:39.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:39.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:40.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:40.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:40.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:41.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:41.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:41.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:42.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:42.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:42.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:42.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:43.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:43.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:43.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:16:54.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[05Jul2025 03:17:05.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 03:17:05.054] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 03:17:21.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:17:29.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:17:29.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:17:29.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:17:29.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:18:21.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[05Jul2025 03:18:37.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was killed
+[05Jul2025 03:18:37.299] [Server thread/DEBUG] [tombstone/]: A new grave of the player Pulpleito8 was created at position [x:45, y:-15, z:1667, dim:minecraft:overworld]
+[05Jul2025 03:18:37.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Killed Pulpleito8]
+[05Jul2025 03:18:37.307] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[05Jul2025 03:18:39.158] [Server thread/DEBUG] [twilightforest/]: Player Pulpleito8 (d22b9c2a-031e-30ec-8cf8-ce7194d1bb5e) respawned and received items held in storage
+[05Jul2025 03:18:42.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[05Jul2025 03:21:16.876] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 0 in "curios" inventory handler
+[05Jul2025 03:21:17.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Ice Bucket Challenge]
+[05Jul2025 03:21:27.696] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler
+[05Jul2025 03:21:40.811] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 2 in "main" inventory handler
+[05Jul2025 03:22:05.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 03:22:05.042] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 03:24:01.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has reached the goal [Strong or Careful]
+[05Jul2025 03:24:01.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney was struck with lightning by Lightning Dragon
+[05Jul2025 03:24:03.068] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ale_sweeney was created at position [x:-71, y:-6, z:1543, dim:minecraft:overworld]
+[05Jul2025 03:24:03.081] [Server thread/INFO] [tombstone/]: The player Ale_sweeney has successfully been saved
+[05Jul2025 03:24:04.328] [Server thread/DEBUG] [twilightforest/]: Player Ale_sweeney (e1e8b6d4-ee5b-3e91-b995-11da87ea336c) respawned and received items held in storage
+[05Jul2025 03:24:05.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByJean2812 moved wrongly!
+[05Jul2025 03:24:08.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 was struck with lightning by Lightning Dragon
+[05Jul2025 03:24:08.526] [Server thread/DEBUG] [tombstone/]: A new grave of the player zens25 was created at position [x:-80, y:-4, z:1529, dim:minecraft:overworld]
+[05Jul2025 03:24:08.555] [Server thread/INFO] [tombstone/]: The player zens25 has successfully been saved
+[05Jul2025 03:24:10.241] [Server thread/DEBUG] [twilightforest/]: Player zens25 (bf71d5c8-39e5-3bc8-90c6-fa665d48c29c) respawned and received items held in storage
+[05Jul2025 03:24:11.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
+[05Jul2025 03:24:16.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved too quickly! 4.538116786075619,-6.300599394117581,7.149710380931538
+[05Jul2025 03:25:01.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was struck with lightning by Lightning Dragon
+[05Jul2025 03:25:01.880] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:-85, y:-6, z:1543, dim:minecraft:overworld]
+[05Jul2025 03:25:01.914] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[05Jul2025 03:25:03.251] [Server thread/DEBUG] [twilightforest/]: Player ByJean2812 (3808f9c7-7752-31e7-94ba-300fec15b4b8) respawned and received items held in storage
+[05Jul2025 03:25:05.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
+[05Jul2025 03:27:02.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
+[05Jul2025 03:27:05.018] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 03:27:05.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 03:29:50.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Spectator Mode]
+[05Jul2025 03:30:01.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved too quickly! 10.089246293693407,1.3562400538921358,0.29914453205651625
+[05Jul2025 03:30:12.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[05Jul2025 03:30:19.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
+[05Jul2025 03:30:31.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pulpleito8> 500 14 1568
+[05Jul2025 03:31:18.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
+[05Jul2025 03:32:05.005] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 03:32:05.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 03:32:44.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[05Jul2025 03:32:46.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
+[05Jul2025 03:32:50.883] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:strayboss at BlockPos{x=673, y=7, z=1932} at Chest with:minecraft:chests/simple_dungeon
+[05Jul2025 03:34:01.254] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/48523, l='ServerLevel[world]', x=495.50, y=10.00, z=1624.50]
+[05Jul2025 03:34:49.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[05Jul2025 03:34:51.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
+[05Jul2025 03:35:35.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was energized by Lightning Dragon
+[05Jul2025 03:35:35.480] [Server thread/DEBUG] [tombstone/]: A new grave of the player Pulpleito8 was created at position [x:501, y:3, z:1564, dim:minecraft:overworld]
+[05Jul2025 03:35:35.501] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[05Jul2025 03:35:35.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[05Jul2025 03:35:37.147] [Server thread/DEBUG] [twilightforest/]: Player Pulpleito8 (d22b9c2a-031e-30ec-8cf8-ce7194d1bb5e) respawned and received items held in storage
+[05Jul2025 03:35:37.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney was struck with lightning by Lightning Dragon
+[05Jul2025 03:35:37.840] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ale_sweeney was created at position [x:510, y:0, z:1577, dim:minecraft:overworld]
+[05Jul2025 03:35:37.855] [Server thread/INFO] [tombstone/]: The player Ale_sweeney has successfully been saved
+[05Jul2025 03:35:39.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[05Jul2025 03:35:40.220] [Server thread/DEBUG] [twilightforest/]: Player Ale_sweeney (e1e8b6d4-ee5b-3e91-b995-11da87ea336c) respawned and received items held in storage
+[05Jul2025 03:35:45.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 suffocated in a wall whilst fighting Lightning Dragon
+[05Jul2025 03:35:45.259] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:503, y:0, z:1558, dim:minecraft:overworld]
+[05Jul2025 03:35:45.323] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[05Jul2025 03:35:46.774] [Server thread/DEBUG] [twilightforest/]: Player ByJean2812 (3808f9c7-7752-31e7-94ba-300fec15b4b8) respawned and received items held in storage
+[05Jul2025 03:35:49.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
+[05Jul2025 03:36:51.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney was energized by Lightning Dragon
+[05Jul2025 03:36:51.524] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ale_sweeney was created at position [x:503, y:0, z:1575, dim:minecraft:overworld]
+[05Jul2025 03:36:51.543] [Server thread/INFO] [tombstone/]: The player Ale_sweeney has successfully been saved
+[05Jul2025 03:36:52.754] [Server thread/DEBUG] [twilightforest/]: Player Ale_sweeney (e1e8b6d4-ee5b-3e91-b995-11da87ea336c) respawned and received items held in storage
+[05Jul2025 03:36:57.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
+[05Jul2025 03:37:05.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 03:37:05.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 03:37:33.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[05Jul2025 03:37:33.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has reached the goal [Chain Death]
+[05Jul2025 03:37:33.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney was struck with lightning by Lightning Dragon
+[05Jul2025 03:37:34.033] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ale_sweeney was created at position [x:522, y:-4, z:1589, dim:minecraft:overworld]
+[05Jul2025 03:37:34.052] [Server thread/INFO] [tombstone/]: The player Ale_sweeney has successfully been saved
+[05Jul2025 03:37:35.755] [Server thread/DEBUG] [twilightforest/]: Player Ale_sweeney (e1e8b6d4-ee5b-3e91-b995-11da87ea336c) respawned and received items held in storage
+[05Jul2025 03:38:13.305] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=518, y=4, z=1562} BlockPos{x=536, y=14, z=1570}
+[05Jul2025 03:38:26.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[05Jul2025 03:38:33.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Lightning Dragon
+[05Jul2025 03:38:33.689] [Server thread/DEBUG] [tombstone/]: A new grave of the player Pulpleito8 was created at position [x:537, y:5, z:1569, dim:minecraft:overworld]
+[05Jul2025 03:38:33.721] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[05Jul2025 03:38:33.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[05Jul2025 03:38:35.231] [Server thread/DEBUG] [twilightforest/]: Player Pulpleito8 (d22b9c2a-031e-30ec-8cf8-ce7194d1bb5e) respawned and received items held in storage
+[05Jul2025 03:38:38.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[05Jul2025 03:38:45.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Lightning Dragon
+[05Jul2025 03:38:45.435] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:494, y:7, z:1550, dim:minecraft:overworld]
+[05Jul2025 03:38:45.466] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[05Jul2025 03:38:46.974] [Server thread/DEBUG] [twilightforest/]: Player ByJean2812 (3808f9c7-7752-31e7-94ba-300fec15b4b8) respawned and received items held in storage
+[05Jul2025 03:38:48.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
+[05Jul2025 03:38:58.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 was slain by Lightning Dragon
+[05Jul2025 03:38:58.634] [Server thread/DEBUG] [tombstone/]: A new grave of the player zens25 was created at position [x:503, y:8, z:1543, dim:minecraft:overworld]
+[05Jul2025 03:38:58.650] [Server thread/INFO] [tombstone/]: The player zens25 has successfully been saved
+[05Jul2025 03:39:01.029] [Server thread/DEBUG] [twilightforest/]: Player zens25 (bf71d5c8-39e5-3bc8-90c6-fa665d48c29c) respawned and received items held in storage
+[05Jul2025 03:39:12.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Lightning Dragon
+[05Jul2025 03:39:12.240] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:504, y:7, z:1558, dim:minecraft:overworld]
+[05Jul2025 03:39:12.279] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[05Jul2025 03:39:13.589] [Server thread/DEBUG] [twilightforest/]: Player ByJean2812 (3808f9c7-7752-31e7-94ba-300fec15b4b8) respawned and received items held in storage
+[05Jul2025 03:39:15.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
+[05Jul2025 03:39:56.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [Not Today, Thank You]
+[05Jul2025 03:40:06.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was energized by Lightning Dragon
+[05Jul2025 03:40:06.601] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[05Jul2025 03:40:08.544] [Server thread/DEBUG] [twilightforest/]: Player Pulpleito8 (d22b9c2a-031e-30ec-8cf8-ce7194d1bb5e) respawned and received items held in storage
+[05Jul2025 03:40:10.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was doomed to fall by Lightning Dragon
+[05Jul2025 03:40:10.263] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:532, y:-19, z:1568, dim:minecraft:overworld]
+[05Jul2025 03:40:10.309] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[05Jul2025 03:40:10.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
+[05Jul2025 03:40:17.238] [Server thread/DEBUG] [twilightforest/]: Player ByJean2812 (3808f9c7-7752-31e7-94ba-300fec15b4b8) respawned and received items held in storage
+[05Jul2025 03:40:17.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
+[05Jul2025 03:40:25.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ale_sweeney> xd
+[05Jul2025 03:41:01.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was doomed to fall by Lightning Dragon
+[05Jul2025 03:41:01.255] [Server thread/DEBUG] [tombstone/]: A new grave of the player Pulpleito8 was created at position [x:519, y:7, z:1555, dim:minecraft:overworld]
+[05Jul2025 03:41:01.263] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[05Jul2025 03:41:02.792] [Server thread/DEBUG] [twilightforest/]: Player Pulpleito8 (d22b9c2a-031e-30ec-8cf8-ce7194d1bb5e) respawned and received items held in storage
+[05Jul2025 03:41:53.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [The Parrots and the Bats]
+[05Jul2025 03:42:05.011] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 03:42:05.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 03:45:17.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by The Hunter
+[05Jul2025 03:45:17.929] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:-3, y:116, z:536, dim:minecraft:overworld]
+[05Jul2025 03:45:17.949] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[05Jul2025 03:45:19.577] [Server thread/DEBUG] [twilightforest/]: Player ByJean2812 (3808f9c7-7752-31e7-94ba-300fec15b4b8) respawned and received items held in storage
+[05Jul2025 03:45:27.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Ale_sweeney]
+[05Jul2025 03:46:51.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[05Jul2025 03:47:05.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 03:47:05.052] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 03:47:46.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[05Jul2025 03:48:44.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[05Jul2025 03:49:02.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 fell from a high place
+[05Jul2025 03:49:02.406] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:507, y:7, z:1556, dim:minecraft:overworld]
+[05Jul2025 03:49:02.460] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[05Jul2025 03:49:04.082] [Server thread/DEBUG] [twilightforest/]: Player ByJean2812 (3808f9c7-7752-31e7-94ba-300fec15b4b8) respawned and received items held in storage
+[05Jul2025 03:49:10.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[05Jul2025 03:49:29.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 fell from a high place
+[05Jul2025 03:49:29.554] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[05Jul2025 03:49:30.957] [Server thread/DEBUG] [twilightforest/]: Player Pulpleito8 (d22b9c2a-031e-30ec-8cf8-ce7194d1bb5e) respawned and received items held in storage
+[05Jul2025 03:49:34.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[05Jul2025 03:49:44.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ale_sweeney> Erick la puerta
+[05Jul2025 03:49:51.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 was kicked for floating too long!
+[05Jul2025 03:49:51.653] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 lost connection: Flying is not enabled on this server
+[05Jul2025 03:49:51.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 left the game
+[05Jul2025 03:49:57.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zens25> ya amor
+[05Jul2025 03:50:01.735] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 39 messages to dispatch.
+[05Jul2025 03:50:01.757] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[05Jul2025 03:50:01.809] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[05Jul2025 03:50:01.860] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[05Jul2025 03:50:01.906] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[05Jul2025 03:50:01.957] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry aether:moa_type' to 'fml:handshake' sequence 4
+[05Jul2025 03:50:02.002] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 5
+[05Jul2025 03:50:02.041] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[05Jul2025 03:50:02.041] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[05Jul2025 03:50:02.041] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [betterdungeons, easyanvils, betterwitchhuts, botarium, aether, illagerinvasion, naturalist, betteroceanmonuments, stalwart_dungeons, multimine, incendium, sophisticatedcore, citadel, alexsmobs, yungsapi, bagus_lib, mixinextras, sophisticatedbackpacks, bettermobs, takesapillage, carryon, betterfortresses, cloth_config, twilightforest, konkrete, embeddium, rubidium, enemyexpansion, entity_model_features, entity_texture_features, torchmaster, endrem, eeeabsmobs, yungsbridges, resourcefulconfig, hangglider, born_in_chaos_v1, cataclysm, curios, oculus, yungsextras, bettervillage, betterthirdperson, elevatorid, betterstrongholds, tombstone, resourcefullib, cumulus_menus, deeperdarker, architectury, aiimprovements, cupboard, betterendisland, nitrogen_internals, bettermineshafts, enchantinginfuser, betterjungletemples, mowziesmobs, geckolib, mutantmonsters, furnitura, jei, libraryferret, clumps, naturescompass, artifacts, betterdeserttemples, explorerscompass, iceandfire, watut, puzzlesaccessapi, skinlayers3d, forge, luminousworld, warriorrage, undead_revamp2, friendsandfoes, ironchest, dungeons_arise, minecraft, vanillaplustools, alexscaves, moonlight, endermanoverhaul, placeablesmod, mixinsquared, jade, mindfuldarkness, watching, spectrelib, ecologics, brutalbosses, xaerominimap, polymorph, securitycraft, nullscape, earthmobsmod, zeta, quark, supplementaries, canary, immediatelyfast, coroutil, creeperoverhaul, ferritecore, embeddium_extra, puzzleslib, justzoom, recipes_unlocked, cosmeticarmorreworked, expandability, ad_astra]
+[05Jul2025 03:50:02.041] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supplementaries:channel' : Version test of '0' from client : ACCEPTED
+[05Jul2025 03:50:02.041] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'watut:main' : Version test of '4' from client : ACCEPTED
+[05Jul2025 03:50:02.041] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexscaves:main_channel' : Version test of '1' from client : ACCEPTED
+[05Jul2025 03:50:02.041] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bagus_lib:channel' : Version test of '2' from client : ACCEPTED
+[05Jul2025 03:50:02.041] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'placeablesmod:placeablesmod' : Version test of '1' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'eeeabsmobs:net' : Version test of '1.0' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'vanillaplustools:net-channel' : Version test of '1.0' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'warriorrage:network' : Version test of 'warriorrage:1' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bettermobs:bettermobs' : Version test of '1' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'nitrogen_internals:main' : Version test of '1' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'earthmobsmod:channel' : Version test of '2' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:as_mm' : Version test of '1.0.0' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Version test of '1' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'enchantinginfuser:1' : Version test of '1' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spectrelib:main' : Version test of '1' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cosmeticarmorreworked:main' : Version test of '2' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mutantmonsters:1' : Version test of '1' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'enemyexpansion:enemyexpansion' : Version test of '1' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moonlight:channel' : Version test of '0' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'stalwart_dungeons:stalwart_dungeons' : Version test of '1' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'aether:main' : Version test of '1' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of '1.0' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'endermanoverhaul:main' : Version test of '1' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'recipes_unlocked:recipes_unlocked' : Version test of '1' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib:1' : Version test of '1' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.9.9' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'born_in_chaos_v1:born_in_chaos_v1' : Version test of '1' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'iceandfire:main_channel' : Version test of '1' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'luminousworld:luminousworld' : Version test of '1' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'friendsandfoes:networking' : Version test of '2.0.10' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ad_astra:main' : Version test of '1' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'polymorph:main' : Version test of '1' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'explorerscompass:explorerscompass' : Version test of '1.0' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'quark:main' : Version test of '3' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tombstone:tombstone_channel' : Version test of 'tombstone-8.6.3' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'naturescompass:naturescompass' : Version test of '1.0' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'undead_revamp2:undead_revamp2' : Version test of '1' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'brutalbosses:main' : Version test of '1' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[05Jul2025 03:50:02.042] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easyanvils:1' : Version test of '1' from client : ACCEPTED
+[05Jul2025 03:50:02.043] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[05Jul2025 03:50:02.043] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ironchest:network' : Version test of '1' from client : ACCEPTED
+[05Jul2025 03:50:02.043] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'zeta:main' : Version test of '1' from client : ACCEPTED
+[05Jul2025 03:50:02.043] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'elevatorid:main_channel' : Version test of '1' from client : ACCEPTED
+[05Jul2025 03:50:02.043] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[05Jul2025 03:50:02.043] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'twilightforest:channel' : Version test of '2' from client : ACCEPTED
+[05Jul2025 03:50:02.043] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[05Jul2025 03:50:02.043] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[05Jul2025 03:50:02.056] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 6
+[05Jul2025 03:50:02.081] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[05Jul2025 03:50:02.082] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Jul2025 03:50:02.082] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Jul2025 03:50:02.104] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 7
+[05Jul2025 03:50:02.132] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[05Jul2025 03:50:02.133] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Jul2025 03:50:02.133] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Jul2025 03:50:02.146] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:tiny_bird_variant' to 'fml:handshake' sequence 8
+[05Jul2025 03:50:02.177] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[05Jul2025 03:50:02.177] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Jul2025 03:50:02.178] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Jul2025 03:50:02.207] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 9
+[05Jul2025 03:50:02.250] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 10
+[05Jul2025 03:50:02.309] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 11
+[05Jul2025 03:50:02.352] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 12
+[05Jul2025 03:50:02.400] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 13
+[05Jul2025 03:50:02.455] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 14
+[05Jul2025 03:50:02.507] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 15
+[05Jul2025 03:50:02.554] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 16
+[05Jul2025 03:50:02.572] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[05Jul2025 03:50:02.572] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Jul2025 03:50:02.572] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Jul2025 03:50:02.602] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 17
+[05Jul2025 03:50:02.602] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[05Jul2025 03:50:02.602] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Jul2025 03:50:02.602] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Jul2025 03:50:02.602] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[05Jul2025 03:50:02.602] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Jul2025 03:50:02.602] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Jul2025 03:50:02.602] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[05Jul2025 03:50:02.602] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Jul2025 03:50:02.602] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Jul2025 03:50:02.659] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 18
+[05Jul2025 03:50:02.722] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tombstone:perks' to 'fml:handshake' sequence 19
+[05Jul2025 03:50:02.770] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 20
+[05Jul2025 03:50:02.825] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:dwarf_rabbit_variant' to 'fml:handshake' sequence 21
+[05Jul2025 03:50:02.843] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[05Jul2025 03:50:02.844] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Jul2025 03:50:02.844] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Jul2025 03:50:02.844] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[05Jul2025 03:50:02.844] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Jul2025 03:50:02.844] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Jul2025 03:50:02.844] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[05Jul2025 03:50:02.844] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Jul2025 03:50:02.844] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Jul2025 03:50:02.844] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[05Jul2025 03:50:02.844] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Jul2025 03:50:02.844] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Jul2025 03:50:02.844] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[05Jul2025 03:50:02.844] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Jul2025 03:50:02.844] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Jul2025 03:50:02.844] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[05Jul2025 03:50:02.845] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Jul2025 03:50:02.845] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Jul2025 03:50:02.870] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 22
+[05Jul2025 03:50:02.912] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 23
+[05Jul2025 03:50:02.950] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 24
+[05Jul2025 03:50:02.962] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[05Jul2025 03:50:02.962] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Jul2025 03:50:02.962] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Jul2025 03:50:02.962] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[05Jul2025 03:50:02.962] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Jul2025 03:50:02.962] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Jul2025 03:50:03.003] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[05Jul2025 03:50:03.003] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Jul2025 03:50:03.003] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Jul2025 03:50:03.003] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[05Jul2025 03:50:03.003] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Jul2025 03:50:03.003] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Jul2025 03:50:03.003] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[05Jul2025 03:50:03.003] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Jul2025 03:50:03.003] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Jul2025 03:50:03.003] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[05Jul2025 03:50:03.003] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Jul2025 03:50:03.003] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Jul2025 03:50:03.009] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 25
+[05Jul2025 03:50:03.044] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[05Jul2025 03:50:03.044] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Jul2025 03:50:03.045] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Jul2025 03:50:03.045] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config illagerinvasion-server.toml' to 'fml:handshake' sequence 26
+[05Jul2025 03:50:03.087] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[05Jul2025 03:50:03.087] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Jul2025 03:50:03.087] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Jul2025 03:50:03.102] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config aether-server.toml' to 'fml:handshake' sequence 27
+[05Jul2025 03:50:03.125] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[05Jul2025 03:50:03.126] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Jul2025 03:50:03.126] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Jul2025 03:50:03.149] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config mutantmonsters-server.toml' to 'fml:handshake' sequence 28
+[05Jul2025 03:50:03.202] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config easyanvils-server.toml' to 'fml:handshake' sequence 29
+[05Jul2025 03:50:03.247] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 30
+[05Jul2025 03:50:03.301] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 31
+[05Jul2025 03:50:03.358] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tombstone-server.toml' to 'fml:handshake' sequence 32
+[05Jul2025 03:50:03.409] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config elevatorid-server.toml' to 'fml:handshake' sequence 33
+[05Jul2025 03:50:03.454] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config hangglider-server.toml' to 'fml:handshake' sequence 34
+[05Jul2025 03:50:03.503] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 35
+[05Jul2025 03:50:03.548] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config enchantinginfuser-server.toml' to 'fml:handshake' sequence 36
+[05Jul2025 03:50:03.602] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 37
+[05Jul2025 03:50:03.649] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'org.violetmoon.zeta.network.message.S2CLoginFlag' to 'zeta:main' sequence 38
+[05Jul2025 03:50:08.508] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[05Jul2025 03:50:08.508] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Jul2025 03:50:08.508] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Jul2025 03:50:08.549] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[05Jul2025 03:50:08.549] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Jul2025 03:50:08.549] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Jul2025 03:50:08.549] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[05Jul2025 03:50:08.549] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Jul2025 03:50:08.549] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Jul2025 03:50:08.549] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[05Jul2025 03:50:08.549] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Jul2025 03:50:08.549] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Jul2025 03:50:08.549] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[05Jul2025 03:50:08.549] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Jul2025 03:50:08.549] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Jul2025 03:50:08.549] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[05Jul2025 03:50:08.549] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Jul2025 03:50:08.549] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Jul2025 03:50:08.549] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[05Jul2025 03:50:08.549] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Jul2025 03:50:08.549] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Jul2025 03:50:08.549] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[05Jul2025 03:50:08.549] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Jul2025 03:50:08.549] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Jul2025 03:50:08.549] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[05Jul2025 03:50:08.549] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Jul2025 03:50:08.549] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Jul2025 03:50:08.549] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[05Jul2025 03:50:08.549] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Jul2025 03:50:08.549] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Jul2025 03:50:08.549] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[05Jul2025 03:50:08.549] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Jul2025 03:50:08.549] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Jul2025 03:50:08.549] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 35
+[05Jul2025 03:50:08.549] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Jul2025 03:50:08.549] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Jul2025 03:50:08.549] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 36
+[05Jul2025 03:50:08.549] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 36 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Jul2025 03:50:08.549] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Jul2025 03:50:08.550] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 37
+[05Jul2025 03:50:08.550] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 37 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[05Jul2025 03:50:08.550] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[05Jul2025 03:50:08.550] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel zeta:main with index 38
+[05Jul2025 03:50:08.551] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 38 of type org.violetmoon.zeta.network.message.C2SLoginFlag
+[05Jul2025 03:50:08.559] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[05Jul2025 03:50:08.619] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pulpleito8[/127.73.31.138:40515] logged in with entity id 67261 at (516.6616656910503, 14.236358708447328, 1563.3300711501822)
+[05Jul2025 03:50:08.619] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@362662be into net.minecraft.network.Connection@5f799da5
+[05Jul2025 03:50:08.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 joined the game
+[05Jul2025 03:50:42.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[05Jul2025 03:51:19.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[05Jul2025 03:52:06.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 03:52:06.041] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 03:52:19.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 fell from a high place
+[05Jul2025 03:52:19.483] [Server thread/DEBUG] [tombstone/]: A new grave of the player Pulpleito8 was created at position [x:502, y:-2, z:1562, dim:minecraft:overworld]
+[05Jul2025 03:52:19.545] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[05Jul2025 03:52:21.174] [Server thread/DEBUG] [twilightforest/]: Player Pulpleito8 (d22b9c2a-031e-30ec-8cf8-ce7194d1bb5e) respawned and received items held in storage
+[05Jul2025 03:52:27.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[05Jul2025 03:52:30.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 hit the ground too hard whilst trying to escape Skeleton
+[05Jul2025 03:52:30.775] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:531, y:-14, z:1589, dim:minecraft:overworld]
+[05Jul2025 03:52:30.831] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[05Jul2025 03:52:32.394] [Server thread/DEBUG] [twilightforest/]: Player ByJean2812 (3808f9c7-7752-31e7-94ba-300fec15b4b8) respawned and received items held in storage
+[05Jul2025 03:52:34.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[05Jul2025 03:53:05.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has reached the goal [Discreet Search]
+[05Jul2025 03:53:13.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[05Jul2025 03:53:22.103] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/70758, l='ServerLevel[world]', x=-576.50, y=73.00, z=634.50]
+[05Jul2025 03:53:49.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Spectator Mode]
+[05Jul2025 03:54:21.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
+[05Jul2025 03:55:10.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to Ale_sweeney]
+[05Jul2025 03:55:22.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[05Jul2025 03:56:13.979] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/73830, l='ServerLevel[world]', x=-534.50, y=69.00, z=525.50]
+[05Jul2025 03:56:14.316] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/73851, l='ServerLevel[world]', x=-518.50, y=78.00, z=516.50]
+[05Jul2025 03:56:27.911] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/74285, l='ServerLevel[world]', x=-520.50, y=75.00, z=540.50]
+[05Jul2025 03:56:32.329] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[05Jul2025 03:57:07.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 03:57:07.078] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 03:57:17.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was doomed to fall by Corpse Maggot
+[05Jul2025 03:57:17.558] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:506, y:1, z:1564, dim:minecraft:overworld]
+[05Jul2025 03:57:17.564] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
