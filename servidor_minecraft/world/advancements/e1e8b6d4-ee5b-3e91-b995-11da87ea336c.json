@@ -160,6 +160,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-07-05 01:39:27 +0000",
       "bread": "2025-07-03 04:03:06 +0000",
       "cookie": "2025-07-03 03:55:33 +0000",
       "golden_carrot": "2025-07-03 04:41:48 +0000"
@@ -448,6 +449,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-07-04 03:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-05 01:34:34 +0000"
     },
     "done": true
   },
