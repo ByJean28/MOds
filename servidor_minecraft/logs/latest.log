@@ -598,3 +598,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jul2025 02:20:03.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney joined the game
 [05Jul2025 02:21:56.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
 [05Jul2025 02:24:18.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Dragon Growth Hormone]
+[05Jul2025 02:28:21.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set the weather to clear]
+[05Jul2025 02:35:18.275] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14928, l='ServerLevel[world]', x=-594.50, y=75.00, z=614.50]
