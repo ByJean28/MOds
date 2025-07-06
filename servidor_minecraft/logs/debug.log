@@ -7978,3 +7978,122 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jul2025 22:55:58.614] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
 [06Jul2025 22:56:00.118] [Server thread/DEBUG] [twilightforest/]: Player Pulpleito8 (d22b9c2a-031e-30ec-8cf8-ce7194d1bb5e) respawned and received items held in storage
 [06Jul2025 22:56:01.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[06Jul2025 22:56:28.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 22:56:28.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 22:56:56.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[06Jul2025 22:57:19.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved wrongly! 0.25740810854949814
+[06Jul2025 22:57:19.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved wrongly! 0.6577659208178375
+[06Jul2025 22:57:53.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[06Jul2025 22:58:39.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[06Jul2025 22:59:02.785] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44949, l='ServerLevel[world]', x=-3.17, y=-256.00, z=533.53] died, message: 'Villager was killed'
+[06Jul2025 23:00:46.785] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/45684, l='ServerLevel[world]', x=-3.17, y=-256.00, z=533.53] died, message: 'Villager was killed'
+[06Jul2025 23:00:50.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[06Jul2025 23:01:28.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 23:01:28.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 23:01:39.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was blown up by Phantom Creeper
+[06Jul2025 23:01:39.710] [Server thread/DEBUG] [tombstone/]: A new grave of the player Pulpleito8 was created at position [x:-22, y:-17, z:752, dim:minecraft:overworld]
+[06Jul2025 23:01:39.720] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[06Jul2025 23:01:41.172] [Server thread/DEBUG] [twilightforest/]: Player Pulpleito8 (d22b9c2a-031e-30ec-8cf8-ce7194d1bb5e) respawned and received items held in storage
+[06Jul2025 23:01:42.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[06Jul2025 23:02:32.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[06Jul2025 23:03:26.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Cave Enderman
+[06Jul2025 23:03:26.396] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:37, y:-14, z:774, dim:minecraft:overworld]
+[06Jul2025 23:03:26.407] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[06Jul2025 23:03:27.719] [Server thread/DEBUG] [twilightforest/]: Player ByJean2812 (3808f9c7-7752-31e7-94ba-300fec15b4b8) respawned and received items held in storage
+[06Jul2025 23:03:29.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[06Jul2025 23:05:07.550] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InvisicreeperEntity['Intruder'/48351, l='ServerLevel[world]', x=144.26, y=-22.00, z=921.36] died: Intruder was struck by lightning
+[06Jul2025 23:06:17.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[06Jul2025 23:06:28.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 23:06:28.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 23:06:53.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Set own game mode to Spectator Mode]
+[06Jul2025 23:07:35.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[06Jul2025 23:07:46.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported Pulpleito8 to ByJean2812]
+[06Jul2025 23:08:23.001] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[06Jul2025 23:08:23.004] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[06Jul2025 23:08:23.004] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[06Jul2025 23:08:23.004] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[06Jul2025 23:08:23.049] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[06Jul2025 23:08:23.050] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[06Jul2025 23:08:23.052] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[06Jul2025 23:08:23.052] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[06Jul2025 23:08:23.064] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[06Jul2025 23:08:23.065] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[06Jul2025 23:08:23.065] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[06Jul2025 23:08:23.065] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[06Jul2025 23:08:26.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported Pulpleito8 to ByJean2812]
+[06Jul2025 23:08:44.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported Pulpleito8 to ByJean2812]
+[06Jul2025 23:08:50.778] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-516, y=-35, z=1488} at Chest with:minecraft:chests/simple_dungeon
+[06Jul2025 23:09:04.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was blown up by Creeper
+[06Jul2025 23:09:04.504] [Server thread/DEBUG] [tombstone/]: A new grave of the player Pulpleito8 was created at position [x:-287, y:19, z:1092, dim:minecraft:overworld]
+[06Jul2025 23:09:04.519] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[06Jul2025 23:09:07.270] [Server thread/DEBUG] [twilightforest/]: Player Pulpleito8 (d22b9c2a-031e-30ec-8cf8-ce7194d1bb5e) respawned and received items held in storage
+[06Jul2025 23:09:09.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[06Jul2025 23:09:37.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported Pulpleito8 to ByJean2812]
+[06Jul2025 23:09:54.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Set own game mode to Survival Mode]
+[06Jul2025 23:11:28.870] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 23:11:28.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 23:12:22.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Spectator Mode]
+[06Jul2025 23:12:36.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
+[06Jul2025 23:13:06.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported Pulpleito8 to ByJean2812]
+[06Jul2025 23:13:18.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Set own game mode to Spectator Mode]
+[06Jul2025 23:13:32.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Set own game mode to Survival Mode]
+[06Jul2025 23:13:49.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Spectator Mode]
+[06Jul2025 23:13:51.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Set own game mode to Spectator Mode]
+[06Jul2025 23:13:57.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Set own game mode to Survival Mode]
+[06Jul2025 23:14:09.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Set own game mode to Spectator Mode]
+[06Jul2025 23:14:15.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
+[06Jul2025 23:14:47.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Spectator Mode]
+[06Jul2025 23:14:51.648] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-757, y=-25, z=1525} at Chest with:minecraft:chests/simple_dungeon
+[06Jul2025 23:15:12.345] [Worker-Main-23/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evilchickenboss at BlockPos{x=-524, y=-9, z=1645} at Chest with:minecraft:chests/simple_dungeon
+[06Jul2025 23:15:18.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
+[06Jul2025 23:15:23.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Set own game mode to Survival Mode]
+[06Jul2025 23:15:51.243] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/56941, l='ServerLevel[world]', x=-537.50, y=72.00, z=1223.50]
+[06Jul2025 23:16:04.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Spectator Mode]
+[06Jul2025 23:16:10.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[06Jul2025 23:16:28.870] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 23:16:28.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 23:16:33.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
+[06Jul2025 23:16:48.738] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/57507, l='ServerLevel[world]', x=-527.50, y=74.00, z=1218.50]
+[06Jul2025 23:17:50.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was blown up by Mutant Creeper
+[06Jul2025 23:17:50.858] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:-441, y:-7, z:1275, dim:minecraft:overworld]
+[06Jul2025 23:17:50.866] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[06Jul2025 23:17:53.223] [Server thread/DEBUG] [twilightforest/]: Player ByJean2812 (3808f9c7-7752-31e7-94ba-300fec15b4b8) respawned and received items held in storage
+[06Jul2025 23:17:57.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[06Jul2025 23:18:09.788] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/58425, l='ServerLevel[world]', x=-525.50, y=74.00, z=1216.50]
+[06Jul2025 23:18:26.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was blown up by Mutant Creeper
+[06Jul2025 23:18:26.959] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:-450, y:-8, z:1305, dim:minecraft:overworld]
+[06Jul2025 23:18:26.978] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[06Jul2025 23:18:28.498] [Server thread/DEBUG] [twilightforest/]: Player ByJean2812 (3808f9c7-7752-31e7-94ba-300fec15b4b8) respawned and received items held in storage
+[06Jul2025 23:18:29.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[06Jul2025 23:18:43.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was blown up by Mutant Creeper
+[06Jul2025 23:18:43.154] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:-442, y:-8, z:1295, dim:minecraft:overworld]
+[06Jul2025 23:18:43.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was blown up by Mutant Creeper
+[06Jul2025 23:18:43.161] [Server thread/DEBUG] [tombstone/]: A new grave of the player Pulpleito8 was created at position [x:-432, y:-10, z:1303, dim:minecraft:overworld]
+[06Jul2025 23:18:43.240] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[06Jul2025 23:18:43.240] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[06Jul2025 23:18:44.899] [Server thread/DEBUG] [twilightforest/]: Player Pulpleito8 (d22b9c2a-031e-30ec-8cf8-ce7194d1bb5e) respawned and received items held in storage
+[06Jul2025 23:18:45.383] [Server thread/DEBUG] [twilightforest/]: Player ByJean2812 (3808f9c7-7752-31e7-94ba-300fec15b4b8) respawned and received items held in storage
+[06Jul2025 23:18:47.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[06Jul2025 23:19:14.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Set own game mode to Spectator Mode]
+[06Jul2025 23:19:14.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Spectator Mode]
+[06Jul2025 23:19:38.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[06Jul2025 23:19:39.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
+[06Jul2025 23:19:45.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Set own game mode to Survival Mode]
+[06Jul2025 23:20:06.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was blown up by Troll
+[06Jul2025 23:20:06.650] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:-457, y:-7, z:1296, dim:minecraft:overworld]
+[06Jul2025 23:20:06.658] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[06Jul2025 23:20:07.903] [Server thread/DEBUG] [twilightforest/]: Player ByJean2812 (3808f9c7-7752-31e7-94ba-300fec15b4b8) respawned and received items held in storage
+[06Jul2025 23:20:09.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[06Jul2025 23:20:12.687] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/60708, l='ServerLevel[world]', x=-488.50, y=73.00, z=1343.50]
+[06Jul2025 23:20:31.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [They Have a Cave Troll!]
+[06Jul2025 23:20:58.236] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/60992, l='ServerLevel[world]', x=-551.50, y=73.00, z=1219.50]
+[06Jul2025 23:21:24.137] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/61110, l='ServerLevel[world]', x=-538.50, y=72.00, z=1223.50]
+[06Jul2025 23:21:28.862] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 23:21:28.881] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 23:21:57.497] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByJean2812 lost connection: Disconnected
+[06Jul2025 23:21:57.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 left the game
+[06Jul2025 23:23:06.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Spectator Mode]
+[06Jul2025 23:23:12.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
+[06Jul2025 23:24:22.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Spectator Mode]
+[06Jul2025 23:25:55.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
+[06Jul2025 23:26:17.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Spectator Mode]
