@@ -600,3 +600,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jul2025 03:46:03.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Suit Up]
 [06Jul2025 03:57:44.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Spectator Mode]
 [06Jul2025 03:58:05.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to 30.500000, 100.000000, 526.500000]
+[06Jul2025 03:59:41.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Quite the Renovation]
+[06Jul2025 04:01:39.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to 39.500000, 100.000000, 526.500000]
+[06Jul2025 04:03:45.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
+[06Jul2025 04:04:22.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [An Ear-Shattering Roar]

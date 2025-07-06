@@ -1058,5 +1058,11 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-07-06 04:04:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
