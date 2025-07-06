@@ -705,3 +705,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jul2025 22:39:28.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
 [06Jul2025 22:40:32.786] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38998, l='ServerLevel[world]', x=-2.67, y=-256.00, z=533.56] died, message: 'Villager was killed'
 [06Jul2025 22:43:26.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[06Jul2025 22:53:58.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[06Jul2025 22:55:42.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[06Jul2025 22:55:58.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 fell from a high place
+[06Jul2025 22:55:58.614] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[06Jul2025 22:56:01.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]

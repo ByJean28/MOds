@@ -7967,3 +7967,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jul2025 22:41:28.875] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jul2025 22:41:28.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Jul2025 22:43:26.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[06Jul2025 22:46:28.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 22:46:28.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 22:51:28.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 22:51:28.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 22:53:58.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[06Jul2025 22:55:42.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[06Jul2025 22:55:58.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 fell from a high place
+[06Jul2025 22:55:58.579] [Server thread/DEBUG] [tombstone/]: A new grave of the player Pulpleito8 was created at position [x:-82, y:-21, z:644, dim:minecraft:overworld]
+[06Jul2025 22:55:58.614] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[06Jul2025 22:56:00.118] [Server thread/DEBUG] [twilightforest/]: Player Pulpleito8 (d22b9c2a-031e-30ec-8cf8-ce7194d1bb5e) respawned and received items held in storage
+[06Jul2025 22:56:01.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
