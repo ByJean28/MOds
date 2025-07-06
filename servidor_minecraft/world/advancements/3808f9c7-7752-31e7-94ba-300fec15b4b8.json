@@ -127,6 +127,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-07-06 04:41:43 +0000",
       "minecraft:taiga": "2025-06-23 01:24:23 +0000",
       "minecraft:deep_ocean": "2025-06-08 22:44:00 +0000",
       "minecraft:eroded_badlands": "2025-06-30 01:10:02 +0000",
@@ -1052,12 +1053,6 @@
       "in_stronghold_betterstrongholds": "2025-07-05 03:00:43 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-07-06 04:24:41 +0000"
-    },
-    "done": false
   },
   "iceandfire:iceandfire/dragonarmor": {
     "criteria": {
