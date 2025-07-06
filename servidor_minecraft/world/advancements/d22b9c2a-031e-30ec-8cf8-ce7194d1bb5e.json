@@ -1015,5 +1015,11 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
+    "criteria": {
+      "ex": "2025-07-06 04:14:31 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

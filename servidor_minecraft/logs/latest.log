@@ -604,3 +604,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jul2025 04:01:39.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to 39.500000, 100.000000, 526.500000]
 [06Jul2025 04:03:45.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
 [06Jul2025 04:04:22.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [An Ear-Shattering Roar]
+[06Jul2025 04:14:31.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Ant-Agonizer]
+[06Jul2025 04:14:47.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Ant Farm]
+[06Jul2025 04:18:28.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pulpleito8) moved wrongly! 0.30330204097776914
