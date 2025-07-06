@@ -625,3 +625,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jul2025 04:46:10.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
 [06Jul2025 04:46:20.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
 [06Jul2025 04:46:43.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[06Jul2025 04:48:11.257] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/12864, l='ServerLevel[world]', x=-3.17, y=-256.00, z=533.53] died, message: 'Villager was killed'
+[06Jul2025 04:48:36.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Set own game mode to Creative Mode]
+[06Jul2025 04:48:54.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set ByJean2812's game mode to Spectator Mode]
+[06Jul2025 04:50:59.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Set own game mode to Survival Mode]
