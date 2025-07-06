@@ -1030,7 +1030,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cow": "2025-07-04 03:08:28 +0000"
+      "minecraft:cow": "2025-07-04 03:08:28 +0000",
+      "minecraft:sheep": "2025-07-06 04:19:51 +0000"
     },
     "done": false
   },
@@ -1051,6 +1052,12 @@
       "in_stronghold_betterstrongholds": "2025-07-05 03:00:43 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-06 04:24:41 +0000"
+    },
+    "done": false
   },
   "iceandfire:iceandfire/dragonarmor": {
     "criteria": {
