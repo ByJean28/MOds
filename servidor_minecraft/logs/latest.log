@@ -598,3 +598,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jul2025 03:32:20.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 joined the game
 [06Jul2025 03:33:39.364] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 0 in "curios" inventory handler
 [06Jul2025 03:46:03.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Suit Up]
+[06Jul2025 03:57:44.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Spectator Mode]
+[06Jul2025 03:58:05.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to 30.500000, 100.000000, 526.500000]
