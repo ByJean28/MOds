@@ -130,6 +130,7 @@
       "minecraft:snowy_slopes": "2025-06-11 04:07:33 +0000",
       "minecraft:old_growth_pine_taiga": "2025-06-14 22:35:34 +0000",
       "minecraft:taiga": "2025-06-14 21:10:41 +0000",
+      "minecraft:deep_ocean": "2025-07-06 21:43:41 +0000",
       "minecraft:eroded_badlands": "2025-06-30 01:07:20 +0000",
       "minecraft:frozen_river": "2025-06-23 01:54:35 +0000",
       "quark:glimmering_weald": "2025-06-11 04:23:09 +0000",
@@ -621,7 +622,8 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
-      "phantom": "2025-06-14 22:30:29 +0000"
+      "phantom": "2025-06-14 22:30:29 +0000",
+      "warden": "2025-07-06 22:07:30 +0000"
     },
     "done": false
   },
@@ -1030,6 +1032,18 @@
   "undead_revamp2:thineded": {
     "criteria": {
       "thineded": "2025-07-06 04:26:57 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-07-06 22:07:30 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-07-06 21:51:29 +0000"
     },
     "done": true
   },
