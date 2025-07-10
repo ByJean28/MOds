@@ -168,10 +168,12 @@
     "criteria": {
       "cooked_mutton": "2025-07-05 01:39:27 +0000",
       "cooked_beef": "2025-07-05 02:22:36 +0000",
+      "apple": "2025-07-10 03:47:14 +0000",
       "bread": "2025-07-03 04:03:06 +0000",
       "golden_apple": "2025-07-05 03:04:14 +0000",
       "cookie": "2025-07-03 03:55:33 +0000",
       "golden_carrot": "2025-07-03 04:41:48 +0000",
+      "beetroot": "2025-07-10 03:44:20 +0000",
       "carrot": "2025-07-05 03:24:54 +0000"
     },
     "done": false
@@ -525,6 +527,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-07-10 03:02:47 +0000"
+    },
+    "done": true
+  },
+  "aether:blue_aercloud": {
+    "criteria": {
+      "blue_aercloud": "2025-07-10 03:46:57 +0000"
     },
     "done": true
   },

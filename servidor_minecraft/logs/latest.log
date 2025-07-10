@@ -781,3 +781,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 03:46:12.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has reached the goal [Like a Bossaru!]
 [10Jul2025 03:46:57.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [To Infinity and Beyond!]
 [10Jul2025 03:46:59.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has reached the goal [The Power of the Gods]
+[10Jul2025 03:47:08.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has reached the goal [The Power of the Gods]
+[10Jul2025 03:48:06.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to Ale_sweeney]
+[10Jul2025 03:48:31.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[10Jul2025 03:50:27.356] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 lost connection: Disconnected
+[10Jul2025 03:50:27.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 left the game
+[10Jul2025 03:50:28.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByJean2812 lost connection: Disconnected
+[10Jul2025 03:50:28.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 left the game
