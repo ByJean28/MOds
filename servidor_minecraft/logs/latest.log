@@ -615,3 +615,79 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 02:46:30.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to zens25]
 [10Jul2025 02:51:01.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 fell from a high place
 [10Jul2025 02:51:01.682] [Server thread/INFO] [tombstone/]: The player zens25 has successfully been saved
+[10Jul2025 02:56:26.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to zens25]
+[10Jul2025 02:57:27.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[10Jul2025 02:58:17.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[10Jul2025 02:58:40.802] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[10Jul2025 02:58:47.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 6.556369246813404,0.0,7.670157863112081
+[10Jul2025 02:58:47.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 7.410848647169303,0.0,8.591520333973676
+[10Jul2025 02:58:47.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 8.258590354320745,0.0,9.520098299502706
+[10Jul2025 02:58:47.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 9.100389416065866,0.0,10.455040331328519
+[10Jul2025 02:58:47.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 9.936947064562617,0.0,11.395595469628006
+[10Jul2025 02:58:47.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 10.769181583085413,0.0,12.340857417170355
+[10Jul2025 02:58:47.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 11.59850970819059,0.0,13.289525141672584
+[10Jul2025 02:58:47.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 12.42736318906941,0.0,14.239432513362772
+[10Jul2025 02:58:47.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 7.567056222986821,0.0,8.428473149736192
+[10Jul2025 02:58:47.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 8.41261077423178,0.0,9.363809310237912
+[10Jul2025 02:58:47.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 9.268406032388555,0.0,10.28972509238838
+[10Jul2025 02:58:47.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 10.131099828907054,0.0,11.209609276315518
+[10Jul2025 02:59:13.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Pic-A-Nic Basket?]
+[10Jul2025 02:59:15.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[10Jul2025 02:59:22.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to Ale_sweeney]
+[10Jul2025 02:59:33.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[10Jul2025 02:59:34.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[10Jul2025 02:59:38.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 9.048076240617547,1.171136937833765,-5.986040187043386
+[10Jul2025 02:59:38.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 10.14326581137857,1.2370733509573455,-6.530685972457945
+[10Jul2025 02:59:38.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 11.251641418961754,1.2952292673323456,-7.055911203312462
+[10Jul2025 02:59:38.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 12.37152620809502,1.3465227855750896,-7.564389659751555
+[10Jul2025 02:59:38.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 13.50168299828249,1.3917636686651917,-8.057715306449722
+[10Jul2025 02:59:38.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 14.640899693399774,1.4316661275506561,-8.537676174956346
+[10Jul2025 02:59:38.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 15.788107224665282,1.4668600962876326,-9.005849309097925
+[10Jul2025 02:59:38.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 16.942362673413413,1.497901176713654,-9.463625661529704
+[10Jul2025 02:59:38.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 18.102834385381243,1.5252794096494,-9.912232052493323
+[10Jul2025 02:59:38.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 19.26855038195572,1.5494270110987287,-10.3535008920677
+[10Jul2025 02:59:38.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 20.438773328655543,1.5707251955770403,-10.788665904194886
+[10Jul2025 02:59:38.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 21.612971405365784,1.589510194286916,-11.218447340513535
+[10Jul2025 02:59:38.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 22.79067554674532,1.6060785631490262,-11.643480462969137
+[10Jul2025 02:59:38.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 23.971472037163153,1.6206918644854085,-12.064325572597568
+[10Jul2025 02:59:38.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 25.15499597943267,1.6335807962640985,-12.48147685491233
+[10Jul2025 02:59:38.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 26.340925534235453,1.6449488340929008,-12.895370181536464
+[10Jul2025 02:59:38.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 27.528976839292568,1.6549754434579,-13.30638999124153
+[10Jul2025 02:59:38.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 28.718899528073962,1.663818912917833,-13.71487535902395
+[10Jul2025 02:59:38.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 29.910472777300242,1.6716188529814957,-14.121125349030535
+[10Jul2025 02:59:38.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 31.103501820838915,1.6784984001176468,-14.52540373583895
+[10Jul2025 02:59:38.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 32.29781487496109,1.6845661606917304,-14.927943168626484
+[10Jul2025 02:59:38.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 33.49326042641792,1.689917925518074,-15.328948843967623
+[10Jul2025 02:59:38.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 34.68970484052386,1.6946381820949057,-15.728601745241008
+[10Jul2025 02:59:38.285] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 35.88703025148641,1.6988014483956704,-16.12706149978669
+[10Jul2025 02:59:38.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 29.117295876692538,0.6060943494477726,-11.105093266632252
+[10Jul2025 02:59:38.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 30.316083675481195,0.6093330542215227,-11.50157248828907
+[10Jul2025 02:59:38.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 31.515475951733833,0.6093330542215227,-11.897233057412905
+[10Jul2025 02:59:38.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 32.71540137710974,0.6093330542215227,-12.292171575002726
+[10Jul2025 02:59:46.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[10Jul2025 02:59:51.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3092ms or 61 ticks behind
+[10Jul2025 03:00:09.943] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3867ms or 77 ticks behind
+[10Jul2025 03:00:29.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4083ms or 81 ticks behind
+[10Jul2025 03:00:48.342] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4365ms or 87 ticks behind
+[10Jul2025 03:00:54.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[10Jul2025 03:01:06.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3576ms or 71 ticks behind
+[10Jul2025 03:01:26.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4320ms or 86 ticks behind
+[10Jul2025 03:01:50.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9022ms or 180 ticks behind
+[10Jul2025 03:01:55.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Chompy]
+[10Jul2025 03:02:11.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6043ms or 120 ticks behind
+[10Jul2025 03:02:32.982] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6805ms or 136 ticks behind
+[10Jul2025 03:02:37.895] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[10Jul2025 03:02:47.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [Getting an Upgrade]
+[10Jul2025 03:02:54.820] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6843ms or 136 ticks behind
+[10Jul2025 03:03:19.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9291ms or 185 ticks behind
+[10Jul2025 03:03:42.204] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8177ms or 163 ticks behind
+[10Jul2025 03:04:06.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8907ms or 178 ticks behind
+[10Jul2025 03:04:08.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Hostile Paradise]
+[10Jul2025 03:04:08.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[10Jul2025 03:04:33.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[10Jul2025 03:04:38.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [I slipped]
+[10Jul2025 03:04:53.638] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[10Jul2025 03:04:54.482] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[10Jul2025 03:05:15.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6038ms or 120 ticks behind
+[10Jul2025 03:05:20.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to ByJean2812]
+[10Jul2025 03:05:32.537] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
