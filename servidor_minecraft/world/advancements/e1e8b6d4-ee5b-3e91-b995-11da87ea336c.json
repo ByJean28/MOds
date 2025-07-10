@@ -466,77 +466,29 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:story/follow_ender_eye": {
     "criteria": {
-      "log_spam_fixer": "2025-07-05 04:12:13 +0000"
+      "in_stronghold_betterstrongholds": "2025-07-05 03:00:53 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "log_spam_fixer": "2025-07-05 04:12:13 +0000"
+      "diamond_chestplate": "2025-07-05 03:08:40 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "tombstone:adventure/strong_or_careful": {
     "criteria": {
-      "log_spam_fixer": "2025-07-05 04:12:13 +0000"
+      "coded_trigger": "2025-07-05 03:24:01 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "tombstone:adventure/chain_death": {
     "criteria": {
-      "log_spam_fixer": "2025-07-05 04:12:13 +0000"
+      "coded_trigger": "2025-07-05 03:37:33 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 04:12:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 04:12:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 04:12:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 04:12:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 04:12:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 04:12:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 04:12:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 04:12:13 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:story/deflect_arrow": {
     "criteria": {
@@ -550,15 +502,9 @@
     },
     "done": false
   },
-  "minecraft:story/shiny_gear": {
+  "minecraft:husbandry/breed_an_animal": {
     "criteria": {
-      "diamond_chestplate": "2025-07-05 03:08:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/follow_ender_eye": {
-    "criteria": {
-      "in_stronghold_betterstrongholds": "2025-07-05 03:00:53 +0000"
+      "bred": "2025-07-05 03:41:53 +0000"
     },
     "done": true
   },
@@ -568,27 +514,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/chain_death": {
-    "criteria": {
-      "coded_trigger": "2025-07-05 03:37:33 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/strong_or_careful": {
-    "criteria": {
-      "coded_trigger": "2025-07-05 03:24:01 +0000"
-    },
-    "done": true
-  },
   "iceandfire:iceandfire/dragon_flute": {
     "criteria": {
       "bestiary": "2025-07-05 04:05:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2025-07-05 03:41:53 +0000"
     },
     "done": true
   },
