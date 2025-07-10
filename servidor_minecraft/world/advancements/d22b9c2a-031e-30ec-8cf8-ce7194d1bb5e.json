@@ -1065,9 +1065,27 @@
     },
     "done": true
   },
+  "aether:regen_stone": {
+    "criteria": {
+      "regen_stone": "2025-07-10 03:31:42 +0000"
+    },
+    "done": true
+  },
+  "aether:silver_dungeon": {
+    "criteria": {
+      "kill_valkyrie_queen": "2025-07-10 03:30:47 +0000"
+    },
+    "done": true
+  },
   "aether:obtain_petal": {
     "criteria": {
       "aechor_petal": "2025-07-10 03:08:37 +0000"
+    },
+    "done": true
+  },
+  "aether:valkyrie_loot": {
+    "criteria": {
+      "valkyrie_shovel": "2025-07-10 03:31:44 +0000"
     },
     "done": true
   },

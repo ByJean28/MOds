@@ -8421,3 +8421,52 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 03:23:02.418] [Server thread/DEBUG] [twilightforest/]: Player Pulpleito8 (d22b9c2a-031e-30ec-8cf8-ce7194d1bb5e) respawned and received items held in storage
 [10Jul2025 03:23:04.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
 [10Jul2025 03:23:29.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Baby Food]
+[10Jul2025 03:27:11.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved wrongly! 0.27822069143597616
+[10Jul2025 03:27:11.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved wrongly! 0.8620799113924562
+[10Jul2025 03:27:11.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved wrongly! 1.377043743394072
+[10Jul2025 03:27:11.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved wrongly! 1.8312418432194981
+[10Jul2025 03:27:38.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 03:27:38.748] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 03:28:14.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Valkyrie Queen
+[10Jul2025 03:28:14.620] [Server thread/DEBUG] [tombstone/]: A new grave of the player Pulpleito8 was created at position [x:-30, y:99, z:159, dim:aether:the_aether]
+[10Jul2025 03:28:14.630] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[10Jul2025 03:28:15.936] [Server thread/DEBUG] [twilightforest/]: Player Pulpleito8 (d22b9c2a-031e-30ec-8cf8-ce7194d1bb5e) respawned and received items held in storage
+[10Jul2025 03:28:18.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[10Jul2025 03:28:36.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was zapped by Valkyrie Queen's Thunder Crystal
+[10Jul2025 03:28:36.418] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:-37, y:98, z:146, dim:aether:the_aether]
+[10Jul2025 03:28:36.463] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[10Jul2025 03:28:38.657] [Server thread/DEBUG] [twilightforest/]: Player ByJean2812 (3808f9c7-7752-31e7-94ba-300fec15b4b8) respawned and received items held in storage
+[10Jul2025 03:28:41.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[10Jul2025 03:29:58.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Valkyrie Queen
+[10Jul2025 03:29:58.954] [Server thread/DEBUG] [tombstone/]: A new grave of the player Pulpleito8 was created at position [x:-26, y:97, z:152, dim:aether:the_aether]
+[10Jul2025 03:29:58.965] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[10Jul2025 03:30:00.322] [Server thread/DEBUG] [twilightforest/]: Player Pulpleito8 (d22b9c2a-031e-30ec-8cf8-ce7194d1bb5e) respawned and received items held in storage
+[10Jul2025 03:30:02.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[10Jul2025 03:30:36.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Valkyrie Queen
+[10Jul2025 03:30:36.807] [Server thread/DEBUG] [tombstone/]: A new grave of the player Pulpleito8 was created at position [x:-31, y:98, z:156, dim:aether:the_aether]
+[10Jul2025 03:30:36.816] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[10Jul2025 03:30:38.221] [Server thread/DEBUG] [twilightforest/]: Player Pulpleito8 (d22b9c2a-031e-30ec-8cf8-ce7194d1bb5e) respawned and received items held in storage
+[10Jul2025 03:30:39.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[10Jul2025 03:30:47.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has reached the goal [Dethroned]
+[10Jul2025 03:30:47.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has reached the goal [Dethroned]
+[10Jul2025 03:31:42.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has reached the goal [Earning your Wings]
+[10Jul2025 03:31:42.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Battle Hardened]
+[10Jul2025 03:31:44.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has reached the goal [Earning your Wings]
+[10Jul2025 03:32:38.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 03:32:38.755] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 03:33:06.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [To Infinity and Beyond!]
+[10Jul2025 03:33:16.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[10Jul2025 03:33:20.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[10Jul2025 03:33:22.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[10Jul2025 03:33:23.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[10Jul2025 03:33:24.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 fell from a high place
+[10Jul2025 03:33:24.969] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:30, y:95, z:150, dim:minecraft:overworld]
+[10Jul2025 03:33:25.010] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[10Jul2025 03:33:26.440] [Server thread/DEBUG] [twilightforest/]: Player ByJean2812 (3808f9c7-7752-31e7-94ba-300fec15b4b8) respawned and received items held in storage
+[10Jul2025 03:33:28.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[10Jul2025 03:33:44.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to Ale_sweeney]
+[10Jul2025 03:34:28.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[10Jul2025 03:35:30.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 fell from a high place
+[10Jul2025 03:35:30.105] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:3, y:124, z:532, dim:minecraft:overworld]
+[10Jul2025 03:35:30.113] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[10Jul2025 03:35:31.677] [Server thread/DEBUG] [twilightforest/]: Player ByJean2812 (3808f9c7-7752-31e7-94ba-300fec15b4b8) respawned and received items held in storage

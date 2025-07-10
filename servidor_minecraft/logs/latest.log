@@ -728,3 +728,36 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 03:23:01.170] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
 [10Jul2025 03:23:04.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
 [10Jul2025 03:23:29.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Baby Food]
+[10Jul2025 03:27:11.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved wrongly! 0.27822069143597616
+[10Jul2025 03:27:11.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved wrongly! 0.8620799113924562
+[10Jul2025 03:27:11.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved wrongly! 1.377043743394072
+[10Jul2025 03:27:11.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved wrongly! 1.8312418432194981
+[10Jul2025 03:28:14.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Valkyrie Queen
+[10Jul2025 03:28:14.630] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[10Jul2025 03:28:18.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[10Jul2025 03:28:36.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was zapped by Valkyrie Queen's Thunder Crystal
+[10Jul2025 03:28:36.463] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[10Jul2025 03:28:41.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[10Jul2025 03:29:58.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Valkyrie Queen
+[10Jul2025 03:29:58.965] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[10Jul2025 03:30:02.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[10Jul2025 03:30:36.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Valkyrie Queen
+[10Jul2025 03:30:36.816] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[10Jul2025 03:30:39.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[10Jul2025 03:30:47.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has reached the goal [Dethroned]
+[10Jul2025 03:30:47.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has reached the goal [Dethroned]
+[10Jul2025 03:31:42.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has reached the goal [Earning your Wings]
+[10Jul2025 03:31:42.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Battle Hardened]
+[10Jul2025 03:31:44.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has reached the goal [Earning your Wings]
+[10Jul2025 03:33:06.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [To Infinity and Beyond!]
+[10Jul2025 03:33:16.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[10Jul2025 03:33:20.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[10Jul2025 03:33:22.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[10Jul2025 03:33:23.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[10Jul2025 03:33:24.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 fell from a high place
+[10Jul2025 03:33:25.010] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[10Jul2025 03:33:28.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[10Jul2025 03:33:44.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to Ale_sweeney]
+[10Jul2025 03:34:28.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[10Jul2025 03:35:30.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 fell from a high place
+[10Jul2025 03:35:30.113] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
