@@ -1092,5 +1092,23 @@
     },
     "done": true
   },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2025-07-10 03:04:08 +0000"
+    },
+    "done": true
+  },
+  "aether:obtain_egg": {
+    "criteria": {
+      "moa_egg": "2025-07-10 03:14:56 +0000"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2025-07-10 03:04:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

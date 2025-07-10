@@ -691,3 +691,40 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 03:05:15.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6038ms or 120 ticks behind
 [10Jul2025 03:05:20.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to ByJean2812]
 [10Jul2025 03:05:32.537] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[10Jul2025 03:05:58.829] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[10Jul2025 03:06:08.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[10Jul2025 03:06:08.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 fell from a high place
+[10Jul2025 03:06:08.720] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[10Jul2025 03:06:15.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[10Jul2025 03:06:17.819] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3993ms or 79 ticks behind
+[10Jul2025 03:07:52.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 fell from a high place
+[10Jul2025 03:07:52.067] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[10Jul2025 03:07:57.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[10Jul2025 03:08:37.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Baby Food]
+[10Jul2025 03:09:05.133] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35270, l='ServerLevel[world]', x=-3.47, y=-256.00, z=533.03] died, message: 'Villager was killed'
+[10Jul2025 03:10:34.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[10Jul2025 03:11:31.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Valkyrie
+[10Jul2025 03:11:31.070] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[10Jul2025 03:11:34.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[10Jul2025 03:14:30.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Hostile Paradise]
+[10Jul2025 03:14:30.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Pulpleito8]
+[10Jul2025 03:14:56.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Don't Count Your Moas...]
+[10Jul2025 03:15:57.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Exotic Hardware]
+[10Jul2025 03:16:36.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Valkyrie
+[10Jul2025 03:16:36.975] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[10Jul2025 03:16:40.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[10Jul2025 03:16:51.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Your First Receptacle]
+[10Jul2025 03:17:00.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has reached the goal [Heliomancer]
+[10Jul2025 03:18:12.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Valkyrie
+[10Jul2025 03:18:12.326] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[10Jul2025 03:18:15.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[10Jul2025 03:20:03.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Don't Count Your Moas...]
+[10Jul2025 03:20:14.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Valkyrie
+[10Jul2025 03:20:14.374] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[10Jul2025 03:20:18.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[10Jul2025 03:20:38.853] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zens25 lost connection: Disconnected
+[10Jul2025 03:20:38.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 left the game
+[10Jul2025 03:23:01.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Valkyrie
+[10Jul2025 03:23:01.170] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[10Jul2025 03:23:04.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[10Jul2025 03:23:29.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Baby Food]

@@ -207,6 +207,7 @@
       "minecraft:magma_cube": "2025-07-03 04:16:21 +0000",
       "minecraft:piglin_brute": "2025-07-03 04:29:14 +0000",
       "minecraft:wither_skeleton": "2025-07-03 04:18:07 +0000",
+      "minecraft:husk": "2025-07-10 03:03:42 +0000",
       "minecraft:piglin": "2025-07-03 04:05:09 +0000",
       "quark:foxhound": "2025-07-03 04:05:23 +0000",
       "minecraft:zombie": "2025-07-04 03:06:24 +0000"
@@ -518,6 +519,12 @@
   "iceandfire:iceandfire/dragon_flute": {
     "criteria": {
       "bestiary": "2025-07-05 04:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-07-10 03:02:47 +0000"
     },
     "done": true
   },

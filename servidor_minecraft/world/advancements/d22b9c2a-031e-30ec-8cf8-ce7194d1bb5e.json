@@ -1053,5 +1053,47 @@
     },
     "done": true
   },
+  "tombstone:adventure/prevent_death_fall": {
+    "criteria": {
+      "coded_trigger": "2025-07-10 03:04:38 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2025-07-10 03:17:00 +0000"
+    },
+    "done": true
+  },
+  "aether:obtain_petal": {
+    "criteria": {
+      "aechor_petal": "2025-07-10 03:08:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/death_master": {
+    "criteria": {
+      "has_prevent_fall": "2025-07-10 03:04:38 +0000"
+    },
+    "done": false
+  },
+  "aether:zanite": {
+    "criteria": {
+      "zanite": "2025-07-10 03:15:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_familiar_receptacle": "2025-07-10 03:16:51 +0000"
+    },
+    "done": true
+  },
+  "aether:obtain_egg": {
+    "criteria": {
+      "moa_egg": "2025-07-10 03:20:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
