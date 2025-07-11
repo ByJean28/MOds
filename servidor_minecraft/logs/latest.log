@@ -599,3 +599,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Jul2025 04:07:09.440] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
 [11Jul2025 04:07:47.230] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pulpleito8[/127.73.31.138:36009] logged in with entity id 5612 at (-14.754515177512355, 108.0, 515.0450699387204)
 [11Jul2025 04:07:47.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 joined the game
+[11Jul2025 04:09:54.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 hit the ground too hard
+[11Jul2025 04:09:54.594] [Server thread/INFO] [tombstone/]: The player zens25 has successfully been saved
+[11Jul2025 04:10:34.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to zens25]
+[11Jul2025 04:10:46.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 fell from a high place
+[11Jul2025 04:10:46.704] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[11Jul2025 04:10:50.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to zens25]
+[11Jul2025 04:11:58.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 fell from a high place
+[11Jul2025 04:11:58.599] [Server thread/INFO] [tombstone/]: The player zens25 has successfully been saved
+[11Jul2025 04:12:13.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported zens25 to ByJean2812]
+[11Jul2025 04:13:03.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported zens25 to ByJean2812]
+[11Jul2025 04:15:29.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[11Jul2025 04:15:58.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[11Jul2025 04:16:02.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[11Jul2025 04:16:06.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[11Jul2025 04:16:20.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[11Jul2025 04:16:30.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Pulpleito8]
+[11Jul2025 04:17:32.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 was incinerated by Sun Spirit's Fire Crystal
+[11Jul2025 04:17:32.433] [Server thread/INFO] [tombstone/]: The player zens25 has successfully been saved
+[11Jul2025 04:17:36.741] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[11Jul2025 04:17:36.742] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[11Jul2025 04:17:43.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Pulpleito8]
