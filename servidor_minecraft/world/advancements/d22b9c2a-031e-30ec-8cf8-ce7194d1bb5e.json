@@ -1127,6 +1127,18 @@
     },
     "done": true
   },
+  "aether:mount_phyg": {
+    "criteria": {
+      "mount_phyg": "2025-07-11 04:41:05 +0000"
+    },
+    "done": true
+  },
+  "aether:blue_aercloud": {
+    "criteria": {
+      "blue_aercloud": "2025-07-11 04:41:55 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/prevent_death_burn": {
     "criteria": {
       "coded_trigger": "2025-07-11 04:31:21 +0000"

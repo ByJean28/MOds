@@ -694,3 +694,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Jul2025 04:34:45.726] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zens25 lost connection: Disconnected
 [11Jul2025 04:34:45.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 left the game
 [11Jul2025 04:40:02.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[11Jul2025 04:41:05.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [When Phygs Fly]
+[11Jul2025 04:41:55.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [To Infinity and Beyond!]
+[11Jul2025 04:43:18.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[11Jul2025 04:44:11.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[11Jul2025 04:47:17.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was burnt to a crisp whilst fighting Sun Spirit
+[11Jul2025 04:47:17.181] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[11Jul2025 04:47:21.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[11Jul2025 04:49:19.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was burnt to a crisp whilst fighting Fire Minion
+[11Jul2025 04:49:19.631] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[11Jul2025 04:49:21.331] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[11Jul2025 04:49:21.331] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[11Jul2025 04:49:22.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[11Jul2025 04:50:05.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Fire Minion
+[11Jul2025 04:50:05.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByJean2812 moved wrongly!
+[11Jul2025 04:50:05.429] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[11Jul2025 04:50:06.967] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[11Jul2025 04:50:06.967] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[11Jul2025 04:50:08.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
