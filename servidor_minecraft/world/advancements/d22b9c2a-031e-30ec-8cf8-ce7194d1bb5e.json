@@ -227,6 +227,7 @@
       "pumpkin_pie": "2025-06-15 22:51:04 +0000",
       "bread": "2025-06-12 02:51:50 +0000",
       "golden_apple": "2025-06-13 00:51:40 +0000",
+      "cookie": "2025-07-11 04:26:37 +0000",
       "glow_berries": "2025-06-11 05:05:55 +0000",
       "salmon": "2025-06-23 02:25:37 +0000",
       "beetroot": "2025-06-12 02:02:51 +0000",
@@ -1061,6 +1062,7 @@
   },
   "tombstone:adventure/death_master": {
     "criteria": {
+      "has_prevent_burn": "2025-07-11 04:31:21 +0000",
       "has_prevent_fall": "2025-07-10 03:04:38 +0000"
     },
     "done": false
@@ -1122,6 +1124,12 @@
   "aether:hammer_loot": {
     "criteria": {
       "hammer_loot": "2025-07-10 03:46:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/prevent_death_burn": {
+    "criteria": {
+      "coded_trigger": "2025-07-11 04:31:21 +0000"
     },
     "done": true
   },

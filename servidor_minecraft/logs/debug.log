@@ -8147,3 +8147,49 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Jul2025 04:28:51.484] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
 [11Jul2025 04:28:51.485] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
 [11Jul2025 04:28:54.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Pulpleito8]
+[11Jul2025 04:29:52.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 was slain by Fire Minion
+[11Jul2025 04:29:52.880] [Server thread/DEBUG] [tombstone/]: A new grave of the player zens25 was created at position [x:-525, y:103, z:143, dim:aether:the_aether]
+[11Jul2025 04:29:52.890] [Server thread/INFO] [tombstone/]: The player zens25 has successfully been saved
+[11Jul2025 04:29:54.438] [Server thread/DEBUG] [twilightforest/]: Player zens25 (bf71d5c8-39e5-3bc8-90c6-fa665d48c29c) respawned and received items held in storage
+[11Jul2025 04:29:54.729] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[11Jul2025 04:29:54.729] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[11Jul2025 04:30:06.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Pulpleito8]
+[11Jul2025 04:30:23.381] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2025 04:30:23.402] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2025 04:30:42.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 was burnt to a crisp whilst fighting Sun Spirit
+[11Jul2025 04:30:42.174] [Server thread/DEBUG] [tombstone/]: A new grave of the player zens25 was created at position [x:-514, y:103, z:132, dim:aether:the_aether]
+[11Jul2025 04:30:42.191] [Server thread/INFO] [tombstone/]: The player zens25 has successfully been saved
+[11Jul2025 04:30:44.029] [Server thread/DEBUG] [twilightforest/]: Player zens25 (bf71d5c8-39e5-3bc8-90c6-fa665d48c29c) respawned and received items held in storage
+[11Jul2025 04:30:44.273] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[11Jul2025 04:30:44.274] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[11Jul2025 04:30:44.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Pulpleito8]
+[11Jul2025 04:31:21.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [It's not time to tan]
+[11Jul2025 04:32:12.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 was incinerated by Sun Spirit's Fire Crystal
+[11Jul2025 04:32:12.822] [Server thread/DEBUG] [tombstone/]: A new grave of the player zens25 was created at position [x:-527, y:104, z:146, dim:aether:the_aether]
+[11Jul2025 04:32:12.832] [Server thread/INFO] [tombstone/]: The player zens25 has successfully been saved
+[11Jul2025 04:32:15.067] [Server thread/DEBUG] [twilightforest/]: Player zens25 (bf71d5c8-39e5-3bc8-90c6-fa665d48c29c) respawned and received items held in storage
+[11Jul2025 04:32:15.353] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[11Jul2025 04:32:15.353] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[11Jul2025 04:32:23.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Pulpleito8]
+[11Jul2025 04:32:42.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was incinerated by Sun Spirit's Fire Crystal
+[11Jul2025 04:32:42.226] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:-527, y:104, z:133, dim:aether:the_aether]
+[11Jul2025 04:32:42.233] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[11Jul2025 04:32:43.722] [Server thread/DEBUG] [twilightforest/]: Player ByJean2812 (3808f9c7-7752-31e7-94ba-300fec15b4b8) respawned and received items held in storage
+[11Jul2025 04:32:43.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was incinerated by Sun Spirit's Fire Crystal
+[11Jul2025 04:32:43.786] [Server thread/DEBUG] [tombstone/]: A new grave of the player Pulpleito8 was created at position [x:-516, y:103, z:132, dim:aether:the_aether]
+[11Jul2025 04:32:43.805] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[11Jul2025 04:32:43.990] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[11Jul2025 04:32:43.990] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[11Jul2025 04:32:47.591] [Server thread/DEBUG] [twilightforest/]: Player Pulpleito8 (d22b9c2a-031e-30ec-8cf8-ce7194d1bb5e) respawned and received items held in storage
+[11Jul2025 04:32:47.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2234ms or 44 ticks behind
+[11Jul2025 04:32:47.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 was incinerated by Sun Spirit's Fire Crystal
+[11Jul2025 04:32:47.734] [Server thread/DEBUG] [tombstone/]: A new grave of the player zens25 was created at position [x:-507, y:104, z:150, dim:aether:the_aether]
+[11Jul2025 04:32:47.745] [Server thread/INFO] [tombstone/]: The player zens25 has successfully been saved
+[11Jul2025 04:32:54.554] [Server thread/DEBUG] [twilightforest/]: Player zens25 (bf71d5c8-39e5-3bc8-90c6-fa665d48c29c) respawned and received items held in storage
+[11Jul2025 04:32:54.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[11Jul2025 04:32:56.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[11Jul2025 04:34:45.726] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zens25 lost connection: Disconnected
+[11Jul2025 04:34:45.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 left the game
+[11Jul2025 04:35:25.571] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2025 04:35:25.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2025 04:40:02.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
