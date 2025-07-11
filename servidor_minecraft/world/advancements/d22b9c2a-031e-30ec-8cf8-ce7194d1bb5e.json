@@ -1127,9 +1127,21 @@
     },
     "done": true
   },
+  "aether:icestone": {
+    "criteria": {
+      "icestone": "2025-07-11 04:54:55 +0000"
+    },
+    "done": true
+  },
   "aether:mount_phyg": {
     "criteria": {
       "mount_phyg": "2025-07-11 04:41:05 +0000"
+    },
+    "done": true
+  },
+  "aether:gold_dungeon": {
+    "criteria": {
+      "kill_sun_spirit": "2025-07-11 04:52:34 +0000"
     },
     "done": true
   },
