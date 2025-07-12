@@ -1165,23 +1165,17 @@
     },
     "done": true
   },
-  "twilightforest:progress_trophy_pedestal": {
+  "twilightforest:root": {
     "criteria": {
-      "kill_lich": "2025-07-12 05:32:24 +0000"
+      "in_tf": "2025-07-12 04:40:05 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "skeleton_druid": "2025-07-12 04:56:37 +0000"
     },
     "done": true
-  },
-  "twilightforest:progress_labyrinth": {
-    "criteria": {
-      "kill_lich": "2025-07-12 05:32:24 +0000"
-    },
-    "done": false
   },
   "twilightforest:arborist": {
     "criteria": {
@@ -1192,27 +1186,9 @@
     },
     "done": false
   },
-  "twilightforest:progress_yeti": {
-    "criteria": {
-      "previous_progression": "2025-07-12 05:32:24 +0000"
-    },
-    "done": false
-  },
   "twilightforest:progress_naga": {
     "criteria": {
       "naga": "2025-07-12 05:28:17 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/strong_undead": {
-    "criteria": {
-      "coded_trigger": "2025-07-12 05:32:24 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:root": {
-    "criteria": {
-      "in_tf": "2025-07-12 04:40:05 +0000"
     },
     "done": true
   },
@@ -1222,6 +1198,45 @@
       "kill_naga": "2025-07-12 05:28:17 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2025-07-12 05:32:24 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "meef": "2025-07-12 06:07:22 +0000",
+      "kill_lich": "2025-07-12 05:32:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2025-07-12 05:32:24 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-07-12 05:32:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "stroganoff": "2025-07-12 06:07:22 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "raw_meef": "2025-07-12 22:12:22 +0000",
+      "meef_stroganoff": "2025-07-12 06:07:22 +0000",
+      "cooked_meef": "2025-07-12 06:07:52 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
