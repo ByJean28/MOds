@@ -7941,3 +7941,26 @@ java.lang.ClassCastException: class net.minecraft.world.level.dimension.LevelSte
 [12Jul2025 22:21:49.379] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
 [12Jul2025 22:21:49.380] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
 [12Jul2025 22:21:54.830] [Worker-Main-16/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=138, y=48, z=4311} at Chest with:minecraft:chests/underwater_ruin_small
+[12Jul2025 22:24:32.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 22:24:32.230] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jul2025 22:29:32.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 22:29:32.223] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jul2025 22:31:09.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Another Brick in the Wall]
+[12Jul2025 22:31:49.168] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/18217, l='ServerLevel[world]', x=-180.50, y=53.00, z=-353.50]
+[12Jul2025 22:32:05.507] [Worker-Main-24/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=-606, y=47, z=-236} at Chest with:minecraft:chests/underwater_ruin_small
+[12Jul2025 22:32:08.508] [Worker-Main-14/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-623, y=-1, z=-341} at Chest with:minecraft:chests/simple_dungeon
+[12Jul2025 22:32:12.544] [Worker-Main-24/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=-521, y=52, z=-639} at Chest with:minecraft:chests/shipwreck_treasure
+[12Jul2025 22:32:21.286] [Worker-Main-16/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=-666, y=60, z=-120} at Chest with:minecraft:chests/shipwreck_map
+[12Jul2025 22:32:24.982] [Worker-Main-15/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-679, y=-9, z=-555} at Chest with:minecraft:chests/simple_dungeon
+[12Jul2025 22:33:03.348] [Worker-Main-24/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-675, y=-31, z=-740} at Chest with:minecraft:chests/simple_dungeon
+[12Jul2025 22:33:07.941] [Worker-Main-24/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[12Jul2025 22:33:07.941] [Worker-Main-24/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[12Jul2025 22:33:07.994] [Worker-Main-24/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[12Jul2025 22:33:07.996] [Worker-Main-24/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[12Jul2025 22:33:13.196] [Worker-Main-16/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-530, y=9, z=-785} at Chest with:minecraft:chests/simple_dungeon
+[12Jul2025 22:33:42.035] [Worker-Main-14/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:guardianboss at BlockPos{x=-526, y=48, z=-910} at Chest with:minecraft:chests/underwater_ruin_small
+[12Jul2025 22:33:46.663] [Worker-Main-14/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=-787, y=-11, z=-927} at Chest with:minecraft:chests/simple_dungeon
+[12Jul2025 22:33:59.306] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2796ms or 55 ticks behind
+[12Jul2025 22:33:59.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved too quickly! 2.01288757353052,4.542914102404815,-9.17490096977167
+[12Jul2025 22:34:35.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 22:34:35.061] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

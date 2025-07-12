@@ -144,14 +144,17 @@
       "minecraft:stony_peaks": "2025-06-30 01:15:57 +0000",
       "minecraft:sparse_jungle": "2025-06-15 21:22:28 +0000",
       "minecraft:river": "2025-06-12 02:03:09 +0000",
+      "minecraft:lukewarm_ocean": "2025-07-12 22:21:48 +0000",
       "minecraft:stony_shore": "2025-06-12 01:51:07 +0000",
       "minecraft:snowy_plains": "2025-06-23 01:57:20 +0000",
       "minecraft:dripstone_caves": "2025-06-14 05:16:34 +0000",
+      "minecraft:snowy_taiga": "2025-07-12 22:34:34 +0000",
       "minecraft:grove": "2025-06-08 22:50:45 +0000",
       "minecraft:jagged_peaks": "2025-06-23 00:27:43 +0000",
       "minecraft:cold_ocean": "2025-06-23 00:48:02 +0000",
       "minecraft:forest": "2025-06-08 21:56:59 +0000",
       "minecraft:lush_caves": "2025-06-11 04:40:45 +0000",
+      "minecraft:deep_cold_ocean": "2025-07-12 22:32:07 +0000",
       "minecraft:ice_spikes": "2025-06-23 02:44:35 +0000",
       "minecraft:frozen_ocean": "2025-06-23 01:53:24 +0000",
       "minecraft:deep_frozen_ocean": "2025-06-23 02:01:07 +0000",
@@ -1169,77 +1172,24 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "twilightforest:progress_naga": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 06:13:52 +0000"
+      "naga": "2025-07-12 05:09:08 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "twilightforest:progress_lich": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 06:13:52 +0000"
+      "kill_naga": "2025-07-12 05:09:08 +0000",
+      "was_in_fight": "2025-07-12 05:38:02 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "tombstone:adventure/prevent_death_darkness": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 06:13:52 +0000"
+      "coded_trigger": "2025-07-12 05:30:03 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 06:13:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 06:13:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 06:13:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 06:13:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 06:13:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 06:13:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 06:13:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 06:13:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 06:13:52 +0000"
-    },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
@@ -1253,29 +1203,11 @@
     },
     "done": false
   },
-  "tombstone:adventure/prevent_death_darkness": {
-    "criteria": {
-      "coded_trigger": "2025-07-12 05:30:03 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:twilight_dinner": {
-    "criteria": {
-      "cooked_meef": "2025-07-12 05:58:32 +0000"
-    },
-    "done": false
-  },
   "twilightforest:progress_yeti": {
     "criteria": {
       "previous_progression": "2025-07-12 05:38:02 +0000"
     },
     "done": false
-  },
-  "twilightforest:progress_naga": {
-    "criteria": {
-      "naga": "2025-07-12 05:09:08 +0000"
-    },
-    "done": true
   },
   "tombstone:adventure/strong_undead": {
     "criteria": {
@@ -1283,12 +1215,12 @@
     },
     "done": true
   },
-  "twilightforest:progress_lich": {
+  "twilightforest:twilight_dinner": {
     "criteria": {
-      "kill_naga": "2025-07-12 05:09:08 +0000",
-      "was_in_fight": "2025-07-12 05:38:02 +0000"
+      "raw_meef": "2025-07-12 22:31:16 +0000",
+      "cooked_meef": "2025-07-12 05:58:32 +0000"
     },
-    "done": true
+    "done": false
   },
   "DataVersion": 3465
 }
