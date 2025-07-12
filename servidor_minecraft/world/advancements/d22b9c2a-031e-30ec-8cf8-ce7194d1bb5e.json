@@ -1127,9 +1127,9 @@
     },
     "done": true
   },
-  "aether:icestone": {
+  "tombstone:adventure/prevent_death_burn": {
     "criteria": {
-      "icestone": "2025-07-11 04:54:55 +0000"
+      "coded_trigger": "2025-07-11 04:31:21 +0000"
     },
     "done": true
   },
@@ -1139,21 +1139,21 @@
     },
     "done": true
   },
-  "aether:gold_dungeon": {
-    "criteria": {
-      "kill_sun_spirit": "2025-07-11 04:52:34 +0000"
-    },
-    "done": true
-  },
   "aether:blue_aercloud": {
     "criteria": {
       "blue_aercloud": "2025-07-11 04:41:55 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/prevent_death_burn": {
+  "aether:gold_dungeon": {
     "criteria": {
-      "coded_trigger": "2025-07-11 04:31:21 +0000"
+      "kill_sun_spirit": "2025-07-11 04:52:34 +0000"
+    },
+    "done": true
+  },
+  "aether:icestone": {
+    "criteria": {
+      "icestone": "2025-07-11 04:54:55 +0000"
     },
     "done": true
   },
