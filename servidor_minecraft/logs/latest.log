@@ -651,3 +651,33 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Jul2025 23:27:11.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
 [12Jul2025 23:27:22.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to Pulpleito8]
 [12Jul2025 23:27:39.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to zens25]
+[12Jul2025 23:29:56.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Suit Up]
+[12Jul2025 23:30:55.008] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityLightningDragon['Lightning Dragon'/9009, l='ServerLevel[world]', x=34.50, y=112.00, z=570.50]
+[12Jul2025 23:30:55.957] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityLightningDragon['Lightning Dragon'/9031, l='ServerLevel[world]', x=33.50, y=113.00, z=568.50]
+[12Jul2025 23:31:26.308] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityLightningDragon['Lightning Dragon'/9232, l='ServerLevel[world]', x=36.50, y=119.00, z=601.50]
+[12Jul2025 23:31:26.904] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityLightningDragon['Lightning Dragon'/9244, l='ServerLevel[world]', x=36.50, y=119.00, z=601.50]
+[12Jul2025 23:32:44.789] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByJean2812 lost connection: Disconnected
+[12Jul2025 23:32:44.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 left the game
+[12Jul2025 23:33:22.386] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@287f197[id=<null>,name=ByJean2812,properties={},legacy=false] (/127.171.90.144:52911) lost connection: Disconnected
+[12Jul2025 23:33:39.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Creative Mode]
+[12Jul2025 23:33:54.645] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@a7db55c[id=<null>,name=ByJean2812,properties={},legacy=false] (/127.171.90.144:43471) lost connection: Disconnected
+[12Jul2025 23:33:59.239] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ale_sweeney lost connection: Disconnected
+[12Jul2025 23:33:59.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney left the game
+[12Jul2025 23:34:04.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
+[12Jul2025 23:34:43.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 was killed
+[12Jul2025 23:34:43.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed zens25
+[12Jul2025 23:34:44.018] [Server thread/INFO] [tombstone/]: The player zens25 has successfully been saved
+[12Jul2025 23:35:04.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 was killed
+[12Jul2025 23:35:04.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed zens25
+[12Jul2025 23:35:04.528] [Server thread/INFO] [tombstone/]: The player zens25 has successfully been saved
+[12Jul2025 23:35:07.520] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ale_sweeney[/127.206.95.249:49643] logged in with entity id 10783 at (-9.699999988079071, 113.30882847355996, 570.4477108080326)
+[12Jul2025 23:35:07.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney joined the game
+[12Jul2025 23:35:27.414] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ByJean2812[/127.171.90.144:44781] logged in with entity id 12507 at (34.04275336795541, 120.0, 602.5196023071893)
+[12Jul2025 23:35:27.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 joined the game
+[12Jul2025 23:35:39.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Creative Mode]
+[12Jul2025 23:35:56.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
+[12Jul2025 23:36:03.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Pulpleito8]
+[12Jul2025 23:36:50.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The Lich's aim was better than Pulpleito8
+[12Jul2025 23:36:50.066] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[12Jul2025 23:36:57.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[12Jul2025 23:37:38.950] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityLightningDragon['Lightning Dragon'/14154, l='ServerLevel[world]', x=23.50, y=113.00, z=598.50]
