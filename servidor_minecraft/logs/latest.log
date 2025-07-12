@@ -1038,3 +1038,75 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Jul2025 04:42:46.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
 [12Jul2025 04:43:46.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
 [12Jul2025 04:45:28.404] [pool-6-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=2485, y=92, z=1221}
+[12Jul2025 04:46:12.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! -6.268373262439582,0.0,-9.155531960557369
+[12Jul2025 04:46:12.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! -7.062977736400626,0.0,-10.057433135111637
+[12Jul2025 04:46:12.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! -7.889806336473157,0.0,-10.94120422333981
+[12Jul2025 04:46:12.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! -8.745056615775866,0.0,-11.80898457542844
+[12Jul2025 04:46:12.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! -9.62537481615982,0.0,-12.662661098241983
+[12Jul2025 04:46:12.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! -10.527802922937553,0.0,-13.503898043634877
+[12Jul2025 04:46:12.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! -11.449731967154548,0.0,-14.334163281742804
+[12Jul2025 04:46:12.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! -12.390456465417628,0.0,-15.152429731251573
+[12Jul2025 04:46:12.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! -13.352082142247582,0.0,-15.953319928538917
+[12Jul2025 04:46:12.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! -14.344220919789223,0.0,-16.713899676771234
+[12Jul2025 04:46:12.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! -15.37257672208898,0.0,-17.39781048934526
+[12Jul2025 04:46:12.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! -10.921233521737577,0.0,-9.738198370018722
+[12Jul2025 04:46:12.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! -11.995167889934237,0.0,-10.182592760386456
+[12Jul2025 04:46:12.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! -13.079180713652022,0.0,-10.504165855574456
+[12Jul2025 04:46:13.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[12Jul2025 04:46:33.429] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4727ms or 94 ticks behind
+[12Jul2025 04:47:30.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was struck with lightning by Lightning Dragon
+[12Jul2025 04:47:30.124] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[12Jul2025 04:48:01.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set ByJean2812's game mode to Spectator Mode]
+[12Jul2025 04:48:55.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByJean2812 moved too quickly! 10.661711072590606,0.0,2.182626245325082
+[12Jul2025 04:48:55.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved too quickly! 9.437356184512932,1.1609403145252628,3.773979288913324
+[12Jul2025 04:49:43.776] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[12Jul2025 04:49:43.779] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[12Jul2025 04:49:43.779] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[12Jul2025 04:49:43.779] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[12Jul2025 04:49:43.786] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[12Jul2025 04:49:43.786] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[12Jul2025 04:49:43.786] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[12Jul2025 04:49:43.787] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[12Jul2025 04:49:43.854] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[12Jul2025 04:49:43.855] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[12Jul2025 04:49:43.855] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[12Jul2025 04:49:43.856] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[12Jul2025 04:49:55.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set ByJean2812's game mode to Survival Mode]
+[12Jul2025 04:50:35.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[12Jul2025 04:52:44.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Gone Bananas!]
+[12Jul2025 04:53:41.954] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[12Jul2025 04:53:53.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported ByJean2812 to Pulpleito8]
+[12Jul2025 04:54:00.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3821ms or 76 ticks behind
+[12Jul2025 04:54:09.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to Pulpleito8]
+[12Jul2025 04:55:05.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [The Silence of the Forest]
+[12Jul2025 04:55:05.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has reached the goal [Time To Even The Scales]
+[12Jul2025 04:55:05.853] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@5b028939, suppressing error
+java.lang.ClassCastException: class net.minecraft.world.level.dimension.LevelStem cannot be cast to class net.minecraft.world.level.LevelAccessor (net.minecraft.world.level.dimension.LevelStem and net.minecraft.world.level.LevelAccessor are in module minecraft@1.20.1 of loader 'TRANSFORMER' @4f3c7808)
+	at twilightforest.util.LandmarkUtil.markStructureConquered(LandmarkUtil.java:69) ~[twilightforest-1.20.1-4.3.1735-universal.jar%23262!/:4.3.1735]
+	at twilightforest.util.LandmarkUtil.markStructureConquered(LandmarkUtil.java:64) ~[twilightforest-1.20.1-4.3.1735-universal.jar%23262!/:4.3.1735]
+	at twilightforest.entity.boss.Naga.m_6667_(Naga.java:577) ~[twilightforest-1.20.1-4.3.1735-universal.jar%23262!/:4.3.1735]
+	at net.minecraft.world.entity.LivingEntity.m_6469_(LivingEntity.java:1182) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at twilightforest.entity.boss.Naga.m_6469_(Naga.java:390) ~[twilightforest-1.20.1-4.3.1735-universal.jar%23262!/:4.3.1735]
+	at net.minecraft.world.entity.player.Player.m_5706_(Player.java:1139) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[12Jul2025 04:56:37.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [The Silence of the Forest]
