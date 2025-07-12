@@ -1169,6 +1169,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/prevent_death_darkness": {
+    "criteria": {
+      "coded_trigger": "2025-07-12 05:30:03 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_naga": {
     "criteria": {
       "naga": "2025-07-12 05:09:08 +0000"
