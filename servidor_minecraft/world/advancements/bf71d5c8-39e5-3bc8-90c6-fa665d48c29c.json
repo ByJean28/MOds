@@ -131,10 +131,14 @@
       "minecraft:savanna_plateau": "2025-07-04 03:34:19 +0000",
       "minecraft:sparse_jungle": "2025-07-04 03:43:26 +0000",
       "minecraft:river": "2025-07-04 02:46:11 +0000",
+      "minecraft:stony_shore": "2025-07-12 22:59:40 +0000",
       "minecraft:dripstone_caves": "2025-07-05 02:42:02 +0000",
+      "minecraft:jagged_peaks": "2025-07-12 23:00:28 +0000",
       "minecraft:forest": "2025-07-03 03:47:10 +0000",
       "minecraft:lush_caves": "2025-07-05 03:20:04 +0000",
       "minecraft:jungle": "2025-07-05 02:40:04 +0000",
+      "minecraft:ocean": "2025-07-12 23:01:01 +0000",
+      "minecraft:meadow": "2025-07-12 22:58:39 +0000",
       "minecraft:savanna": "2025-07-04 02:43:33 +0000",
       "minecraft:plains": "2025-07-03 03:49:10 +0000"
     },
@@ -551,99 +555,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 05:28:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 05:28:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 05:28:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 05:28:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 05:28:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 05:28:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 05:28:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 05:28:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 05:28:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 05:28:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 05:28:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 05:28:51 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:twilight_hunter": {
-    "criteria": {
-      "kobold": "2025-07-12 05:10:26 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/banana": {
-    "criteria": {
-      "banana": "2025-07-12 04:52:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-07-12 04:26:45 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_naga": {
-    "criteria": {
-      "naga": "2025-07-12 05:13:54 +0000"
     },
     "done": true
   },
@@ -653,9 +567,27 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-07-12 04:52:44 +0000"
+    },
+    "done": true
+  },
   "twilightforest:root": {
     "criteria": {
       "in_tf": "2025-07-12 05:09:40 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "kobold": "2025-07-12 05:10:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2025-07-12 05:13:54 +0000"
     },
     "done": true
   },
@@ -664,6 +596,12 @@
       "kill_naga": "2025-07-12 05:13:54 +0000"
     },
     "done": false
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-12 23:02:12 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

@@ -1222,5 +1222,17 @@
     },
     "done": false
   },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-07-12 22:54:48 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-07-12 22:55:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

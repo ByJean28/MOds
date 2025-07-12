@@ -134,6 +134,7 @@
       "minecraft:frozen_river": "2025-06-23 02:43:44 +0000",
       "quark:glimmering_weald": "2025-06-11 04:16:06 +0000",
       "minecraft:cherry_grove": "2025-06-12 02:07:00 +0000",
+      "minecraft:sunflower_plains": "2025-07-12 22:58:08 +0000",
       "minecraft:birch_forest": "2025-06-08 23:01:20 +0000",
       "minecraft:bamboo_jungle": "2025-06-15 21:22:34 +0000",
       "minecraft:badlands": "2025-06-30 01:05:15 +0000",
@@ -158,6 +159,7 @@
       "minecraft:deep_frozen_ocean": "2025-06-23 02:01:05 +0000",
       "minecraft:ocean": "2025-06-08 22:43:37 +0000",
       "minecraft:jungle": "2025-06-15 21:22:01 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-07-12 22:57:16 +0000",
       "minecraft:snowy_beach": "2025-06-23 01:54:32 +0000",
       "minecraft:frozen_peaks": "2025-06-11 04:09:00 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-08 22:53:14 +0000",
@@ -1240,6 +1242,12 @@
       "cooked_meef": "2025-07-12 06:07:52 +0000"
     },
     "done": false
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-07-12 22:35:32 +0000"
+    },
+    "done": true
   },
   "iceandfire:iceandfire/dragon_forge_brick": {
     "criteria": {
