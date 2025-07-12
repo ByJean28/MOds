@@ -1169,11 +1169,29 @@
     },
     "done": true
   },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2025-07-12 05:38:02 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2025-07-12 05:38:02 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/prevent_death_darkness": {
     "criteria": {
       "coded_trigger": "2025-07-12 05:30:03 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2025-07-12 05:38:02 +0000"
+    },
+    "done": false
   },
   "twilightforest:progress_naga": {
     "criteria": {
@@ -1181,11 +1199,18 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-07-12 05:42:46 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_lich": {
     "criteria": {
-      "kill_naga": "2025-07-12 05:09:08 +0000"
+      "kill_naga": "2025-07-12 05:09:08 +0000",
+      "was_in_fight": "2025-07-12 05:38:02 +0000"
     },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }

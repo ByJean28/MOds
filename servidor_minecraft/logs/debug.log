@@ -9513,3 +9513,40 @@ java.lang.ClassCastException: class net.minecraft.world.level.dimension.LevelSte
 [12Jul2025 05:37:43.336] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
 [12Jul2025 05:37:44.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
 [12Jul2025 05:37:45.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[12Jul2025 05:38:02.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has reached the goal [Bring Out Your Dead]
+[12Jul2025 05:38:02.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has reached the goal [Bring Out Your Dead]
+[12Jul2025 05:38:50.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Creative Mode]
+[12Jul2025 05:38:51.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 05:38:51.194] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jul2025 05:39:42.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
+[12Jul2025 05:41:11.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 succumbed to the Lich's explosive magic
+[12Jul2025 05:41:11.074] [Server thread/DEBUG] [tombstone/]: A new grave of the player Pulpleito8 was created at position [x:305, y:64, z:4360, dim:twilightforest:twilight_forest]
+[12Jul2025 05:41:11.080] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[12Jul2025 05:41:12.644] [Server thread/DEBUG] [twilightforest/]: Player Pulpleito8 (d22b9c2a-031e-30ec-8cf8-ce7194d1bb5e) respawned and received items held in storage
+[12Jul2025 05:41:13.116] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[12Jul2025 05:41:13.116] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[12Jul2025 05:41:15.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[12Jul2025 05:41:29.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The Lich's aim was better than ByJean2812
+[12Jul2025 05:41:29.386] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:316, y:59, z:4355, dim:twilightforest:twilight_forest]
+[12Jul2025 05:41:29.395] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[12Jul2025 05:41:32.585] [Server thread/DEBUG] [twilightforest/]: Player ByJean2812 (3808f9c7-7752-31e7-94ba-300fec15b4b8) respawned and received items held in storage
+[12Jul2025 05:41:32.965] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[12Jul2025 05:41:32.965] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[12Jul2025 05:41:33.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[12Jul2025 05:41:49.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 succumbed to the Lich's explosive magic
+[12Jul2025 05:41:49.773] [Server thread/DEBUG] [tombstone/]: A new grave of the player Pulpleito8 was created at position [x:314, y:64, z:4356, dim:twilightforest:twilight_forest]
+[12Jul2025 05:41:49.779] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[12Jul2025 05:41:51.302] [Server thread/DEBUG] [twilightforest/]: Player Pulpleito8 (d22b9c2a-031e-30ec-8cf8-ce7194d1bb5e) respawned and received items held in storage
+[12Jul2025 05:41:51.676] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[12Jul2025 05:41:51.677] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[12Jul2025 05:41:54.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[12Jul2025 05:42:46.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has reached the goal [Strong Undead]
+[12Jul2025 05:43:51.175] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 05:43:51.194] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jul2025 05:44:15.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [A Lighthouse in Your Eyes]
+[12Jul2025 05:45:47.549] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=11, y=115, z=539}
+[12Jul2025 05:45:48.363] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[12Jul2025 05:45:48.363] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[12Jul2025 05:46:28.071] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=88, y=4, z=4312}
+[12Jul2025 05:46:28.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved too quickly! 78.9000131695085,-110.66045529092686,3773.8888094420827
+[12Jul2025 05:47:03.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Spectator Mode]
