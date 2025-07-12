@@ -9550,3 +9550,13 @@ java.lang.ClassCastException: class net.minecraft.world.level.dimension.LevelSte
 [12Jul2025 05:46:28.071] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=88, y=4, z=4312}
 [12Jul2025 05:46:28.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved too quickly! 78.9000131695085,-110.66045529092686,3773.8888094420827
 [12Jul2025 05:47:03.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Spectator Mode]
+[12Jul2025 05:48:18.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
+[12Jul2025 05:48:51.234] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 05:48:51.258] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jul2025 05:49:00.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Spectator Mode]
+[12Jul2025 05:49:39.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
+[12Jul2025 05:49:53.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to Ale_sweeney]
+[12Jul2025 05:50:10.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[12Jul2025 05:50:24.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 3 entities to Ale_sweeney]
+[12Jul2025 05:53:51.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 05:53:51.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
