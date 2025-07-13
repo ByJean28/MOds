@@ -722,5 +722,17 @@
     },
     "done": false
   },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_familiar_receptacle": "2025-07-13 19:25:20 +0000"
+    },
+    "done": true
+  },
+  "aether:obtain_egg": {
+    "criteria": {
+      "moa_egg": "2025-07-13 19:26:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
