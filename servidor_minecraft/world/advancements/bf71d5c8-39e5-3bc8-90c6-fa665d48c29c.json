@@ -129,8 +129,11 @@
     "criteria": {
       "minecraft:frozen_river": "2025-07-12 23:44:40 +0000",
       "minecraft:cherry_grove": "2025-07-03 03:53:35 +0000",
+      "minecraft:birch_forest": "2025-07-13 05:42:09 +0000",
+      "minecraft:bamboo_jungle": "2025-07-13 05:39:58 +0000",
       "minecraft:savanna_plateau": "2025-07-04 03:34:19 +0000",
       "minecraft:beach": "2025-07-13 05:25:28 +0000",
+      "minecraft:dark_forest": "2025-07-13 05:40:02 +0000",
       "minecraft:sparse_jungle": "2025-07-04 03:43:26 +0000",
       "minecraft:river": "2025-07-04 02:46:11 +0000",
       "minecraft:stony_shore": "2025-07-12 22:59:40 +0000",
@@ -142,6 +145,7 @@
       "minecraft:lush_caves": "2025-07-05 03:20:04 +0000",
       "minecraft:jungle": "2025-07-05 02:40:04 +0000",
       "minecraft:ocean": "2025-07-12 23:01:01 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-13 05:42:59 +0000",
       "minecraft:meadow": "2025-07-12 22:58:39 +0000",
       "minecraft:savanna": "2025-07-04 02:43:33 +0000",
       "minecraft:plains": "2025-07-03 03:49:10 +0000"
@@ -304,6 +308,7 @@
       "minecraft:creeper": "2025-07-04 02:48:10 +0000",
       "minecraft:zombified_piglin": "2025-07-03 04:14:02 +0000",
       "minecraft:wither_skeleton": "2025-07-03 04:14:17 +0000",
+      "minecraft:husk": "2025-07-13 05:39:47 +0000",
       "minecraft:cave_spider": "2025-07-12 23:58:34 +0000",
       "minecraft:piglin": "2025-07-03 04:24:01 +0000",
       "minecraft:zombie": "2025-07-04 03:06:30 +0000"
@@ -680,9 +685,88 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 05:55:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 05:55:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 05:55:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 05:55:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 05:55:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-07-13 05:55:18 +0000",
+      "log_spam_fixer": "2025-07-13 05:55:17 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 05:55:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 05:55:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 05:55:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 05:55:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 05:55:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 05:55:17 +0000"
+    },
+    "done": false
+  },
   "dungeons_arise:find_small_blimp": {
     "criteria": {
       "location0": "2025-07-13 05:10:37 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-07-13 05:42:28 +0000"
     },
     "done": true
   },
