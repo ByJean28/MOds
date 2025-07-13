@@ -709,5 +709,11 @@
     },
     "done": true
   },
+  "friendsandfoes:husbandry/beehive": {
+    "criteria": {
+      "acacia_beehive": "2025-07-13 18:12:45 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
