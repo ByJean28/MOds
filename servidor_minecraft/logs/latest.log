@@ -346,3 +346,23 @@ java.lang.ClassCastException: class net.minecraft.world.level.dimension.LevelSte
 [13Jul2025 01:28:18.381] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/123039, l='ServerLevel[world]', x=-940.50, y=72.00, z=153.50]
 [13Jul2025 01:28:19.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
 [13Jul2025 01:32:42.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has reached the goal [Bone Crusher]
+[13Jul2025 01:34:06.303] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ale_sweeney lost connection: Disconnected
+[13Jul2025 01:34:06.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney left the game
+[13Jul2025 01:34:06.361] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Jul2025 01:35:11.377] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[13Jul2025 01:35:31.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5211ms or 104 ticks behind
+[13Jul2025 01:35:45.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved too quickly! -4.777411523158751,4.739037816372813,-7.5103986167305266
+[13Jul2025 01:35:54.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7464ms or 149 ticks behind
+[13Jul2025 01:36:13.134] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[13Jul2025 01:36:20.316] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ale_sweeney[/127.115.61.54:56163] logged in with entity id 127722 at (4.600533181723938, 116.0, 521.4528064449472)
+[13Jul2025 01:36:20.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney joined the game
+[13Jul2025 01:36:30.394] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2272ms or 45 ticks behind
+[13Jul2025 01:36:47.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2508ms or 50 ticks behind
+[13Jul2025 01:36:50.444] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ale_sweeney lost connection: Timed out
+[13Jul2025 01:36:50.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney left the game
+[13Jul2025 01:37:06.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[13Jul2025 01:37:25.379] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[13Jul2025 01:37:46.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[13Jul2025 01:38:30.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[13Jul2025 01:38:42.153] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zens25 lost connection: Disconnected
+[13Jul2025 01:38:42.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 left the game
