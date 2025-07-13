@@ -617,3 +617,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jul2025 18:23:15.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported zens25 to Pulpleito8]
 [13Jul2025 18:26:21.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to Ale_sweeney]
 [13Jul2025 18:27:18.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[13Jul2025 18:31:58.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[13Jul2025 18:33:49.721] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2152ms or 43 ticks behind
+[13Jul2025 18:34:22.555] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/2945, l='ServerLevel[world]', x=10.50, y=108.00, z=595.58] died, message: 'Beekeeper was slain by Pulpleito8'
+[13Jul2025 18:35:29.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported zens25 to ByJean2812]
+[13Jul2025 18:35:39.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported zens25 to ByJean2812]
+[13Jul2025 18:35:54.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ByJean2812> tp Pulpleito8 b
+[13Jul2025 18:35:58.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zens25> ctmre
+[13Jul2025 18:35:59.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[13Jul2025 18:36:05.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported Pulpleito8 to ByJean2812]
+[13Jul2025 18:36:24.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[13Jul2025 18:36:25.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 fell from a high place
+[13Jul2025 18:36:25.062] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[13Jul2025 18:36:34.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[13Jul2025 18:37:08.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ale_sweeney moved too quickly! -4.978760280602259,-2.0577875055317634,8.978096226643402
+[13Jul2025 18:37:09.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
