@@ -715,6 +715,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_home": {
+    "criteria": {
+      "coded_trigger": "2025-07-13 19:28:55 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:husbandry/beehive": {
     "criteria": {
       "acacia_beehive": "2025-07-13 18:12:45 +0000",
@@ -731,6 +737,12 @@
   "aether:obtain_egg": {
     "criteria": {
       "moa_egg": "2025-07-13 19:26:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-07-13 19:28:10 +0000"
     },
     "done": true
   },
