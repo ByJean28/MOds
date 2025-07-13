@@ -648,7 +648,9 @@
   "twilightforest:arborist": {
     "criteria": {
       "twilight_oak_planks": "2025-07-13 00:12:08 +0000",
-      "twilight_oak_log": "2025-07-12 23:56:18 +0000"
+      "twilight_oak_log": "2025-07-12 23:56:18 +0000",
+      "twilight_oak_sapling": "2025-07-13 00:42:29 +0000",
+      "canopy_log": "2025-07-13 00:47:34 +0000"
     },
     "done": false
   },

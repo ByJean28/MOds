@@ -224,3 +224,43 @@ java.lang.ClassCastException: class net.minecraft.world.level.dimension.LevelSte
 [13Jul2025 00:40:55.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5392ms or 107 ticks behind
 [13Jul2025 00:41:15.225] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
 [13Jul2025 00:41:36.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6056ms or 121 ticks behind
+[13Jul2025 00:41:57.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6201ms or 124 ticks behind
+[13Jul2025 00:42:15.275] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2803ms or 56 ticks behind
+[13Jul2025 00:42:37.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7100ms or 142 ticks behind
+[13Jul2025 00:43:02.637] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10265ms or 205 ticks behind
+[13Jul2025 00:43:26.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Spectator Mode]
+[13Jul2025 00:43:27.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10277ms or 205 ticks behind
+[13Jul2025 00:43:47.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved too quickly! 9.428789341932145,-0.6840000271797209,-3.5095838188490234
+[13Jul2025 00:43:52.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9758ms or 195 ticks behind
+[13Jul2025 00:44:15.787] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8164ms or 163 ticks behind
+[13Jul2025 00:44:38.545] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7772ms or 155 ticks behind
+[13Jul2025 00:45:00.691] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7169ms or 143 ticks behind
+[13Jul2025 00:45:05.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved too quickly! -1.5164319588243416,0.0,-10.484738294738236
+[13Jul2025 00:45:22.974] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7302ms or 146 ticks behind
+[13Jul2025 00:45:45.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7459ms or 149 ticks behind
+[13Jul2025 00:45:47.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to Ale_sweeney]
+[13Jul2025 00:46:07.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6786ms or 135 ticks behind
+[13Jul2025 00:46:29.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7536ms or 150 ticks behind
+[13Jul2025 00:46:52.200] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7528ms or 150 ticks behind
+[13Jul2025 00:47:09.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
+[13Jul2025 00:47:12.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 fell from a high place
+[13Jul2025 00:47:12.220] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[13Jul2025 00:47:17.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10123ms or 202 ticks behind
+[13Jul2025 00:47:38.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Pulpleito8]
+[13Jul2025 00:47:41.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9196ms or 183 ticks behind
+[13Jul2025 00:47:45.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to Ale_sweeney]
+[13Jul2025 00:47:54.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to zens25]
+[13Jul2025 00:47:59.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3080ms or 61 ticks behind
+[13Jul2025 00:48:17.751] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3279ms or 65 ticks behind
+[13Jul2025 00:48:35.620] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2898ms or 57 ticks behind
+[13Jul2025 00:48:53.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2699ms or 53 ticks behind
+[13Jul2025 00:49:03.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[13Jul2025 00:49:08.231] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[13Jul2025 00:49:08.232] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[13Jul2025 00:49:13.959] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5737ms or 114 ticks behind
+[13Jul2025 00:49:20.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to Ale_sweeney]
+[13Jul2025 00:49:31.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2734ms or 54 ticks behind
+[13Jul2025 00:50:18.405] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[13Jul2025 00:50:35.952] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2580ms or 51 ticks behind
+[13Jul2025 00:50:41.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
+[13Jul2025 00:51:34.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has reached the goal [Bone Crusher]
