@@ -8515,3 +8515,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jul2025 05:08:07.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [13Jul2025 05:13:07.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Jul2025 05:13:07.771] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 05:18:05.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to zens25]
+[13Jul2025 05:18:07.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 05:18:07.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 05:18:44.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Ale_sweeney]
+[13Jul2025 05:20:36.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [An Ear-Shattering Roar]
+[13Jul2025 05:23:07.731] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 05:23:07.751] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 05:28:07.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 05:28:07.748] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 05:29:27.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 was slain by Gorgon
+[13Jul2025 05:29:27.867] [Server thread/DEBUG] [tombstone/]: A new grave of the player zens25 was created at position [x:-260, y:64, z:1156, dim:minecraft:overworld]
+[13Jul2025 05:29:27.882] [Server thread/INFO] [tombstone/]: The player zens25 has successfully been saved
+[13Jul2025 05:29:30.457] [Server thread/DEBUG] [twilightforest/]: Player zens25 (bf71d5c8-39e5-3bc8-90c6-fa665d48c29c) respawned and received items held in storage
+[13Jul2025 05:29:30.789] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[13Jul2025 05:29:39.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported zens25 to ByJean2812]
+[13Jul2025 05:29:48.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Clash of the Titans]
+[13Jul2025 05:33:07.726] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 05:33:07.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 05:34:09.785] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[13Jul2025 05:36:56.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to 158.500000, 76.500000, -990.500000]
+[13Jul2025 05:38:07.764] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 05:38:07.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
