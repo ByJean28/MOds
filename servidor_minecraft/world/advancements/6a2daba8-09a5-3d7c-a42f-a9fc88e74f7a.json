@@ -128,6 +128,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cherry_grove": "2025-07-13 02:14:47 +0000",
+      "minecraft:lukewarm_ocean": "2025-07-13 02:21:58 +0000",
       "minecraft:forest": "2025-07-13 02:08:46 +0000",
       "minecraft:savanna": "2025-07-13 02:15:26 +0000",
       "minecraft:plains": "2025-07-13 02:09:59 +0000"
@@ -182,9 +183,15 @@
     },
     "done": true
   },
-  "mutantmonsters:root": {
+  "tombstone:adventure/easy_opening": {
     "criteria": {
-      "killed_something": "2025-07-13 02:16:44 +0000"
+      "coded_trigger": "2025-07-13 02:13:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-07-13 02:13:02 +0000"
     },
     "done": true
   },
@@ -194,33 +201,21 @@
     },
     "done": true
   },
-  "tombstone:adventure/find_grave_dust": {
-    "criteria": {
-      "from_undead": "2025-07-13 02:18:21 +0000"
-    },
-    "done": true
-  },
-  "aether:enter_aether": {
-    "criteria": {
-      "enter_aether": "2025-07-13 02:19:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-07-13 02:13:24 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "mutantmonsters:root": {
     "criteria": {
       "killed_something": "2025-07-13 02:16:44 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/easy_opening": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "coded_trigger": "2025-07-13 02:13:02 +0000"
+      "killed_something": "2025-07-13 02:16:44 +0000"
     },
     "done": true
   },
@@ -236,9 +231,15 @@
     },
     "done": false
   },
-  "tombstone:adventure/first_knowledge": {
+  "tombstone:adventure/find_grave_dust": {
     "criteria": {
-      "coded_trigger": "2025-07-13 02:13:02 +0000"
+      "from_undead": "2025-07-13 02:18:21 +0000"
+    },
+    "done": true
+  },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2025-07-13 02:19:19 +0000"
     },
     "done": true
   },
@@ -247,6 +248,96 @@
       "the_aether": "2025-07-13 02:19:19 +0000"
     },
     "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-07-13 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-13 02:24:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-07-13 02:24:55 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 02:33:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 02:33:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 02:33:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 02:33:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 02:33:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 02:33:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 02:33:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 02:33:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 02:33:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 02:33:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 02:33:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 02:33:03 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

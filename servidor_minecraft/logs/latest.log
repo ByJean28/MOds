@@ -428,3 +428,9 @@ java.lang.ClassCastException: class net.minecraft.world.level.dimension.LevelSte
 [13Jul2025 02:24:35.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI has made the advancement [Isn't It Iron Pick]
 [13Jul2025 02:24:44.925] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/160390, l='ServerLevel[world]', x=-2.62, y=-256.00, z=533.07] died, message: 'Villager was killed'
 [13Jul2025 02:24:55.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI has made the advancement [Stone Age]
+[13Jul2025 02:32:36.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IJiroI lost connection: Timed out
+[13Jul2025 02:32:36.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI left the game
+[13Jul2025 02:32:59.052] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IJiroI[/127.188.192.76:46689] logged in with entity id 161800 at (-2.5, 108.0, 497.5)
+[13Jul2025 02:32:59.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI joined the game
+[13Jul2025 02:33:29.192] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IJiroI lost connection: Timed out
+[13Jul2025 02:33:29.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI left the game
