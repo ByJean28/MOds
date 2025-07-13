@@ -717,7 +717,8 @@
   },
   "friendsandfoes:husbandry/beehive": {
     "criteria": {
-      "acacia_beehive": "2025-07-13 18:12:45 +0000"
+      "acacia_beehive": "2025-07-13 18:12:45 +0000",
+      "beehive": "2025-07-13 18:35:10 +0000"
     },
     "done": false
   },
