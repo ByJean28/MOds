@@ -390,3 +390,41 @@ java.lang.ClassCastException: class net.minecraft.world.level.dimension.LevelSte
 [13Jul2025 01:58:20.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was turned into gorgonzola by Gorgon
 [13Jul2025 01:58:20.760] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
 [13Jul2025 02:03:18.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[13Jul2025 02:07:04.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ByJean2812> view ip
+[13Jul2025 02:07:09.495] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByJean2812 lost connection: Disconnected
+[13Jul2025 02:07:09.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 left the game
+[13Jul2025 02:08:34.255] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ByJean2812[/127.171.90.144:34499] logged in with entity id 153373 at (-2.889969142338533, 116.0, 531.6999999880791)
+[13Jul2025 02:08:34.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 joined the game
+[13Jul2025 02:08:45.742] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IJiroI[/127.188.192.76:44877] logged in with entity id 153488 at (-50.5, 103.0, 85.5)
+[13Jul2025 02:08:45.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI joined the game
+[13Jul2025 02:08:45.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI has made the advancement [Ice and Fire]
+[13Jul2025 02:08:45.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI has completed the challenge [The Undead]
+[13Jul2025 02:09:06.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI has made the advancement [Alex's Mobs]
+[13Jul2025 02:09:36.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI was killed
+[13Jul2025 02:09:36.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI has made the advancement [Your First Grave]
+[13Jul2025 02:09:36.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed IJiroI
+[13Jul2025 02:09:36.904] [Server thread/INFO] [tombstone/]: The player IJiroI has successfully been saved
+[13Jul2025 02:09:49.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI has reached the goal [Here They Come]
+[13Jul2025 02:09:50.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [An Ear-Shattering Roar]
+[13Jul2025 02:09:58.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported IJiroI to Pulpleito8]
+[13Jul2025 02:10:08.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI was killed
+[13Jul2025 02:10:08.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed IJiroI
+[13Jul2025 02:10:08.713] [Server thread/INFO] [tombstone/]: The player IJiroI has successfully been saved
+[13Jul2025 02:10:20.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported IJiroI to Pulpleito8]
+[13Jul2025 02:10:35.195] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IJiroI lost connection: Disconnected
+[13Jul2025 02:10:35.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI left the game
+[13Jul2025 02:10:48.356] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IJiroI[/127.188.192.76:45763] logged in with entity id 155048 at (-3.6695565875977434, 116.0, 500.35877557703026)
+[13Jul2025 02:10:48.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI joined the game
+[13Jul2025 02:11:29.992] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 lost connection: Disconnected
+[13Jul2025 02:11:29.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 left the game
+[13Jul2025 02:13:02.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI has made the advancement [Knowledge of Death]
+[13Jul2025 02:13:02.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI has reached the goal [Easy Opening]
+[13Jul2025 02:13:20.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI has made the advancement [Suit Up]
+[13Jul2025 02:13:24.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI has made the advancement [Cover Me with Diamonds]
+[13Jul2025 02:16:44.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI has made the advancement [Who You Gonna Call?]
+[13Jul2025 02:18:21.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI has made the advancement [A Strange Grave Dust]
+[13Jul2025 02:19:19.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI has made the advancement [Hostile Paradise]
+[13Jul2025 02:21:58.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IJiroI moved too quickly! -75.85384305881078,111.07840000152588,-3774.003777390785
+[13Jul2025 02:24:35.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI has made the advancement [Isn't It Iron Pick]
+[13Jul2025 02:24:44.925] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/160390, l='ServerLevel[world]', x=-2.62, y=-256.00, z=533.07] died, message: 'Villager was killed'
+[13Jul2025 02:24:55.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI has made the advancement [Stone Age]
