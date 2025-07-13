@@ -1,436 +1,606 @@
-[13Jul2025 00:00:21.983] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[13Jul2025 00:00:30.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
-[13Jul2025 00:00:41.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4091ms or 81 ticks behind
-[13Jul2025 00:00:51.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
-[13Jul2025 00:00:59.003] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2981ms or 59 ticks behind
-[13Jul2025 00:01:18.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByJean2812 moved wrongly!
-[13Jul2025 00:01:32.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Ice Dragon
-[13Jul2025 00:01:32.642] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
-[13Jul2025 00:01:35.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to Pulpleito8]
-[13Jul2025 00:01:36.251] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:01:36.252] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:01:47.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
-[13Jul2025 00:01:53.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zens25 moved too quickly! -9.987701652188662,0.12129684053918766,-1.5786389668410266
-[13Jul2025 00:01:53.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ale_sweeney moved too quickly! 1.9384430145040596,0.0,9.91932353761149
-[13Jul2025 00:01:53.534] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6012ms or 120 ticks behind
-[13Jul2025 00:02:36.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
-[13Jul2025 00:02:45.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Ice Dragon
-[13Jul2025 00:02:45.624] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
-[13Jul2025 00:02:48.403] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:02:48.403] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:02:50.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
-[13Jul2025 00:04:14.927] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24907, l='ServerLevel[world]', x=-1375.50, y=73.00, z=1075.50]
-[13Jul2025 00:05:11.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [The Cutest Predator]
-[13Jul2025 00:06:26.887] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/26202, l='ServerLevel[world]', x=-1444.50, y=70.00, z=1011.50]
-[13Jul2025 00:06:40.404] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/26547, l='ServerLevel[world]', x=-1368.50, y=77.00, z=1090.50]
-[13Jul2025 00:07:57.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
-[13Jul2025 00:08:01.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4009ms or 80 ticks behind
-[13Jul2025 00:08:43.777] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27441, l='ServerLevel[world]', x=-1449.50, y=74.00, z=947.50]
-[13Jul2025 00:09:49.728] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27780, l='ServerLevel[world]', x=-1375.50, y=73.00, z=1077.50]
-[13Jul2025 00:09:53.030] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27790, l='ServerLevel[world]', x=-1447.50, y=74.00, z=947.50]
-[13Jul2025 00:10:10.076] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27888, l='ServerLevel[world]', x=-1443.50, y=70.00, z=1012.50]
-[13Jul2025 00:10:10.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to Pulpleito8]
-[13Jul2025 00:10:17.178] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27899, l='ServerLevel[world]', x=-1367.50, y=77.00, z=1091.50]
-[13Jul2025 00:10:23.278] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27925, l='ServerLevel[world]', x=-1531.50, y=71.00, z=944.50]
-[13Jul2025 00:10:32.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Pulpleito8]
-[13Jul2025 00:10:39.080] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/28014, l='ServerLevel[world]', x=-1519.50, y=70.00, z=916.50]
-[13Jul2025 00:11:16.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByJean2812 lost connection: Disconnected
-[13Jul2025 00:11:16.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 left the game
-[13Jul2025 00:11:35.515] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ByJean2812[/127.171.90.144:43353] logged in with entity id 28196 at (-1417.699999988079, 41.0, 1003.6999999880791)
-[13Jul2025 00:11:35.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 joined the game
-[13Jul2025 00:11:58.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
-[13Jul2025 00:12:21.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has reached the goal [Mighty Stroganoff]
-[13Jul2025 00:12:23.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has reached the goal [Mighty Stroganoff]
-[13Jul2025 00:12:35.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has reached the goal [Mighty Stroganoff]
-[13Jul2025 00:13:06.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Pulpleito8]
-[13Jul2025 00:13:10.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to Pulpleito8]
-[13Jul2025 00:13:53.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812's skin was ripped off by the Hydra
-[13Jul2025 00:13:53.214] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
-[13Jul2025 00:13:56.594] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:13:56.594] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:13:58.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
-[13Jul2025 00:14:00.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
-[13Jul2025 00:14:21.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney was doomed to fall
-[13Jul2025 00:14:22.877] [Server thread/INFO] [tombstone/]: The player Ale_sweeney has successfully been saved
-[13Jul2025 00:14:22.897] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved too quickly! 2.031204676892287,0.5807283296719206,10.248991672359807
-[13Jul2025 00:14:26.178] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:14:26.179] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:14:27.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to Pulpleito8]
-[13Jul2025 00:14:38.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25's skin was ripped off by the Hydra
-[13Jul2025 00:14:38.804] [Server thread/INFO] [tombstone/]: The player zens25 has successfully been saved
-[13Jul2025 00:14:40.988] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:14:40.989] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:14:43.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Pulpleito8]
-[13Jul2025 00:15:42.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney's skin was ripped off by the Hydra
-[13Jul2025 00:15:42.436] [Server thread/INFO] [tombstone/]: The player Ale_sweeney has successfully been saved
-[13Jul2025 00:15:45.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to Pulpleito8]
-[13Jul2025 00:16:01.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [Mutual Aid]
-[13Jul2025 00:16:03.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 was roasted alive by the Hydra
-[13Jul2025 00:16:03.704] [Server thread/INFO] [tombstone/]: The player zens25 has successfully been saved
-[13Jul2025 00:16:07.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Pulpleito8]
-[13Jul2025 00:16:09.841] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:16:09.841] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:16:14.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Pulpleito8]
-[13Jul2025 00:17:11.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has reached the goal [Hydra Slayer]
-[13Jul2025 00:17:11.104] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@3965501f, suppressing error
-java.lang.ClassCastException: class net.minecraft.world.level.dimension.LevelStem cannot be cast to class net.minecraft.world.level.LevelAccessor (net.minecraft.world.level.dimension.LevelStem and net.minecraft.world.level.LevelAccessor are in module minecraft@1.20.1 of loader 'TRANSFORMER' @79195c22)
-	at twilightforest.util.LandmarkUtil.markStructureConquered(LandmarkUtil.java:69) ~[twilightforest-1.20.1-4.3.1735-universal.jar%23262!/:4.3.1735]
-	at twilightforest.util.LandmarkUtil.markStructureConquered(LandmarkUtil.java:64) ~[twilightforest-1.20.1-4.3.1735-universal.jar%23262!/:4.3.1735]
-	at twilightforest.entity.boss.Hydra.m_6667_(Hydra.java:726) ~[twilightforest-1.20.1-4.3.1735-universal.jar%23262!/:4.3.1735]
-	at net.minecraft.world.entity.LivingEntity.m_6469_(LivingEntity.java:1182) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
-	at twilightforest.entity.boss.Hydra.attackEntityFromPart(Hydra.java:621) ~[twilightforest-1.20.1-4.3.1735-universal.jar%23262!/:4.3.1735]
-	at twilightforest.entity.boss.HydraPart.m_6469_(HydraPart.java:79) ~[twilightforest-1.20.1-4.3.1735-universal.jar%23262!/:4.3.1735]
-	at net.minecraft.world.entity.player.Player.m_5706_(Player.java:1139) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
-	at net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
-	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
-	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
-	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
-	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
-	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[13Jul2025 00:18:00.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Creative Mode]
-[13Jul2025 00:18:56.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
-[13Jul2025 00:19:52.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney's skin was ripped off by the Hydra
-[13Jul2025 00:19:53.055] [Server thread/INFO] [tombstone/]: The player Ale_sweeney has successfully been saved
-[13Jul2025 00:19:54.695] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:19:54.695] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:19:56.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to Pulpleito8]
-[13Jul2025 00:20:46.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 burned to death
-[13Jul2025 00:20:46.113] [Server thread/INFO] [tombstone/]: The player zens25 has successfully been saved
-[13Jul2025 00:20:48.338] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:20:48.338] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:20:51.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Pulpleito8]
-[13Jul2025 00:21:52.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney was roasted alive by the Hydra
-[13Jul2025 00:21:53.035] [Server thread/INFO] [tombstone/]: The player Ale_sweeney has successfully been saved
-[13Jul2025 00:21:55.067] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:21:55.067] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:21:56.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to Pulpleito8]
-[13Jul2025 00:22:16.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney's skin was ripped off by the Hydra
-[13Jul2025 00:22:16.051] [Server thread/INFO] [tombstone/]: The player Ale_sweeney has successfully been saved
-[13Jul2025 00:22:18.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to Pulpleito8]
-[13Jul2025 00:22:20.490] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:22:20.491] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:22:22.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to Pulpleito8]
-[13Jul2025 00:22:26.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25's skin was ripped off by the Hydra
-[13Jul2025 00:22:26.854] [Server thread/INFO] [tombstone/]: The player zens25 has successfully been saved
-[13Jul2025 00:22:27.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney's skin was ripped off by the Hydra
-[13Jul2025 00:22:27.070] [Server thread/INFO] [tombstone/]: The player Ale_sweeney has successfully been saved
-[13Jul2025 00:22:28.898] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:22:28.899] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:22:29.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to Pulpleito8]
-[13Jul2025 00:22:37.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to Pulpleito8]
-[13Jul2025 00:22:39.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Pulpleito8]
-[13Jul2025 00:22:53.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney's skin was ripped off by the Hydra
-[13Jul2025 00:22:53.872] [Server thread/INFO] [tombstone/]: The player Ale_sweeney has successfully been saved
-[13Jul2025 00:22:55.888] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:22:55.889] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:22:56.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to Pulpleito8]
-[13Jul2025 00:23:04.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has reached the goal [Hydra Slayer]
-[13Jul2025 00:23:24.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has reached the goal [Hydra Slayer]
-[13Jul2025 00:25:01.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8's skin was ripped off by the Hydra
-[13Jul2025 00:25:01.403] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
-[13Jul2025 00:25:09.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
-[13Jul2025 00:25:44.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8's skin was ripped off by the Hydra
-[13Jul2025 00:25:44.853] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
-[13Jul2025 00:25:47.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
-[13Jul2025 00:26:34.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8's skin was ripped off by the Hydra
-[13Jul2025 00:26:34.553] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
-[13Jul2025 00:26:37.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
-[13Jul2025 00:27:42.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8's skin was ripped off by the Hydra
-[13Jul2025 00:27:42.215] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
-[13Jul2025 00:27:45.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
-[13Jul2025 00:30:31.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8's skin was ripped off by the Hydra
-[13Jul2025 00:30:31.349] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
-[13Jul2025 00:30:34.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
-[13Jul2025 00:31:11.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8's skin was ripped off by the Hydra
-[13Jul2025 00:31:11.551] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
-[13Jul2025 00:31:15.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
-[13Jul2025 00:31:32.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney's skin was ripped off by the Hydra
-[13Jul2025 00:31:33.175] [Server thread/INFO] [tombstone/]: The player Ale_sweeney has successfully been saved
-[13Jul2025 00:31:35.021] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:31:35.021] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:31:42.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to Pulpleito8]
-[13Jul2025 00:31:51.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8's skin was ripped off by the Hydra
-[13Jul2025 00:31:51.452] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
-[13Jul2025 00:31:54.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to Pulpleito8]
-[13Jul2025 00:31:56.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
-[13Jul2025 00:31:59.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to Pulpleito8]
-[13Jul2025 00:32:13.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8's skin was ripped off by the Hydra
-[13Jul2025 00:32:13.306] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
-[13Jul2025 00:32:16.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
-[13Jul2025 00:32:17.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney was roasted alive by the Hydra
-[13Jul2025 00:32:17.814] [Server thread/INFO] [tombstone/]: The player Ale_sweeney has successfully been saved
-[13Jul2025 00:32:19.706] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:32:19.706] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:32:21.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to Pulpleito8]
-[13Jul2025 00:32:33.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney's skin was ripped off by the Hydra
-[13Jul2025 00:32:33.954] [Server thread/INFO] [tombstone/]: The player Ale_sweeney has successfully been saved
-[13Jul2025 00:32:36.001] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:32:36.001] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:32:37.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to Pulpleito8]
-[13Jul2025 00:32:52.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney's skin was ripped off by the Hydra
-[13Jul2025 00:32:53.107] [Server thread/INFO] [tombstone/]: The player Ale_sweeney has successfully been saved
-[13Jul2025 00:32:54.894] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:32:54.894] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:32:56.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to Pulpleito8]
-[13Jul2025 00:33:29.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8's skin was ripped off by the Hydra
-[13Jul2025 00:33:29.800] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
-[13Jul2025 00:33:29.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
-[13Jul2025 00:33:33.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
-[13Jul2025 00:33:44.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney's skin was ripped off by the Hydra
-[13Jul2025 00:33:44.628] [Server thread/INFO] [tombstone/]: The player Ale_sweeney has successfully been saved
-[13Jul2025 00:33:45.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zens25 moved wrongly!
-[13Jul2025 00:33:46.387] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:33:46.387] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:33:49.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to Pulpleito8]
-[13Jul2025 00:33:58.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8's skin was ripped off by the Hydra
-[13Jul2025 00:33:58.700] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
-[13Jul2025 00:33:58.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney's skin was ripped off by the Hydra
-[13Jul2025 00:33:58.800] [Server thread/INFO] [tombstone/]: The player Ale_sweeney has successfully been saved
-[13Jul2025 00:34:01.697] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:34:01.698] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:34:02.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
-[13Jul2025 00:34:12.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8's skin was ripped off by the Hydra
-[13Jul2025 00:34:12.123] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
-[13Jul2025 00:34:15.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
-[13Jul2025 00:34:17.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to Pulpleito8]
-[13Jul2025 00:35:11.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has reached the goal [Hydra Slayer]
-[13Jul2025 00:37:19.527] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[13Jul2025 00:37:36.785] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2262ms or 45 ticks behind
-[13Jul2025 00:37:57.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5363ms or 107 ticks behind
-[13Jul2025 00:38:09.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to Pulpleito8]
-[13Jul2025 00:38:12.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Pulpleito8]
-[13Jul2025 00:38:15.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3757ms or 75 ticks behind
-[13Jul2025 00:38:54.588] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[13Jul2025 00:39:11.842] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2270ms or 45 ticks behind
-[13Jul2025 00:39:30.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3451ms or 69 ticks behind
-[13Jul2025 00:39:51.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6060ms or 121 ticks behind
-[13Jul2025 00:40:13.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7442ms or 148 ticks behind
-[13Jul2025 00:40:34.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6177ms or 123 ticks behind
-[13Jul2025 00:40:55.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5392ms or 107 ticks behind
-[13Jul2025 00:41:15.225] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
-[13Jul2025 00:41:36.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6056ms or 121 ticks behind
-[13Jul2025 00:41:57.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6201ms or 124 ticks behind
-[13Jul2025 00:42:15.275] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2803ms or 56 ticks behind
-[13Jul2025 00:42:37.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7100ms or 142 ticks behind
-[13Jul2025 00:43:02.637] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10265ms or 205 ticks behind
-[13Jul2025 00:43:26.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Spectator Mode]
-[13Jul2025 00:43:27.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10277ms or 205 ticks behind
-[13Jul2025 00:43:47.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved too quickly! 9.428789341932145,-0.6840000271797209,-3.5095838188490234
-[13Jul2025 00:43:52.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9758ms or 195 ticks behind
-[13Jul2025 00:44:15.787] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8164ms or 163 ticks behind
-[13Jul2025 00:44:38.545] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7772ms or 155 ticks behind
-[13Jul2025 00:45:00.691] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7169ms or 143 ticks behind
-[13Jul2025 00:45:05.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved too quickly! -1.5164319588243416,0.0,-10.484738294738236
-[13Jul2025 00:45:22.974] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7302ms or 146 ticks behind
-[13Jul2025 00:45:45.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7459ms or 149 ticks behind
-[13Jul2025 00:45:47.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to Ale_sweeney]
-[13Jul2025 00:46:07.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6786ms or 135 ticks behind
-[13Jul2025 00:46:29.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7536ms or 150 ticks behind
-[13Jul2025 00:46:52.200] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7528ms or 150 ticks behind
-[13Jul2025 00:47:09.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
-[13Jul2025 00:47:12.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 fell from a high place
-[13Jul2025 00:47:12.220] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
-[13Jul2025 00:47:17.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10123ms or 202 ticks behind
-[13Jul2025 00:47:38.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Pulpleito8]
-[13Jul2025 00:47:41.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9196ms or 183 ticks behind
-[13Jul2025 00:47:45.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to Ale_sweeney]
-[13Jul2025 00:47:54.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to zens25]
-[13Jul2025 00:47:59.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3080ms or 61 ticks behind
-[13Jul2025 00:48:17.751] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3279ms or 65 ticks behind
-[13Jul2025 00:48:35.620] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2898ms or 57 ticks behind
-[13Jul2025 00:48:53.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2699ms or 53 ticks behind
-[13Jul2025 00:49:03.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
-[13Jul2025 00:49:08.231] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:49:08.232] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 00:49:13.959] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5737ms or 114 ticks behind
-[13Jul2025 00:49:20.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to Ale_sweeney]
-[13Jul2025 00:49:31.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2734ms or 54 ticks behind
-[13Jul2025 00:50:18.405] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
-[13Jul2025 00:50:35.952] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2580ms or 51 ticks behind
-[13Jul2025 00:50:41.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported 4 entities to Pulpleito8]
-[13Jul2025 00:51:34.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has reached the goal [Bone Crusher]
-[13Jul2025 00:56:10.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to Ale_sweeney]
-[13Jul2025 01:05:09.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [Dragon Commander]
-[13Jul2025 01:09:41.443] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=-57, z=-315}
-[13Jul2025 01:09:41.444] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-57, z=-313}
-[13Jul2025 01:09:41.444] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-57, z=-313}
-[13Jul2025 01:09:41.445] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
-[13Jul2025 01:09:41.445] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
-[13Jul2025 01:09:41.446] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
-[13Jul2025 01:09:46.627] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
-[13Jul2025 01:09:46.627] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
-[13Jul2025 01:09:46.986] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
-[13Jul2025 01:10:05.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
-[13Jul2025 01:10:13.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was turned to ice by Ice Dragon
-[13Jul2025 01:10:13.365] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
-[13Jul2025 01:10:16.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
-[13Jul2025 01:10:41.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was frozen by Ice Dragon
-[13Jul2025 01:10:41.869] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
-[13Jul2025 01:10:44.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
-[13Jul2025 01:11:54.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Spectator Mode]
-[13Jul2025 01:12:20.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
-[13Jul2025 01:12:27.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to zens25]
-[13Jul2025 01:12:44.192] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/107884, l='ServerLevel[world]', x=-739.27, y=66.94, z=197.06] died, message: 'Villager was turned to ice by Ice Dragon'
-[13Jul2025 01:12:44.543] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/107753, l='ServerLevel[world]', x=-742.84, y=67.00, z=201.07] died, message: 'Weaponsmith was turned to ice by Ice Dragon'
-[13Jul2025 01:12:44.544] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/107749, l='ServerLevel[world]', x=-746.00, y=67.94, z=200.01] died, message: 'Armorer was turned to ice by Ice Dragon'
-[13Jul2025 01:12:44.544] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/107744, l='ServerLevel[world]', x=-746.50, y=67.94, z=200.90] died, message: 'Armorer was turned to ice by Ice Dragon'
-[13Jul2025 01:12:47.619] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/107751, l='ServerLevel[world]', x=-755.49, y=64.94, z=207.05] died, message: 'Weaponsmith was slain by Ice Dragon'
-[13Jul2025 01:12:53.600] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/107841, l='ServerLevel[world]', x=-748.84, y=68.18, z=209.73] died, message: 'Villager was slain by Ice Dragon'
-[13Jul2025 01:12:59.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Spectator Mode]
-[13Jul2025 01:13:16.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
-[13Jul2025 01:13:24.309] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/107901, l='ServerLevel[world]', x=-780.70, y=63.00, z=200.24] died, message: 'Weaponsmith was turned to ice by Ice Dragon'
-[13Jul2025 01:13:27.797] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/107840, l='ServerLevel[world]', x=-796.18, y=63.00, z=210.83] died, message: 'Farmer was frozen by Ice Dragon'
-[13Jul2025 01:13:56.896] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/107809, l='ServerLevel[world]', x=-795.30, y=63.50, z=209.78] died, message: 'Villager was pricked to death'
-[13Jul2025 01:14:00.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Spectator Mode]
-[13Jul2025 01:14:01.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
-[13Jul2025 01:14:05.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
-[13Jul2025 01:14:07.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
-[13Jul2025 01:14:44.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Spectator Mode]
-[13Jul2025 01:14:53.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
-[13Jul2025 01:15:37.681] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/114912, l='ServerLevel[world]', x=-952.50, y=77.00, z=93.50]
-[13Jul2025 01:16:07.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney died because of Nightmare Stalker
-[13Jul2025 01:16:08.087] [Server thread/INFO] [tombstone/]: The player Ale_sweeney has successfully been saved
-[13Jul2025 01:16:15.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 was slain by Zombie
-[13Jul2025 01:16:15.982] [Server thread/INFO] [tombstone/]: The player zens25 has successfully been saved
-[13Jul2025 01:16:27.978] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/115609, l='ServerLevel[world]', x=-934.50, y=72.00, z=79.50]
-[13Jul2025 01:16:46.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Zombie
-[13Jul2025 01:16:46.816] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
-[13Jul2025 01:18:06.977] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/116393, l='ServerLevel[world]', x=-940.50, y=75.00, z=169.50]
-[13Jul2025 01:18:15.179] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/116433, l='ServerLevel[world]', x=-918.50, y=72.00, z=129.50]
-[13Jul2025 01:18:16.303] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/116440, l='ServerLevel[world]', x=-945.50, y=75.00, z=89.50]
-[13Jul2025 01:18:18.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
-[13Jul2025 01:19:00.729] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/116866, l='ServerLevel[world]', x=-940.50, y=75.00, z=171.50]
-[13Jul2025 01:19:11.880] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/116995, l='ServerLevel[world]', x=-943.50, y=75.00, z=89.50]
-[13Jul2025 01:19:15.230] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/117048, l='ServerLevel[world]', x=-941.50, y=73.00, z=179.50]
-[13Jul2025 01:19:41.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 fell from a high place
-[13Jul2025 01:19:41.272] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
-[13Jul2025 01:19:45.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
-[13Jul2025 01:19:46.039] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/117290, l='ServerLevel[world]', x=-939.50, y=75.00, z=169.50]
-[13Jul2025 01:19:48.280] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/117308, l='ServerLevel[world]', x=-943.50, y=73.00, z=177.50]
-[13Jul2025 01:20:59.485] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/118214, l='ServerLevel[world]', x=-943.50, y=73.00, z=178.50]
-[13Jul2025 01:21:45.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
-[13Jul2025 01:21:54.330] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/118768, l='ServerLevel[world]', x=-941.50, y=73.00, z=177.50]
-[13Jul2025 01:23:41.580] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/120062, l='ServerLevel[world]', x=-952.50, y=77.00, z=92.50]
-[13Jul2025 01:23:42.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was frozen by Ice Dragon
-[13Jul2025 01:23:42.581] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
-[13Jul2025 01:23:53.800] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/120316, l='ServerLevel[world]', x=-962.50, y=73.00, z=219.50]
-[13Jul2025 01:23:54.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
-[13Jul2025 01:23:56.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was frozen by Ice Dragon
-[13Jul2025 01:23:56.236] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
-[13Jul2025 01:24:00.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
-[13Jul2025 01:24:21.981] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/120623, l='ServerLevel[world]', x=-928.50, y=71.00, z=244.50]
-[13Jul2025 01:24:50.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Ice Dragon
-[13Jul2025 01:24:50.618] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
-[13Jul2025 01:24:54.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
-[13Jul2025 01:26:21.062] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/122088, l='ServerLevel[world]', x=-944.50, y=75.00, z=162.50]
-[13Jul2025 01:26:43.035] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/122239, l='ServerLevel[world]', x=-934.50, y=72.00, z=81.50]
-[13Jul2025 01:26:46.490] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/122255, l='ServerLevel[world]', x=-938.50, y=75.00, z=171.50]
-[13Jul2025 01:27:29.782] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/122592, l='ServerLevel[world]', x=-961.50, y=73.00, z=221.50]
-[13Jul2025 01:27:47.487] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/122697, l='ServerLevel[world]', x=-3.51, y=-256.00, z=533.01] died, message: 'Villager was killed'
-[13Jul2025 01:28:04.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to zens25]
-[13Jul2025 01:28:18.381] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/123039, l='ServerLevel[world]', x=-940.50, y=72.00, z=153.50]
-[13Jul2025 01:28:19.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
-[13Jul2025 01:32:42.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has reached the goal [Bone Crusher]
-[13Jul2025 01:34:06.303] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ale_sweeney lost connection: Disconnected
-[13Jul2025 01:34:06.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney left the game
-[13Jul2025 01:34:06.361] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[13Jul2025 01:35:11.377] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[13Jul2025 01:35:31.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5211ms or 104 ticks behind
-[13Jul2025 01:35:45.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved too quickly! -4.777411523158751,4.739037816372813,-7.5103986167305266
-[13Jul2025 01:35:54.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7464ms or 149 ticks behind
-[13Jul2025 01:36:13.134] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[13Jul2025 01:36:20.316] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ale_sweeney[/127.115.61.54:56163] logged in with entity id 127722 at (4.600533181723938, 116.0, 521.4528064449472)
-[13Jul2025 01:36:20.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney joined the game
-[13Jul2025 01:36:30.394] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2272ms or 45 ticks behind
-[13Jul2025 01:36:47.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2508ms or 50 ticks behind
-[13Jul2025 01:36:50.444] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ale_sweeney lost connection: Timed out
-[13Jul2025 01:36:50.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney left the game
-[13Jul2025 01:37:06.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[13Jul2025 01:37:25.379] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[13Jul2025 01:37:46.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[13Jul2025 01:38:30.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[13Jul2025 01:38:42.153] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zens25 lost connection: Disconnected
-[13Jul2025 01:38:42.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 left the game
-[13Jul2025 01:47:30.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was turned into gorgonzola by Gorgon
-[13Jul2025 01:47:30.315] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
-[13Jul2025 01:52:38.249] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 lost connection: Disconnected
-[13Jul2025 01:52:38.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 left the game
-[13Jul2025 01:54:30.095] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pulpleito8[/127.73.31.138:37481] logged in with entity id 140021 at (714.246690589187, 6.176759275064237, 4042.7044954801318)
-[13Jul2025 01:54:30.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 joined the game
-[13Jul2025 01:54:37.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8's brain was turned into leaves by Nature Bolt
-[13Jul2025 01:54:37.457] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
-[13Jul2025 01:55:01.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
-[13Jul2025 01:55:12.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was turned into gorgonzola by Gorgon
-[13Jul2025 01:55:12.694] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
-[13Jul2025 01:55:25.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Spectator Mode]
-[13Jul2025 01:55:38.001] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 01:55:38.001] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 01:55:55.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
-[13Jul2025 01:56:01.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Spectator Mode]
-[13Jul2025 01:56:35.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
-[13Jul2025 01:56:41.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Spectator Mode]
-[13Jul2025 01:57:10.654] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 01:57:10.654] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[13Jul2025 01:57:16.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
-[13Jul2025 01:58:20.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was turned into gorgonzola by Gorgon
-[13Jul2025 01:58:20.760] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
-[13Jul2025 02:03:18.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
-[13Jul2025 02:07:04.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ByJean2812> view ip
-[13Jul2025 02:07:09.495] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByJean2812 lost connection: Disconnected
-[13Jul2025 02:07:09.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 left the game
-[13Jul2025 02:08:34.255] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ByJean2812[/127.171.90.144:34499] logged in with entity id 153373 at (-2.889969142338533, 116.0, 531.6999999880791)
-[13Jul2025 02:08:34.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 joined the game
-[13Jul2025 02:08:45.742] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IJiroI[/127.188.192.76:44877] logged in with entity id 153488 at (-50.5, 103.0, 85.5)
-[13Jul2025 02:08:45.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI joined the game
-[13Jul2025 02:08:45.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI has made the advancement [Ice and Fire]
-[13Jul2025 02:08:45.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI has completed the challenge [The Undead]
-[13Jul2025 02:09:06.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI has made the advancement [Alex's Mobs]
-[13Jul2025 02:09:36.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI was killed
-[13Jul2025 02:09:36.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI has made the advancement [Your First Grave]
-[13Jul2025 02:09:36.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed IJiroI
-[13Jul2025 02:09:36.904] [Server thread/INFO] [tombstone/]: The player IJiroI has successfully been saved
-[13Jul2025 02:09:49.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI has reached the goal [Here They Come]
-[13Jul2025 02:09:50.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [An Ear-Shattering Roar]
-[13Jul2025 02:09:58.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported IJiroI to Pulpleito8]
-[13Jul2025 02:10:08.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI was killed
-[13Jul2025 02:10:08.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed IJiroI
-[13Jul2025 02:10:08.713] [Server thread/INFO] [tombstone/]: The player IJiroI has successfully been saved
-[13Jul2025 02:10:20.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported IJiroI to Pulpleito8]
-[13Jul2025 02:10:35.195] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IJiroI lost connection: Disconnected
-[13Jul2025 02:10:35.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI left the game
-[13Jul2025 02:10:48.356] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IJiroI[/127.188.192.76:45763] logged in with entity id 155048 at (-3.6695565875977434, 116.0, 500.35877557703026)
-[13Jul2025 02:10:48.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI joined the game
-[13Jul2025 02:11:29.992] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 lost connection: Disconnected
-[13Jul2025 02:11:29.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 left the game
-[13Jul2025 02:13:02.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI has made the advancement [Knowledge of Death]
-[13Jul2025 02:13:02.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI has reached the goal [Easy Opening]
-[13Jul2025 02:13:20.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI has made the advancement [Suit Up]
-[13Jul2025 02:13:24.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI has made the advancement [Cover Me with Diamonds]
-[13Jul2025 02:16:44.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI has made the advancement [Who You Gonna Call?]
-[13Jul2025 02:18:21.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI has made the advancement [A Strange Grave Dust]
-[13Jul2025 02:19:19.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI has made the advancement [Hostile Paradise]
-[13Jul2025 02:21:58.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IJiroI moved too quickly! -75.85384305881078,111.07840000152588,-3774.003777390785
-[13Jul2025 02:24:35.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI has made the advancement [Isn't It Iron Pick]
-[13Jul2025 02:24:44.925] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/160390, l='ServerLevel[world]', x=-2.62, y=-256.00, z=533.07] died, message: 'Villager was killed'
-[13Jul2025 02:24:55.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI has made the advancement [Stone Age]
-[13Jul2025 02:32:36.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IJiroI lost connection: Timed out
-[13Jul2025 02:32:36.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI left the game
-[13Jul2025 02:32:59.052] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IJiroI[/127.188.192.76:46689] logged in with entity id 161800 at (-2.5, 108.0, 497.5)
-[13Jul2025 02:32:59.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI joined the game
-[13Jul2025 02:33:29.192] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IJiroI lost connection: Timed out
-[13Jul2025 02:33:29.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI left the game
+[13Jul2025 02:44:14.014] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[13Jul2025 02:44:14.018] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[13Jul2025 02:44:15.924] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[13Jul2025 02:44:15.988] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MOds/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[13Jul2025 02:44:16.374] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MOds/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[13Jul2025 02:44:16.376] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MOds/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[13Jul2025 02:44:16.378] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MOds/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[13Jul2025 02:44:16.379] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MOds/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[13Jul2025 02:44:16.727] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[13Jul2025 02:44:16.728] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: resourcefullib. Using Mod File: /workspaces/MOds/servidor_minecraft/mods/resourcefullib-forge-1.20.1-2.1.25.jar
+[13Jul2025 02:44:16.729] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: /workspaces/MOds/servidor_minecraft/mods/curios-forge-5.9.1+1.20.1.jar
+[13Jul2025 02:44:16.729] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 13 dependencies adding them to mods collection
+[13Jul2025 02:44:20.295] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[13Jul2025 02:44:20.660] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[13Jul2025 02:44:20.702] [main/WARN] [mixin/]: Reference map 'naturalist-forge-forge-refmap.json' for naturalist.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Jul2025 02:44:20.814] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Jul2025 02:44:20.816] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Jul2025 02:44:20.844] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Jul2025 02:44:21.040] [main/INFO] [Puzzles Lib/]: Loading 98 mods:
+	- ad_astra 1.15.18
+	- aether 1.20.1-1.2.0-neoforge
+	- aiimprovements 0.5.2
+	- alexscaves 1.1.4
+	- alexsmobs 1.22.8
+	- architectury 9.2.14
+	- artifacts 9.5.7
+	- bagus_lib 1.20.1-4.4.0
+	- betterdeserttemples 1.20-Forge-3.0.3
+	- betterdungeons 1.20-Forge-4.0.3
+	- betterendisland 1.20-Forge-2.0.5
+	- betterfortresses 1.20-Forge-2.0.5
+	- betterjungletemples 1.20-Forge-2.0.4
+	- bettermineshafts 1.20-Forge-4.0.4
+	- bettermobs 1.0.0
+	- betteroceanmonuments 1.20-Forge-3.0.4
+	- betterstrongholds 1.20-Forge-4.0.3
+	- bettervillage 3.1.0
+	- betterwitchhuts 1.20-Forge-3.0.3
+	- born_in_chaos_v1 1.0.0
+	- botarium 2.3.3
+	- brutalbosses 1.20.1-6.8
+	- carryon 2.1.2.7
+	- cataclysm 1.0
+	- citadel 2.5.4
+	- cloth_config 11.1.118
+	- clumps 12.0.0.4
+	- coroutil 1.20.1-1.3.3
+	- cosmeticarmorreworked 1.20.1-v1a
+	- creeperoverhaul 3.0.2
+	- cumulus_menus 1.20.1-1.0.0-neoforge
+	- cupboard 1.20.1-2.5
+	- curios 5.9.1+1.20.1
+	- deeperdarker 1.2.1
+	- dungeons_arise 2.1.58-1.20.x
+	- earthmobsmod 1.20.1-10.3.1
+	- easyanvils 8.0.1
+	- ecologics 2.2.0
+	- eeeabsmobs 1.20.1-0.91
+	- elevatorid 1.20.1-lex-1.9
+	- enchantinginfuser 8.0.2
+	- endermanoverhaul 1.0.3
+	- endrem 5.2.3-R-1.20.1
+	- enemyexpansion 2.3.1
+	- expandability 9.0.4
+	- explorerscompass 1.20.1-1.3.3-forge
+	- ferritecore 6.0.1
+	- forge 47.3.7
+	- friendsandfoes 2.0.10
+	- furnitura 1.12-1.20.1
+	- geckolib 4.4.2
+	- hangglider 8.0.1
+	- iceandfire 2.1.13-1.20.1-beta-4
+	- illagerinvasion 8.0.3
+	- incendium 5.3.5
+	- ironchest 1.20.1-14.4.4
+	- jei 15.3.0.8
+	- libraryferret 4.0.0
+	- luminousworld 1.3.6
+	- minecraft 1.20.1
+	- mixinextras 0.3.5
+	- mixinsquared 0.1.1
+	- moonlight 1.20-2.11.0
+	- mowziesmobs 1.6.4
+	- multimine 1.20.1.3
+	- mutantmonsters 8.0.7
+	- naturalist 4.0.3
+	- naturescompass 1.20.1-1.11.2-forge
+	- nitrogen_internals 1.20.1-1.0.2-neoforge
+	- nullscape 1.2.4
+	- placeablesmod 1.9
+	- polymorph 0.49.2+1.20.1
+	- puzzlesaccessapi 8.0.7
+	- puzzleslib 8.1.17
+	- quark 4.0-438
+	- recipes_unlocked 7.0.0
+	- resourcefulconfig 2.1.2
+	- resourcefullib 2.1.25
+	- securitycraft 1.9.9
+	- sophisticatedbackpacks 3.20.2.1022
+	- sophisticatedcore 0.6.8.567
+	- spectrelib 0.13.14+1.20.1
+	- stalwart_dungeons 1.2.8
+	- supplementaries 1.20-2.8.6
+	- takesapillage 1.0.3
+	- tombstone 8.6.3
+	- torchmaster 20.1.6
+	- twilightforest 4.3.1735
+	- undead_revamp2 1.0.0
+	- vanillaplustools 1.20-1.0
+	- warriorrage 1.0.0
+	- watching 1.9.2
+	- watut 1.20.1-1.0.11
+	- xaerominimap 24.1.1
+	- yungsapi 1.20-Forge-4.0.4
+	- yungsbridges 1.20-Forge-4.0.3
+	- yungsextras 1.20-Forge-4.0.3
+	- zeta 1.0-14
+[13Jul2025 02:44:22.426] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[13Jul2025 02:44:22.426] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[13Jul2025 02:44:23.123] [main/WARN] [mixin/]: Error loading class: noobanidus/mods/lootr/config/ConfigManager (java.lang.ClassNotFoundException: noobanidus.mods.lootr.config.ConfigManager)
+[13Jul2025 02:44:23.629] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[13Jul2025 02:44:31.721] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
+[13Jul2025 02:44:31.743] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for illagerinvasion:main
+[13Jul2025 02:44:31.843] [modloading-worker-0/INFO] [atomicstryker.multimine.common.MultiMine/]: mod instantiated
+[13Jul2025 02:44:31.850] [modloading-worker-0/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMineServer initializing
+[13Jul2025 02:44:32.533] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for hangglider:main
+[13Jul2025 02:44:32.956] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
+[13Jul2025 02:44:33.277] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[13Jul2025 02:44:33.295] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[13Jul2025 02:44:33.329] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
+[13Jul2025 02:44:33.435] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
+[13Jul2025 02:44:33.788] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[13Jul2025 02:44:33.805] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[13Jul2025 02:44:33.899] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[13Jul2025 02:44:33.899] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[13Jul2025 02:44:33.986] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[13Jul2025 02:44:33.999] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[13Jul2025 02:44:34.006] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[13Jul2025 02:44:34.015] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[13Jul2025 02:44:34.021] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[13Jul2025 02:44:34.024] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[13Jul2025 02:44:34.027] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[13Jul2025 02:44:35.619] [ForkJoinPool.commonPool-worker-1/INFO] [friendsandfoes/]: [Friends&Foes] An update is available! You are using 2.0.10 version, but the latest version is 3.0.9.
+[13Jul2025 02:44:36.010] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[13Jul2025 02:44:36.044] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[13Jul2025 02:44:36.217] [modloading-worker-0/INFO] [quark-zeta/]: Discovered 160 modules to load.
+[13Jul2025 02:44:36.218] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Abacus...
+[13Jul2025 02:44:36.222] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Adjustable Chat...
+[13Jul2025 02:44:36.222] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ambient Discs...
+[13Jul2025 02:44:36.223] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Tomes...
+[13Jul2025 02:44:36.248] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Wood...
+[13Jul2025 02:44:36.267] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Armed Armor Stands...
+[13Jul2025 02:44:36.267] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Auto Walk Keybind...
+[13Jul2025 02:44:36.267] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Recipe Unlock...
+[13Jul2025 02:44:36.268] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Tool Restock...
+[13Jul2025 02:44:36.273] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Azalea Wood...
+[13Jul2025 02:44:36.273] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Back Button Keybind...
+[13Jul2025 02:44:36.273] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Backpack...
+[13Jul2025 02:44:36.285] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Beacon Redirection...
+[13Jul2025 02:44:36.290] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Better Elytra Rocket...
+[13Jul2025 02:44:36.290] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Big Stone Clusters...
+[13Jul2025 02:44:36.299] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Blossom Trees...
+[13Jul2025 02:44:36.304] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Bottled Cloud...
+[13Jul2025 02:44:36.305] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Buckets Show Inhabitants...
+[13Jul2025 02:44:36.306] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Camera...
+[13Jul2025 02:44:36.307] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Campfires Boost Elytra...
+[13Jul2025 02:44:36.308] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Celebratory Lamps...
+[13Jul2025 02:44:36.308] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chains Connect Blocks...
+[13Jul2025 02:44:36.308] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chest Searching...
+[13Jul2025 02:44:36.308] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chorus Vegetation...
+[13Jul2025 02:44:36.312] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chute...
+[13Jul2025 02:44:36.316] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Climate Control Remover...
+[13Jul2025 02:44:36.316] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Color Runes...
+[13Jul2025 02:44:36.321] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compasses Work Everywhere...
+[13Jul2025 02:44:36.322] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compressed Blocks...
+[13Jul2025 02:44:36.322] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Coral On Cactus...
+[13Jul2025 02:44:36.323] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Corundum...
+[13Jul2025 02:44:36.348] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crabs...
+[13Jul2025 02:44:36.353] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crafter...
+[13Jul2025 02:44:36.355] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crate...
+[13Jul2025 02:44:36.359] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Diamond Repair...
+[13Jul2025 02:44:36.360] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dispensers Place Blocks...
+[13Jul2025 02:44:36.361] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Double Door Opening...
+[13Jul2025 02:44:36.366] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dragon Scales...
+[13Jul2025 02:44:36.367] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Duskbound Blocks...
+[13Jul2025 02:44:36.367] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dyeable Item Frames...
+[13Jul2025 02:44:36.368] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Easy Transfering...
+[13Jul2025 02:44:36.375] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Elytra Indicator...
+[13Jul2025 02:44:36.375] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Emotes...
+[13Jul2025 02:44:36.376] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantment Predicates...
+[13Jul2025 02:44:36.376] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantments Begone...
+[13Jul2025 02:44:36.377] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ender Watcher...
+[13Jul2025 02:44:36.378] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Endermosh Music Disc...
+[13Jul2025 02:44:36.381] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enhanced Ladders...
+[13Jul2025 02:44:36.382] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Expanded Item Interactions...
+[13Jul2025 02:44:36.386] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Fairy Rings...
+[13Jul2025 02:44:36.389] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Feeding Trough...
+[13Jul2025 02:44:36.392] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Forgotten...
+[13Jul2025 02:44:36.406] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Foxhound...
+[13Jul2025 02:44:36.411] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Framed Glass...
+[13Jul2025 02:44:36.411] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Game Nerfs...
+[13Jul2025 02:44:36.412] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Item Frame...
+[13Jul2025 02:44:36.417] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Shard...
+[13Jul2025 02:44:36.418] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glimmering Weald...
+[13Jul2025 02:44:36.435] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Bars...
+[13Jul2025 02:44:36.436] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Tools Have Fortune...
+[13Jul2025 02:44:36.441] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grab Chickens...
+[13Jul2025 02:44:36.441] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grate...
+[13Jul2025 02:44:36.443] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gravisand...
+[13Jul2025 02:44:36.446] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Greener Grass...
+[13Jul2025 02:44:36.449] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hedges...
+[13Jul2025 02:44:36.453] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hoe Harvesting...
+[13Jul2025 02:44:36.454] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hollow Logs...
+[13Jul2025 02:44:36.457] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Horses Swim...
+[13Jul2025 02:44:36.457] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hotbar Changer...
+[13Jul2025 02:44:36.458] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Sponges...
+[13Jul2025 02:44:36.458] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Tooltips...
+[13Jul2025 02:44:36.459] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Industrial Palette...
+[13Jul2025 02:44:36.460] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Inventory Sorting...
+[13Jul2025 02:44:36.463] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Iron Rod...
+[13Jul2025 02:44:36.491] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Item Sharing...
+[13Jul2025 02:44:36.506] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Japanese Palette...
+[13Jul2025 02:44:36.506] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Leaf Carpet...
+[13Jul2025 02:44:36.506] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Lock Rotation...
+[13Jul2025 02:44:36.508] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Long Range Pick Block...
+[13Jul2025 02:44:36.508] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Magnets...
+[13Jul2025 02:44:36.518] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Map Washing...
+[13Jul2025 02:44:36.519] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Matrix Enchanting...
+[13Jul2025 02:44:36.526] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Metal Buttons...
+[13Jul2025 02:44:36.526] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Microcrafting Helper...
+[13Jul2025 02:44:36.526] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Midori...
+[13Jul2025 02:44:36.530] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Monster Box...
+[13Jul2025 02:44:36.531] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Banner Layers...
+[13Jul2025 02:44:36.533] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Brick Types...
+[13Jul2025 02:44:36.533] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Mud Blocks...
+[13Jul2025 02:44:36.534] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Note Block Sounds...
+[13Jul2025 02:44:36.536] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Potted Plants...
+[13Jul2025 02:44:36.536] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Narrator Readout...
+[13Jul2025 02:44:36.536] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Brick Fence Gate...
+[13Jul2025 02:44:36.537] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Obsidian Spikes...
+[13Jul2025 02:44:36.537] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module New Stone Types...
+[13Jul2025 02:44:36.543] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No Durability On Cosmetics...
+[13Jul2025 02:44:36.543] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No More Lava Pockets...
+[13Jul2025 02:44:36.543] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Obsidian Plate...
+[13Jul2025 02:44:36.544] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Overlay Shader...
+[13Jul2025 02:44:36.544] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Parrot Eggs...
+[13Jul2025 02:44:36.545] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pat The Dogs...
+[13Jul2025 02:44:36.549] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pathfinder Maps...
+[13Jul2025 02:44:36.550] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Permafrost...
+[13Jul2025 02:44:36.550] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pickarang...
+[13Jul2025 02:44:36.554] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pig Litters...
+[13Jul2025 02:44:36.557] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pipes...
+[13Jul2025 02:44:36.560] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pistons Move Tile Entities...
+[13Jul2025 02:44:36.563] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Poison Potato Usage...
+[13Jul2025 02:44:36.564] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Quick Armor Swapping...
+[13Jul2025 02:44:36.564] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rainbow Lamps...
+[13Jul2025 02:44:36.565] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Raw Metal Bricks...
+[13Jul2025 02:44:36.565] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Reacharound Placing...
+[13Jul2025 02:44:36.565] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Redstone Randomizer...
+[13Jul2025 02:44:36.568] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Renewable Spore Blossoms...
+[13Jul2025 02:44:36.570] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Replace Scaffolding...
+[13Jul2025 02:44:36.571] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rope...
+[13Jul2025 02:44:36.572] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Safer Creatures...
+[13Jul2025 02:44:36.575] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Seed Pouch...
+[13Jul2025 02:44:36.577] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shear Vines...
+[13Jul2025 02:44:36.588] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shiba...
+[13Jul2025 02:44:36.588] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shingles...
+[13Jul2025 02:44:36.589] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shulker Packing...
+[13Jul2025 02:44:36.589] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Simple Harvest...
+[13Jul2025 02:44:36.591] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Skull Pikes...
+[13Jul2025 02:44:36.594] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slabs To Blocks...
+[13Jul2025 02:44:36.594] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slime In A Bucket...
+[13Jul2025 02:44:36.596] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slimes To Magma Cubes...
+[13Jul2025 02:44:36.596] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Snow Golem Player Heads...
+[13Jul2025 02:44:36.597] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Candles...
+[13Jul2025 02:44:36.597] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Sandstone...
+[13Jul2025 02:44:36.598] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spawner Replacer...
+[13Jul2025 02:44:36.599] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spiral Spires...
+[13Jul2025 02:44:36.602] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stonelings...
+[13Jul2025 02:44:36.603] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stools...
+[13Jul2025 02:44:36.604] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Sturdy Stone...
+[13Jul2025 02:44:36.604] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Thatch...
+[13Jul2025 02:44:36.605] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Tiny Potato...
+[13Jul2025 02:44:36.605] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Torch Arrow...
+[13Jul2025 02:44:36.607] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Toretoise...
+[13Jul2025 02:44:36.607] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Totem Of Holding...
+[13Jul2025 02:44:36.609] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Trowel...
+[13Jul2025 02:44:36.610] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Usage Ticker...
+[13Jul2025 02:44:36.610] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Uses For Curses...
+[13Jul2025 02:44:36.611] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Utility Recipes...
+[13Jul2025 02:44:36.611] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Animal Textures...
+[13Jul2025 02:44:36.613] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Bookshelves...
+[13Jul2025 02:44:36.614] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Chests...
+[13Jul2025 02:44:36.637] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Furnaces...
+[13Jul2025 02:44:36.650] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Ladders...
+[13Jul2025 02:44:36.653] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Selector...
+[13Jul2025 02:44:36.655] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Planks...
+[13Jul2025 02:44:36.658] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Slabs...
+[13Jul2025 02:44:36.681] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vexes Die With Their Masters...
+[13Jul2025 02:44:36.682] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villager Rerolling Rework...
+[13Jul2025 02:44:36.688] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villagers Follow Emeralds...
+[13Jul2025 02:44:36.688] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wooden Posts...
+[13Jul2025 02:44:36.689] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wool Shuts Up Minecarts...
+[13Jul2025 02:44:36.690] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wraith...
+[13Jul2025 02:44:36.693] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Zombie Villagers On Normal...
+[13Jul2025 02:44:36.694] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Stone Variants...
+[13Jul2025 02:44:36.694] [modloading-worker-0/INFO] [quark-zeta/]: Constructed 160 modules.
+[13Jul2025 02:44:36.966] [main/INFO] [zeta-internal/]: Dispatching ZRegister to 3 listeners
+[13Jul2025 02:44:36.970] [main/INFO] [zeta-internal/]: Dispatching ZRegister$Post to 1 listener
+[13Jul2025 02:44:36.971] [main/INFO] [quark-zeta/]: Dispatching ZRegister to 96 listeners
+[13Jul2025 02:44:37.827] [main/INFO] [quark-zeta/]: Dispatching ZRegister$Post to 6 listeners
+[13Jul2025 02:44:40.109] [main/INFO] [Moonlight/]: Initialized block sets in 29ms
+[13Jul2025 02:44:42.094] [main/INFO] [quark-zeta/]: Dispatching ForgeZEntityAttributeCreation (as ZEntityAttributeCreation) to 7 listeners
+[13Jul2025 02:44:42.317] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
+[13Jul2025 02:44:42.374] [main/INFO] [zeta-internal/]: Dispatching ZConfigChanged to 2 listeners
+[13Jul2025 02:44:42.375] [main/INFO] [zeta/]: 'zeta' is enabling Zeta's piston structure resolver.
+[13Jul2025 02:44:42.490] [main/INFO] [quark-zeta/]: Dispatching ZConfigChanged to 45 listeners
+[13Jul2025 02:44:42.507] [Thread-3/INFO] [quark-zeta/]: Dispatching ZConfigChanged to 45 listeners
+[13Jul2025 02:44:42.554] [modloading-worker-0/INFO] [bagus_lib/]: Load Bagus Lib Supporter
+[13Jul2025 02:44:42.706] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
+[13Jul2025 02:44:42.728] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
+[13Jul2025 02:44:42.733] [modloading-worker-0/INFO] [com.brutalbosses.BrutalBosses/]: brutalbosses mod initialized
+[13Jul2025 02:44:42.765] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: OUTDATED Current: 8.0.1 Target: 8.0.2
+[13Jul2025 02:44:42.769] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
+[13Jul2025 02:44:42.771] [modloading-worker-0/INFO] [zeta-internal/]: Dispatching ForgeZCommonSetup (as ZCommonSetup) to 2 listeners
+[13Jul2025 02:44:42.774] [modloading-worker-0/INFO] [quark-zeta/]: Dispatching ForgeZCommonSetup (as ZCommonSetup) to 39 listeners
+[13Jul2025 02:44:42.876] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Found status: OUTDATED Current: 1.20.1-1.2.0-neoforge Target: 1.20.1-1.5.2-neoforge
+[13Jul2025 02:44:42.876] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/illagerinvasion.json
+[13Jul2025 02:44:42.887] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Found status: OUTDATED Current: 8.0.3 Target: 8.0.7
+[13Jul2025 02:44:42.888] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[13Jul2025 02:44:42.970] [main/INFO] [Moonlight/]: Initialized color sets in 57ms
+[13Jul2025 02:44:43.007] [main/INFO] [zeta-internal/]: Dispatching ZConfigChanged to 2 listeners
+[13Jul2025 02:44:43.009] [main/INFO] [quark-zeta/]: Dispatching ZConfigChanged to 45 listeners
+[13Jul2025 02:44:43.019] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: OUTDATED Current: 4.3.1735 Target: 4.3.1893
+[13Jul2025 02:44:43.020] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/hangglider.json
+[13Jul2025 02:44:43.033] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[13Jul2025 02:44:43.035] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[13Jul2025 02:44:43.048] [main/INFO] [Supplementaries/]: Finished mod setup in: [0, 2, 0, 3, 0, 0, 19, 1] ms
+[13Jul2025 02:44:43.050] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.6.3 Target: 9.0.2
+[13Jul2025 02:44:43.056] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
+[13Jul2025 02:44:43.068] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[13Jul2025 02:44:43.073] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[13Jul2025 02:44:43.088] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Found status: OUTDATED Current: 1.20.1-1.0.0-neoforge Target: 1.20.1-1.0.1-neoforge
+[13Jul2025 02:44:43.089] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
+[13Jul2025 02:44:43.106] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: OUTDATED Current: 8.0.2 Target: 8.0.3
+[13Jul2025 02:44:43.109] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
+[13Jul2025 02:44:43.122] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
+[13Jul2025 02:44:43.122] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
+[13Jul2025 02:44:43.127] [modloading-worker-0/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Registering custom criteria trigger...
+[13Jul2025 02:44:43.134] [modloading-worker-0/INFO] [zeta-internal/]: Dispatching ForgeZLoadComplete (as ZLoadComplete) to 1 listener
+[13Jul2025 02:44:43.137] [modloading-worker-0/INFO] [quark-zeta/]: Dispatching ForgeZLoadComplete (as ZLoadComplete) to 6 listeners
+[13Jul2025 02:44:43.138] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
+[13Jul2025 02:44:43.138] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
+[13Jul2025 02:44:43.484] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
+[13Jul2025 02:44:43.485] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[13Jul2025 02:44:43.500] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[13Jul2025 02:44:43.500] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[13Jul2025 02:44:43.609] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[13Jul2025 02:44:43.609] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[13Jul2025 02:44:43.627] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.11.0 Target: null
+[13Jul2025 02:44:43.627] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[13Jul2025 02:44:43.690] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.9 Target: 1.10.0.1
+[13Jul2025 02:44:43.691] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
+[13Jul2025 02:44:43.701] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-2.8.6 Target: null
+[13Jul2025 02:44:43.701] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[13Jul2025 02:44:43.712] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.17 Target: 8.1.32
+[13Jul2025 02:44:43.712] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ad_astra] Starting version check at https://api.modrinth.com/updates/3ufwT9JF/forge_updates.json
+[13Jul2025 02:44:43.788] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ad_astra] Found status: OUTDATED Current: 1.15.18 Target: 1.15.20
+[13Jul2025 02:44:52.031] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13Jul2025 02:44:58.354] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MOds/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23281!/assets/.mcassetsroot' uses unexpected schema
+[13Jul2025 02:44:58.355] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MOds/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23281!/data/.mcassetsroot' uses unexpected schema
+[13Jul2025 02:44:58.528] [main/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 54 ms
+[13Jul2025 02:45:00.688] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[13Jul2025 02:45:00.698] [main/INFO] [com.github.L_Ender.cataclysm.Cataclysm/]: Adding datapack listener altar_of_amethyst_recipes
+[13Jul2025 02:45:00.709] [main/INFO] [zeta-internal/]: Dispatching ForgeZAddReloadListener (as ZAddReloadListener) to 2 listeners
+[13Jul2025 02:45:00.711] [main/INFO] [quark-zeta/]: Dispatching ForgeZAddReloadListener (as ZAddReloadListener) to 2 listeners
+[13Jul2025 02:45:00.712] [main/INFO] [quark-zeta/]: Dispatching AdvancementModifierRegistry$1 (as ZGatherAdvancementModifiers) to 1 listener
+[13Jul2025 02:45:00.846] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag alexsmobs:skreechers_can_spawn_wardens as it is missing following references: deeperdarker:otherside (from deeperdarker-forge-1.20.1-1.2.1.jar)
+[13Jul2025 02:45:00.852] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:is_eyestalker as it is missing following references: #forge:is_end (from enemyexpansion-2.3.1-forge-1.20.1.jar)
+[13Jul2025 02:45:00.887] [Worker-Main-2/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.6.3.jar
+[13Jul2025 02:45:02.818] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:luminousworld:entities/fawn}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[13Jul2025 02:45:02.819] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:undead_revamp2:entities/theheavy}.pools[2].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[13Jul2025 02:45:02.819] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:undead_revamp2:entities/slaveman}.pools[3].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[13Jul2025 02:45:02.820] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:undead_revamp2:entities/theskeeper}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[13Jul2025 02:45:02.820] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:luminousworld:entities/deer}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[13Jul2025 02:45:02.820] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:luminousworld:entities/deer}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[13Jul2025 02:45:02.821] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:luminousworld:entities/fawn}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[13Jul2025 02:45:02.876] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[13Jul2025 02:45:02.903] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[13Jul2025 02:45:02.903] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[13Jul2025 02:45:02.913] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[13Jul2025 02:45:02.964] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[13Jul2025 02:45:02.974] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[13Jul2025 02:45:02.997] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[13Jul2025 02:45:03.005] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[13Jul2025 02:45:03.008] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:mod_loaded'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[13Jul2025 02:45:03.015] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap_alt
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:mod_loaded'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[13Jul2025 02:45:03.029] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[13Jul2025 02:45:03.030] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[13Jul2025 02:45:03.033] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[13Jul2025 02:45:03.038] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 29 recipes
+[13Jul2025 02:45:03.040] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function enemyexpansion:silver_exes
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 25: ...erfriends <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 25: ...erfriends <--[HERE]
+	at net.minecraft.commands.CommandFunction.m_77984_(CommandFunction.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[13Jul2025 02:45:03.042] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.m_77984_(CommandFunction.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23281!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[13Jul2025 02:45:03.136] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
+[13Jul2025 02:45:03.276] [main/INFO] [quark/]: [Automatic Recipe Unlock] Removed 4246 recipe advancements
+[13Jul2025 02:45:03.292] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1016 advancements
+[13Jul2025 02:45:03.306] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[13Jul2025 02:45:03.319] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 19 curio slots
+[13Jul2025 02:45:03.328] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio entities
+[13Jul2025 02:45:03.330] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
+     - Please install the datapack for better compatibility between Better Villages and Ice And Fire.
+     - You can find the datapack URL in the `compatibility` section of the Better Villages description.
+     - URL=https://www.curseforge.com/minecraft/mc-mods/better-village-forge
+[13Jul2025 02:45:03.361] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:drowned
+[13Jul2025 02:45:03.362] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:iron_golem
+[13Jul2025 02:45:03.362] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:snow_golem
+[13Jul2025 02:45:03.362] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[13Jul2025 02:45:03.362] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:skeleton
+[13Jul2025 02:45:03.362] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:pillager
+[13Jul2025 02:45:03.362] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vex
+[13Jul2025 02:45:03.363] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
+[13Jul2025 02:45:03.363] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[13Jul2025 02:45:03.363] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
+[13Jul2025 02:45:03.363] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
+[13Jul2025 02:45:03.363] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
+[13Jul2025 02:45:03.363] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:cave_spider
+[13Jul2025 02:45:03.363] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[13Jul2025 02:45:03.364] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:husk
+[13Jul2025 02:45:03.364] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
+[13Jul2025 02:45:03.364] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wandering_trader
+[13Jul2025 02:45:03.364] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:guardian
+[13Jul2025 02:45:03.364] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
+[13Jul2025 02:45:03.364] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:shulker
+[13Jul2025 02:45:03.364] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zoglin
+[13Jul2025 02:45:03.364] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:chicken
+[13Jul2025 02:45:03.365] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:blaze
+[13Jul2025 02:45:03.365] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:witch
+[13Jul2025 02:45:03.365] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:phantom
+[13Jul2025 02:45:03.365] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:mooshroom
+[13Jul2025 02:45:03.365] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:rabbit
+[13Jul2025 02:45:03.365] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:piglin_brute
+[13Jul2025 02:45:03.365] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:ghast
+[13Jul2025 02:45:03.365] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:stray
+[13Jul2025 02:45:03.370] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_on with 2 patches
+[13Jul2025 02:45:03.370] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_a_mob with 3 patches
+[13Jul2025 02:45:03.371] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/bred_all_animals with 3 patches
+[13Jul2025 02:45:03.371] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_all_mobs with 3 patches
+[13Jul2025 02:45:03.372] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/balanced_diet with 3 patches
+[13Jul2025 02:45:03.373] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/plant_seed with 1 patches
+[13Jul2025 02:45:03.373] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_effects with 2 patches
+[13Jul2025 02:45:03.373] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_off with 2 patches
+[13Jul2025 02:45:03.374] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/adventuring_time with 1 patches
+[13Jul2025 02:45:03.374] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_potions with 1 patches
+[13Jul2025 02:45:03.384] [main/INFO] [Supplementaries/]: Loaded 27 flute songs
+[13Jul2025 02:45:09.405] [main/INFO] [Moonlight/]: Applied 7 data villager trades
+[13Jul2025 02:45:09.410] [main/INFO] [zeta-internal/]: Dispatching ZTagsUpdated to 1 listener
+[13Jul2025 02:45:09.425] [main/INFO] [Supplementaries/]: Finished additional setup in 14 ms
+[13Jul2025 02:45:09.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[13Jul2025 02:45:09.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[13Jul2025 02:45:09.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[13Jul2025 02:45:09.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[13Jul2025 02:45:09.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[13Jul2025 02:45:09.845] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[13Jul2025 02:45:09.925] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13Jul2025 02:45:09.925] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[13Jul2025 02:45:09.926] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13Jul2025 02:45:09.926] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[13Jul2025 02:45:09.941] [Server thread/INFO] [Puzzles Lib/]: Loading server config for illagerinvasion
+[13Jul2025 02:45:09.943] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
+[13Jul2025 02:45:09.944] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
+[13Jul2025 02:45:09.946] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
+[13Jul2025 02:45:09.954] [Server thread/INFO] [Puzzles Lib/]: Loading server config for hangglider
+[13Jul2025 02:45:09.964] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
+[13Jul2025 02:45:09.965] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
+[13Jul2025 02:45:09.969] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
+[13Jul2025 02:45:09.974] [Server thread/INFO] [Puzzles Lib/]: Loading server config for mutantmonsters
+[13Jul2025 02:45:10.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[13Jul2025 02:45:15.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[13Jul2025 02:45:17.469] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[13Jul2025 02:45:18.639] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jul2025 02:45:18.725] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jul2025 02:45:18.735] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jul2025 02:45:18.747] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jul2025 02:45:18.773] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jul2025 02:45:18.798] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jul2025 02:45:18.852] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jul2025 02:45:18.876] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jul2025 02:45:19.191] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jul2025 02:45:19.690] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[13Jul2025 02:45:20.189] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 64%
+[13Jul2025 02:45:20.256] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[13Jul2025 02:45:20.447] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5259 ms
+[13Jul2025 02:45:20.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.509s)! For help, type "help"
+[13Jul2025 02:45:20.558] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[13Jul2025 02:45:20.563] [Server thread/INFO] [net.stardustlabs.nullscape.Nullscape/]: Thanks for choosing Nullscape!
+[13Jul2025 02:45:20.564] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMine ServerStartedEvent
+[13Jul2025 02:45:20.564] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: config loading now
+[13Jul2025 02:45:20.566] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: config loaded successfully
+[13Jul2025 02:45:20.569] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: brutalbosses.json
+[13Jul2025 02:45:20.570] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[13Jul2025 02:45:20.570] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[13Jul2025 02:45:47.479] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[13Jul2025 02:45:47.557] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IJiroI[/127.188.192.76:57779] logged in with entity id 1516 at (-2.5, 108.0, 497.5)
+[13Jul2025 02:45:47.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI joined the game
+[13Jul2025 02:45:50.779] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3208ms or 64 ticks behind
+[13Jul2025 02:45:50.954] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[13Jul2025 02:45:50.954] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[13Jul2025 02:45:53.793] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3e7f6e3d[id=<null>,name=ByJean2812,properties={},legacy=false] (/127.171.90.144:43901) lost connection: Disconnected
+[13Jul2025 02:46:08.044] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ByJean2812[/127.171.90.144:60473] logged in with entity id 2750 at (-1.0221742621066745, 108.0, 512.84746992152)
+[13Jul2025 02:46:08.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 joined the game
+[13Jul2025 02:46:21.724] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2165, l='ServerLevel[world]', x=0.50, y=116.00, z=521.50] died, message: 'Villager was killed'
+[13Jul2025 02:47:18.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI was slain by Nightmare Stalker
+[13Jul2025 02:47:18.257] [Server thread/INFO] [tombstone/]: The player IJiroI has successfully been saved
+[13Jul2025 02:47:33.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported IJiroI to ByJean2812]
+[13Jul2025 02:48:13.543] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IJiroI lost connection: Disconnected
+[13Jul2025 02:48:13.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI left the game
+[13Jul2025 02:49:45.721] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4092, l='ServerLevel[world]', x=-1.50, y=116.00, z=522.50] died, message: 'Villager was killed'
+[13Jul2025 02:50:41.956] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IJiroI[/127.188.192.76:51813] logged in with entity id 4414 at (-3.724046210956583, 116.0, 558.3114117129253)
+[13Jul2025 02:50:41.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IJiroI joined the game
+[13Jul2025 02:53:53.774] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5806, l='ServerLevel[world]', x=-3.51, y=-256.00, z=533.01] died, message: 'Villager was killed'
