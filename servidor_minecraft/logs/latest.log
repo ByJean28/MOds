@@ -879,3 +879,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jul2025 23:29:57.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to 0.500000, 125.500000, 555.500000]
 [13Jul2025 23:32:54.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zens25: Teleported zens25 to -0.500000, 116.500000, 546.500000]
 [13Jul2025 23:35:28.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to -270.500000, 24.500000, 960.500000]
+[13Jul2025 23:35:38.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[13Jul2025 23:37:51.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zens25: Teleported zens25 to Pulpleito8]
+[13Jul2025 23:37:58.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Quite the Renovation]
+[13Jul2025 23:41:03.104] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByJean2812 lost connection: Disconnected
+[13Jul2025 23:41:03.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 left the game
+[13Jul2025 23:41:13.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zens25: Teleported zens25 to -0.500000, 116.500000, 546.500000]
+[13Jul2025 23:41:23.802] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ByJean2812[/127.171.90.144:51929] logged in with entity id 90692 at (-269.2333843871787, 22.0, 959.4200332281629)
+[13Jul2025 23:41:23.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 joined the game
+[13Jul2025 23:44:08.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to zens25]
+[13Jul2025 23:44:44.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to 0.500000, 125.500000, 555.500000]

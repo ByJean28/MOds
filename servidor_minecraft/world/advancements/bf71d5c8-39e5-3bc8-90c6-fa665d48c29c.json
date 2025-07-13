@@ -193,7 +193,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_zombie_dungeon": "2025-07-03 03:50:34 +0000"
+      "in_better_zombie_dungeon": "2025-07-03 03:50:34 +0000",
+      "in_better_monster_room": "2025-07-13 23:37:58 +0000"
     },
     "done": false
   },
@@ -767,6 +768,12 @@
   "iceandfire:iceandfire/dragonbone_tool": {
     "criteria": {
       "tool": "2025-07-13 22:55:30 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-07-13 23:37:58 +0000"
     },
     "done": true
   },
