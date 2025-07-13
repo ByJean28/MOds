@@ -1271,5 +1271,17 @@
     },
     "done": false
   },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-07-13 03:12:36 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-07-13 04:40:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
