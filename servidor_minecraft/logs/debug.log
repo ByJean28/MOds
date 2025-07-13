@@ -8980,3 +8980,34 @@ java.lang.ClassCastException: class net.minecraft.world.level.dimension.LevelSte
 [13Jul2025 01:20:59.485] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/118214, l='ServerLevel[world]', x=-943.50, y=73.00, z=178.50]
 [13Jul2025 01:21:45.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
 [13Jul2025 01:21:54.330] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/118768, l='ServerLevel[world]', x=-941.50, y=73.00, z=177.50]
+[13Jul2025 01:23:41.580] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/120062, l='ServerLevel[world]', x=-952.50, y=77.00, z=92.50]
+[13Jul2025 01:23:42.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was frozen by Ice Dragon
+[13Jul2025 01:23:42.555] [Server thread/DEBUG] [tombstone/]: A new grave of the player Pulpleito8 was created at position [x:-876, y:64, z:145, dim:minecraft:overworld]
+[13Jul2025 01:23:42.581] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[13Jul2025 01:23:43.858] [Server thread/DEBUG] [twilightforest/]: Player Pulpleito8 (d22b9c2a-031e-30ec-8cf8-ce7194d1bb5e) respawned and received items held in storage
+[13Jul2025 01:23:53.800] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/120316, l='ServerLevel[world]', x=-962.50, y=73.00, z=219.50]
+[13Jul2025 01:23:54.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[13Jul2025 01:23:56.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was frozen by Ice Dragon
+[13Jul2025 01:23:56.196] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:-889, y:61, z:134, dim:minecraft:overworld]
+[13Jul2025 01:23:56.236] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[13Jul2025 01:23:59.010] [Server thread/DEBUG] [twilightforest/]: Player ByJean2812 (3808f9c7-7752-31e7-94ba-300fec15b4b8) respawned and received items held in storage
+[13Jul2025 01:24:00.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[13Jul2025 01:24:21.981] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/120623, l='ServerLevel[world]', x=-928.50, y=71.00, z=244.50]
+[13Jul2025 01:24:50.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Ice Dragon
+[13Jul2025 01:24:50.594] [Server thread/DEBUG] [tombstone/]: A new grave of the player Pulpleito8 was created at position [x:-872, y:64, z:128, dim:minecraft:overworld]
+[13Jul2025 01:24:50.618] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[13Jul2025 01:24:51.875] [Server thread/DEBUG] [twilightforest/]: Player Pulpleito8 (d22b9c2a-031e-30ec-8cf8-ce7194d1bb5e) respawned and received items held in storage
+[13Jul2025 01:24:54.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[13Jul2025 01:25:33.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 01:25:33.699] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 01:26:21.062] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/122088, l='ServerLevel[world]', x=-944.50, y=75.00, z=162.50]
+[13Jul2025 01:26:43.035] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/122239, l='ServerLevel[world]', x=-934.50, y=72.00, z=81.50]
+[13Jul2025 01:26:46.490] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/122255, l='ServerLevel[world]', x=-938.50, y=75.00, z=171.50]
+[13Jul2025 01:27:29.782] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/122592, l='ServerLevel[world]', x=-961.50, y=73.00, z=221.50]
+[13Jul2025 01:27:47.487] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/122697, l='ServerLevel[world]', x=-3.51, y=-256.00, z=533.01] died, message: 'Villager was killed'
+[13Jul2025 01:28:04.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to zens25]
+[13Jul2025 01:28:18.381] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/123039, l='ServerLevel[world]', x=-940.50, y=72.00, z=153.50]
+[13Jul2025 01:28:19.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[13Jul2025 01:30:33.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 01:30:33.643] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 01:32:42.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has reached the goal [Bone Crusher]
