@@ -9253,3 +9253,12 @@ java.lang.ClassCastException: class net.minecraft.world.level.dimension.LevelSte
 [13Jul2025 01:38:42.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 left the game
 [13Jul2025 01:41:02.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Jul2025 01:41:03.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 01:46:03.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 01:46:03.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 01:47:30.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was turned into gorgonzola by Gorgon
+[13Jul2025 01:47:30.288] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:-265, y:64, z:1158, dim:minecraft:overworld]
+[13Jul2025 01:47:30.315] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[13Jul2025 01:51:02.965] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 01:51:02.986] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 01:52:38.249] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 lost connection: Disconnected
+[13Jul2025 01:52:38.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 left the game
