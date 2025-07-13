@@ -819,3 +819,63 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jul2025 22:46:58.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
 [13Jul2025 22:47:29.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to 86.500000, 5.500000, 4311.500000]
 [13Jul2025 22:51:50.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Suit Up]
+[13Jul2025 22:55:30.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Splintering II]
+[13Jul2025 22:57:53.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Pulpleito8) moved too quickly! 9.18124005187766,0.0,4.565714046909534
+[13Jul2025 22:57:53.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Pulpleito8) moved too quickly! 10.420283605457541,0.0,4.923610070326163
+[13Jul2025 23:01:48.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Exotic Hardware]
+[13Jul2025 23:03:34.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Splintering II]
+[13Jul2025 23:04:57.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to 856.500000, -49.500000, -639.500000]
+[13Jul2025 23:06:17.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to 0.500000, 125.500000, 555.500000]
+[13Jul2025 23:07:15.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to 856.500000, -49.500000, -639.500000]
+[13Jul2025 23:08:12.917] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=898, y=-51, z=-688} BlockPos{x=899, y=-52, z=-688}
+[13Jul2025 23:09:11.566] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=966, y=-52, z=-674} BlockPos{x=967, y=-52, z=-675}
+[13Jul2025 23:10:03.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to 0.500000, 125.500000, 555.500000]
+[13Jul2025 23:13:23.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of zens25) moved too quickly! 9.84172333441552,-0.5547692297094642,4.148522411521412
+[13Jul2025 23:13:23.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of zens25) moved too quickly! 11.081720539753633,-0.5925967915568009,4.679043223750654
+[13Jul2025 23:13:23.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of zens25) moved too quickly! 12.322949419753968,-0.6259607011061519,5.211610096049526
+[13Jul2025 23:13:23.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of zens25) moved too quickly! 13.565264636806432,-0.6553876693286895,5.745981593329844
+[13Jul2025 23:13:23.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of zens25) moved too quickly! 14.808538003138892,-0.6813422553009616,6.28194476984379
+[13Jul2025 23:13:23.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of zens25) moved too quickly! 16.052656457136322,-0.7042342001285107,6.819311807441778
+[13Jul2025 23:13:23.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of zens25) moved too quickly! 17.29752027845427,-0.7244248954663988,7.357917050515908
+[13Jul2025 23:13:23.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of zens25) moved too quickly! 18.54304151374879,-0.7422330887544177,7.897614390819996
+[13Jul2025 23:13:23.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of zens25) moved too quickly! 19.788974713210905,-0.7579399152344592,8.438656710056819
+[13Jul2025 23:13:23.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of zens25) moved too quickly! 21.035271265068786,-0.7717933361898446,8.980885300712316
+[13Jul2025 23:13:23.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of zens25) moved too quickly! 22.281888293739712,-0.7840120534724946,9.524160182759061
+[13Jul2025 23:13:23.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of zens25) moved too quickly! 23.52861284874973,-0.7947889621158026,10.068753321298061
+[13Jul2025 23:13:23.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of zens25) moved too quickly! 24.77543224199087,-0.8042941955391996,10.614509162063229
+[13Jul2025 23:13:23.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of zens25) moved too quickly! 26.02233528255192,-0.8126778114186379,11.161290506191847
+[13Jul2025 23:13:23.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of zens25) moved too quickly! 27.269312100049092,-0.8200721606242922,11.708976344287066
+[13Jul2025 23:13:23.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of zens25) moved too quickly! 28.51635398880387,-0.8265939766236841,12.257459946060806
+[13Jul2025 23:13:23.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of zens25) moved too quickly! 21.16033068479726,-0.3204653807428457,9.186325780109485
+[13Jul2025 23:13:23.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of zens25) moved too quickly! 22.4073106954761,-0.32553885793235793,9.736514465132444
+[13Jul2025 23:13:23.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of zens25) moved too quickly! 23.654185509198896,-0.3300136648135066,10.287586434069397
+[13Jul2025 23:13:23.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of zens25) moved too quickly! 24.900967539206476,-0.3339604444826847,10.839437459418463
+[13Jul2025 23:18:41.229] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/77058, l='ServerLevel[world]', x=-939.50, y=75.00, z=171.50]
+[13Jul2025 23:21:48.494] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/79200, l='ServerLevel[world]', x=-935.50, y=72.00, z=81.50]
+[13Jul2025 23:23:45.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[13Jul2025 23:23:48.937] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/80438, l='ServerLevel[world]', x=-938.50, y=75.00, z=169.50]
+[13Jul2025 23:24:59.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Spectator Mode]
+[13Jul2025 23:25:32.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
+[13Jul2025 23:26:56.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Ice Dragon
+[13Jul2025 23:26:56.757] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[13Jul2025 23:27:03.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Ice Dragon
+[13Jul2025 23:27:03.975] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[13Jul2025 23:27:04.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to -951.500000, 6.500000, 96.500000]
+[13Jul2025 23:27:10.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[13Jul2025 23:27:28.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was turned to ice by Ice Dragon
+[13Jul2025 23:27:28.628] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[13Jul2025 23:27:31.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[13Jul2025 23:27:39.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Ice Dragon
+[13Jul2025 23:27:39.984] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[13Jul2025 23:27:45.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to -948.500000, 6.500000, 86.500000]
+[13Jul2025 23:27:55.673] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/83856, l='ServerLevel[world]', x=-962.50, y=73.00, z=221.50]
+[13Jul2025 23:28:08.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Ice Dragon
+[13Jul2025 23:28:08.474] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[13Jul2025 23:28:11.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[13Jul2025 23:28:22.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was turned to ice by Ice Dragon
+[13Jul2025 23:28:22.382] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[13Jul2025 23:28:27.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to -959.500000, 6.500000, 91.500000]
+[13Jul2025 23:29:56.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to zens25]
+[13Jul2025 23:29:57.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to 0.500000, 125.500000, 555.500000]
+[13Jul2025 23:32:54.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zens25: Teleported zens25 to -0.500000, 116.500000, 546.500000]
+[13Jul2025 23:35:28.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to -270.500000, 24.500000, 960.500000]
