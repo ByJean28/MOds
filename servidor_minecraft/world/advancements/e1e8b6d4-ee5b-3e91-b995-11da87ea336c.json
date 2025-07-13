@@ -617,6 +617,12 @@
     },
     "done": false
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-07-13 00:51:34 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_hydra": {
     "criteria": {
       "kill_hydra": "2025-07-13 00:35:11 +0000",
@@ -628,9 +634,16 @@
     "criteria": {
       "raw_meef": "2025-07-13 00:08:01 +0000",
       "meef_stroganoff": "2025-07-13 00:12:35 +0000",
-      "cooked_meef": "2025-07-13 00:04:18 +0000"
+      "cooked_meef": "2025-07-13 00:04:18 +0000",
+      "cooked_venison": "2025-07-13 00:52:53 +0000"
     },
     "done": false
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-07-13 01:05:09 +0000"
+    },
+    "done": true
   },
   "tombstone:adventure/mutual_aid": {
     "criteria": {
