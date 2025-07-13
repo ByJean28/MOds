@@ -664,6 +664,12 @@
     },
     "done": true
   },
+  "friendsandfoes:husbandry/beehive": {
+    "criteria": {
+      "beehive": "2025-07-13 19:10:02 +0000"
+    },
+    "done": false
+  },
   "aether:the_aether": {
     "criteria": {
       "the_aether": "2025-07-13 18:21:12 +0000"
