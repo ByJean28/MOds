@@ -611,11 +611,18 @@
     },
     "done": false
   },
-  "twilightforest:progress_hydra": {
+  "twilightforest:progress_merge": {
     "criteria": {
-      "stroganoff": "2025-07-13 00:12:35 +0000"
+      "hydra": "2025-07-13 00:35:11 +0000"
     },
     "done": false
+  },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "kill_hydra": "2025-07-13 00:35:11 +0000",
+      "stroganoff": "2025-07-13 00:12:35 +0000"
+    },
+    "done": true
   },
   "twilightforest:twilight_dinner": {
     "criteria": {

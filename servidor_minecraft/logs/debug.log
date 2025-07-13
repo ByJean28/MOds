@@ -8755,3 +8755,90 @@ java.lang.ClassCastException: class net.minecraft.world.level.dimension.LevelSte
 [13Jul2025 00:31:11.551] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
 [13Jul2025 00:31:12.797] [Server thread/DEBUG] [twilightforest/]: Player Pulpleito8 (d22b9c2a-031e-30ec-8cf8-ce7194d1bb5e) respawned and received items held in storage
 [13Jul2025 00:31:15.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[13Jul2025 00:31:32.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney's skin was ripped off by the Hydra
+[13Jul2025 00:31:33.165] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ale_sweeney was created at position [x:498, y:0, z:4641, dim:twilightforest:twilight_forest]
+[13Jul2025 00:31:33.175] [Server thread/INFO] [tombstone/]: The player Ale_sweeney has successfully been saved
+[13Jul2025 00:31:34.791] [Server thread/DEBUG] [twilightforest/]: Player Ale_sweeney (e1e8b6d4-ee5b-3e91-b995-11da87ea336c) respawned and received items held in storage
+[13Jul2025 00:31:35.021] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[13Jul2025 00:31:35.021] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[13Jul2025 00:31:42.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to Pulpleito8]
+[13Jul2025 00:31:51.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8's skin was ripped off by the Hydra
+[13Jul2025 00:31:51.443] [Server thread/DEBUG] [tombstone/]: A new grave of the player Pulpleito8 was created at position [x:497, y:1, z:4647, dim:twilightforest:twilight_forest]
+[13Jul2025 00:31:51.452] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[13Jul2025 00:31:52.708] [Server thread/DEBUG] [twilightforest/]: Player Pulpleito8 (d22b9c2a-031e-30ec-8cf8-ce7194d1bb5e) respawned and received items held in storage
+[13Jul2025 00:31:54.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to Pulpleito8]
+[13Jul2025 00:31:56.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[13Jul2025 00:31:59.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to Pulpleito8]
+[13Jul2025 00:32:06.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 00:32:06.703] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 00:32:13.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8's skin was ripped off by the Hydra
+[13Jul2025 00:32:13.297] [Server thread/DEBUG] [tombstone/]: A new grave of the player Pulpleito8 was created at position [x:496, y:1, z:4649, dim:twilightforest:twilight_forest]
+[13Jul2025 00:32:13.306] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[13Jul2025 00:32:14.785] [Server thread/DEBUG] [twilightforest/]: Player Pulpleito8 (d22b9c2a-031e-30ec-8cf8-ce7194d1bb5e) respawned and received items held in storage
+[13Jul2025 00:32:16.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[13Jul2025 00:32:17.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney was roasted alive by the Hydra
+[13Jul2025 00:32:17.814] [Server thread/INFO] [tombstone/]: The player Ale_sweeney has successfully been saved
+[13Jul2025 00:32:19.332] [Server thread/DEBUG] [twilightforest/]: Player Ale_sweeney (e1e8b6d4-ee5b-3e91-b995-11da87ea336c) respawned and received items held in storage
+[13Jul2025 00:32:19.706] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[13Jul2025 00:32:19.706] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[13Jul2025 00:32:21.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to Pulpleito8]
+[13Jul2025 00:32:33.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney's skin was ripped off by the Hydra
+[13Jul2025 00:32:33.954] [Server thread/INFO] [tombstone/]: The player Ale_sweeney has successfully been saved
+[13Jul2025 00:32:35.630] [Server thread/DEBUG] [twilightforest/]: Player Ale_sweeney (e1e8b6d4-ee5b-3e91-b995-11da87ea336c) respawned and received items held in storage
+[13Jul2025 00:32:36.001] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[13Jul2025 00:32:36.001] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[13Jul2025 00:32:37.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to Pulpleito8]
+[13Jul2025 00:32:52.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney's skin was ripped off by the Hydra
+[13Jul2025 00:32:53.098] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ale_sweeney was created at position [x:499, y:1, z:4653, dim:twilightforest:twilight_forest]
+[13Jul2025 00:32:53.107] [Server thread/INFO] [tombstone/]: The player Ale_sweeney has successfully been saved
+[13Jul2025 00:32:54.559] [Server thread/DEBUG] [twilightforest/]: Player Ale_sweeney (e1e8b6d4-ee5b-3e91-b995-11da87ea336c) respawned and received items held in storage
+[13Jul2025 00:32:54.894] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[13Jul2025 00:32:54.894] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[13Jul2025 00:32:56.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to Pulpleito8]
+[13Jul2025 00:33:29.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8's skin was ripped off by the Hydra
+[13Jul2025 00:33:29.790] [Server thread/DEBUG] [tombstone/]: A new grave of the player Pulpleito8 was created at position [x:503, y:1, z:4643, dim:twilightforest:twilight_forest]
+[13Jul2025 00:33:29.800] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[13Jul2025 00:33:29.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved wrongly!
+[13Jul2025 00:33:31.002] [Server thread/DEBUG] [twilightforest/]: Player Pulpleito8 (d22b9c2a-031e-30ec-8cf8-ce7194d1bb5e) respawned and received items held in storage
+[13Jul2025 00:33:33.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[13Jul2025 00:33:44.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney's skin was ripped off by the Hydra
+[13Jul2025 00:33:44.617] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ale_sweeney was created at position [x:502, y:1, z:4651, dim:twilightforest:twilight_forest]
+[13Jul2025 00:33:44.628] [Server thread/INFO] [tombstone/]: The player Ale_sweeney has successfully been saved
+[13Jul2025 00:33:45.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zens25 moved wrongly!
+[13Jul2025 00:33:46.060] [Server thread/DEBUG] [twilightforest/]: Player Ale_sweeney (e1e8b6d4-ee5b-3e91-b995-11da87ea336c) respawned and received items held in storage
+[13Jul2025 00:33:46.387] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[13Jul2025 00:33:46.387] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[13Jul2025 00:33:49.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to Pulpleito8]
+[13Jul2025 00:33:58.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8's skin was ripped off by the Hydra
+[13Jul2025 00:33:58.691] [Server thread/DEBUG] [tombstone/]: A new grave of the player Pulpleito8 was created at position [x:500, y:1, z:4653, dim:twilightforest:twilight_forest]
+[13Jul2025 00:33:58.700] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[13Jul2025 00:33:58.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney's skin was ripped off by the Hydra
+[13Jul2025 00:33:58.800] [Server thread/INFO] [tombstone/]: The player Ale_sweeney has successfully been saved
+[13Jul2025 00:34:00.049] [Server thread/DEBUG] [twilightforest/]: Player Pulpleito8 (d22b9c2a-031e-30ec-8cf8-ce7194d1bb5e) respawned and received items held in storage
+[13Jul2025 00:34:01.128] [Server thread/DEBUG] [twilightforest/]: Player Ale_sweeney (e1e8b6d4-ee5b-3e91-b995-11da87ea336c) respawned and received items held in storage
+[13Jul2025 00:34:01.697] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[13Jul2025 00:34:01.698] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-3, y=108, z=506} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=north,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[13Jul2025 00:34:02.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[13Jul2025 00:34:12.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8's skin was ripped off by the Hydra
+[13Jul2025 00:34:12.123] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[13Jul2025 00:34:13.469] [Server thread/DEBUG] [twilightforest/]: Player Pulpleito8 (d22b9c2a-031e-30ec-8cf8-ce7194d1bb5e) respawned and received items held in storage
+[13Jul2025 00:34:15.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[13Jul2025 00:34:17.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to Pulpleito8]
+[13Jul2025 00:35:11.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has reached the goal [Hydra Slayer]
+[13Jul2025 00:37:06.832] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 00:37:06.851] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 00:37:19.527] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[13Jul2025 00:37:36.785] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2262ms or 45 ticks behind
+[13Jul2025 00:37:57.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5363ms or 107 ticks behind
+[13Jul2025 00:38:09.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to Pulpleito8]
+[13Jul2025 00:38:12.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Pulpleito8]
+[13Jul2025 00:38:15.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3757ms or 75 ticks behind
+[13Jul2025 00:38:54.588] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[13Jul2025 00:39:11.842] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2270ms or 45 ticks behind
+[13Jul2025 00:39:30.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3451ms or 69 ticks behind
+[13Jul2025 00:39:51.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6060ms or 121 ticks behind
+[13Jul2025 00:40:13.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7442ms or 148 ticks behind
+[13Jul2025 00:40:34.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6177ms or 123 ticks behind
+[13Jul2025 00:40:55.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5392ms or 107 ticks behind
+[13Jul2025 00:41:15.225] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
+[13Jul2025 00:41:36.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6056ms or 121 ticks behind
