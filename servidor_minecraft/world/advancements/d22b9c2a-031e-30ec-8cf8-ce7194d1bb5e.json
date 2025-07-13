@@ -1236,11 +1236,18 @@
     },
     "done": true
   },
-  "twilightforest:progress_hydra": {
+  "twilightforest:progress_merge": {
     "criteria": {
-      "stroganoff": "2025-07-13 00:12:23 +0000"
+      "hydra": "2025-07-13 00:23:24 +0000"
     },
     "done": false
+  },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "trophy": "2025-07-13 00:23:24 +0000",
+      "stroganoff": "2025-07-13 00:12:23 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

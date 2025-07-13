@@ -639,6 +639,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "hydra": "2025-07-13 00:23:04 +0000"
+    },
+    "done": false
+  },
   "twilightforest:arborist": {
     "criteria": {
       "twilight_oak_planks": "2025-07-13 00:12:08 +0000",
@@ -648,12 +654,14 @@
   },
   "twilightforest:progress_hydra": {
     "criteria": {
+      "kill_hydra": "2025-07-13 00:23:04 +0000",
       "stroganoff": "2025-07-13 00:12:21 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:twilight_dinner": {
     "criteria": {
+      "raw_meef": "2025-07-13 00:22:14 +0000",
       "meef_stroganoff": "2025-07-13 00:12:21 +0000",
       "cooked_meef": "2025-07-13 00:06:12 +0000"
     },

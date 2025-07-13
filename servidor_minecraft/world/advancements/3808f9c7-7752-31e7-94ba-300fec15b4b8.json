@@ -1182,6 +1182,7 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "twilight_oak_planks": "2025-07-13 00:19:29 +0000",
       "mangrove_planks": "2025-07-12 04:57:12 +0000",
       "mangrove_stairs": "2025-07-12 04:57:36 +0000",
       "canopy_fence": "2025-07-12 04:56:59 +0000",
@@ -1231,9 +1232,10 @@
   },
   "twilightforest:progress_hydra": {
     "criteria": {
+      "kill_hydra": "2025-07-13 00:17:11 +0000",
       "stroganoff": "2025-07-12 06:07:22 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:twilight_dinner": {
     "criteria": {
@@ -1260,6 +1262,12 @@
       "axolotl_bucket": "2025-07-13 00:05:11 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "hydra": "2025-07-13 00:17:11 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
