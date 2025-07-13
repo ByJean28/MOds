@@ -301,6 +301,7 @@
       "minecraft:creeper": "2025-07-04 02:48:10 +0000",
       "minecraft:zombified_piglin": "2025-07-03 04:14:02 +0000",
       "minecraft:wither_skeleton": "2025-07-03 04:14:17 +0000",
+      "minecraft:cave_spider": "2025-07-12 23:58:34 +0000",
       "minecraft:piglin": "2025-07-03 04:24:01 +0000",
       "minecraft:zombie": "2025-07-04 03:06:30 +0000"
     },
@@ -621,9 +622,10 @@
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
+      "meef": "2025-07-13 00:12:21 +0000",
       "kill_lich": "2025-07-12 23:47:53 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_yeti": {
     "criteria": {
@@ -639,7 +641,21 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "twilight_oak_planks": "2025-07-13 00:12:08 +0000",
       "twilight_oak_log": "2025-07-12 23:56:18 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "stroganoff": "2025-07-13 00:12:21 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "meef_stroganoff": "2025-07-13 00:12:21 +0000",
+      "cooked_meef": "2025-07-13 00:06:12 +0000"
     },
     "done": false
   },

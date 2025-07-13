@@ -178,6 +178,7 @@
       "melon_slice": "2025-07-10 04:41:11 +0000",
       "golden_carrot": "2025-07-03 04:41:48 +0000",
       "beetroot": "2025-07-10 03:44:20 +0000",
+      "mushroom_stew": "2025-07-13 00:01:04 +0000",
       "carrot": "2025-07-05 03:24:54 +0000"
     },
     "done": false
@@ -215,6 +216,7 @@
       "minecraft:witch": "2025-07-12 05:06:53 +0000",
       "minecraft:wither_skeleton": "2025-07-03 04:18:07 +0000",
       "minecraft:husk": "2025-07-10 03:03:42 +0000",
+      "minecraft:cave_spider": "2025-07-13 00:05:59 +0000",
       "minecraft:piglin": "2025-07-03 04:05:09 +0000",
       "quark:foxhound": "2025-07-03 04:05:23 +0000",
       "minecraft:zombie": "2025-07-04 03:06:24 +0000"
@@ -580,9 +582,10 @@
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
+      "meef": "2025-07-13 00:12:35 +0000",
       "kill_lich": "2025-07-12 05:38:02 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_yeti": {
     "criteria": {
@@ -607,6 +610,26 @@
       "in_better_zombie_dungeon": "2025-07-12 23:41:21 +0000"
     },
     "done": false
+  },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "stroganoff": "2025-07-13 00:12:35 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "raw_meef": "2025-07-13 00:08:01 +0000",
+      "meef_stroganoff": "2025-07-13 00:12:35 +0000",
+      "cooked_meef": "2025-07-13 00:04:18 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-07-13 00:16:01 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

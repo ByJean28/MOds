@@ -1199,9 +1199,10 @@
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
+      "meef": "2025-07-13 00:12:23 +0000",
       "kill_lich": "2025-07-12 05:38:02 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_yeti": {
     "criteria": {
@@ -1218,6 +1219,7 @@
   "twilightforest:twilight_dinner": {
     "criteria": {
       "raw_meef": "2025-07-12 22:31:16 +0000",
+      "meef_stroganoff": "2025-07-13 00:12:23 +0000",
       "cooked_meef": "2025-07-12 05:58:32 +0000"
     },
     "done": false
@@ -1233,6 +1235,12 @@
       "location0": "2025-07-12 22:55:39 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "stroganoff": "2025-07-13 00:12:23 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
