@@ -8263,3 +8263,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jul2025 18:14:32.972] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [13Jul2025 18:15:51.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has reached the goal [Flowers of the Savanna]
 [13Jul2025 18:18:18.591] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2995, l='ServerLevel[world]', x=-1.69, y=116.00, z=552.16] died, message: 'Villager hit the ground too hard'
+[13Jul2025 18:19:32.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 18:19:32.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 18:21:12.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney has made the advancement [Hostile Paradise]
+[13Jul2025 18:23:00.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Ale_sweeney to Pulpleito8]
+[13Jul2025 18:23:15.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported zens25 to Pulpleito8]
+[13Jul2025 18:24:32.911] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 18:24:32.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 18:26:21.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to Ale_sweeney]
+[13Jul2025 18:27:18.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
