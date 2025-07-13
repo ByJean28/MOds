@@ -889,3 +889,38 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jul2025 23:41:23.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 joined the game
 [13Jul2025 23:44:08.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to zens25]
 [13Jul2025 23:44:44.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to 0.500000, 125.500000, 555.500000]
+[13Jul2025 23:47:43.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zens25: Set own game mode to Creative Mode]
+[13Jul2025 23:48:29.580] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ale_sweeney[/127.0.131.28:56201] logged in with entity id 93051 at (-3.600080439990024, 116.5, 532.0355191185245)
+[13Jul2025 23:48:29.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney joined the game
+[13Jul2025 23:48:52.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zens25: Set own game mode to Survival Mode]
+[13Jul2025 23:48:52.861] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zens25 lost connection: Disconnected
+[13Jul2025 23:48:52.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 left the game
+[13Jul2025 23:49:04.128] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zens25[/127.241.164.195:36247] logged in with entity id 93213 at (-23.95413550163394, 118.0, 567.643383831407)
+[13Jul2025 23:49:04.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 joined the game
+[13Jul2025 23:52:19.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Pulpleito8) moved too quickly! -10.792980892256509,0.0,-0.7111278712450257
+[13Jul2025 23:52:19.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Pulpleito8) moved too quickly! -12.143152780556946,0.0,-0.7853077353469189
+[13Jul2025 23:52:19.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Pulpleito8) moved too quickly! -13.493473267077704,0.0,-0.8574042156480459
+[13Jul2025 23:52:19.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Pulpleito8) moved too quickly! 10.803780968614575,0.0,0.559708129588671
+[13Jul2025 23:52:19.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Pulpleito8) moved too quickly! 10.803780968614575,0.0,0.559708129588671
+[13Jul2025 23:52:19.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Pulpleito8) moved too quickly! 10.803780968614575,0.0,0.559708129588671
+[13Jul2025 23:52:20.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Pulpleito8) moved too quickly! -10.799700897672096,0.0,-0.6202819744680141
+[13Jul2025 23:52:20.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Pulpleito8) moved too quickly! -12.148741059541358,0.0,-0.7118271897447244
+[13Jul2025 23:52:20.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Pulpleito8) moved too quickly! -13.497495927331038,0.0,-0.8075746941387933
+[13Jul2025 23:52:20.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Pulpleito8) moved too quickly! 12.602216714905218,0.0,0.9437301899836257
+[13Jul2025 23:52:20.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Pulpleito8) moved too quickly! 12.602216714905218,0.0,0.9437301899836257
+[13Jul2025 23:52:20.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Pulpleito8) moved too quickly! 12.602216714905218,0.0,0.9437301899836257
+[13Jul2025 23:52:20.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Pulpleito8) moved too quickly! 11.786505992593582,0.0,0.8782818901380551
+[13Jul2025 23:52:20.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Pulpleito8) moved too quickly! 11.067049135514722,0.0,0.8205564896742885
+[13Jul2025 23:52:20.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Pulpleito8) moved too quickly! 10.432488187571167,0.0,0.7696426864652608
+[13Jul2025 23:52:43.233] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[13Jul2025 23:53:09.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Banned zens25: Banned by an operator.]
+[13Jul2025 23:53:09.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zens25 lost connection: You are banned from this server
+[13Jul2025 23:53:09.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 left the game
+[13Jul2025 23:53:11.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[13Jul2025 23:53:16.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ale_sweeney> XD
+[13Jul2025 23:54:54.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Unbanned zens25]
+[13Jul2025 23:55:14.416] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zens25[/127.241.164.195:48379] logged in with entity id 98410 at (-24.682796885186427, 122.0, 577.7695072371539)
+[13Jul2025 23:55:14.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 joined the game
+[13Jul2025 23:55:42.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to zens25]
+[13Jul2025 23:56:19.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Spectator Mode]
+[13Jul2025 23:56:29.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
