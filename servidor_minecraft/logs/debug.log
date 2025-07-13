@@ -8195,3 +8195,107 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jul2025 22:22:21.339] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
 [13Jul2025 22:22:40.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
 [13Jul2025 22:22:45.810] [Worker-Main-12/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:witherskeletonshieldboss at BlockPos{x=-1392, y=71, z=112} at Chest with:minecraft:chests/nether_bridge
+[13Jul2025 22:22:59.290] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3710ms or 74 ticks behind
+[13Jul2025 22:23:18.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[13Jul2025 22:23:19.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=940, y=-49, z=-667} BlockPos{x=941, y=-50, z=-666}
+[13Jul2025 22:23:37.859] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4479ms or 89 ticks behind
+[13Jul2025 22:24:06.943] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:ghastboss at BlockPos{x=-1439, y=40, z=317} at Chest with:minecraft:chests/bastion_other
+[13Jul2025 22:24:11.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zens25: Set own game mode to Survival Mode]
+[13Jul2025 22:24:15.182] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[13Jul2025 22:24:18.530] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=870, y=-41, z=-708} BlockPos{x=870, y=-41, z=-707}
+[13Jul2025 22:24:32.586] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2406ms or 48 ticks behind
+[13Jul2025 22:24:36.066] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=868, y=-43, z=-711} BlockPos{x=868, y=-45, z=-712}
+[13Jul2025 22:24:37.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zens25: Teleported zens25 to ByJean2812]
+[13Jul2025 22:24:54.064] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=372, y=120, z=-264}
+[13Jul2025 22:25:01.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 22:25:01.474] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 22:25:04.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=848, y=-51, z=-715} BlockPos{x=851, y=-50, z=-714}
+[13Jul2025 22:25:07.540] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:piglinbruteboss at BlockPos{x=-1716, y=73, z=103} at Chest with:minecraft:chests/bastion_other
+[13Jul2025 22:25:07.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 was doomed to fall
+[13Jul2025 22:25:07.888] [Server thread/DEBUG] [tombstone/]: A new grave of the player zens25 was created at position [x:-1420, y:32, z:99, dim:minecraft:the_nether]
+[13Jul2025 22:25:07.944] [Server thread/INFO] [tombstone/]: The player zens25 has successfully been saved
+[13Jul2025 22:25:09.784] [Server thread/DEBUG] [twilightforest/]: Player zens25 (bf71d5c8-39e5-3bc8-90c6-fa665d48c29c) respawned and received items held in storage
+[13Jul2025 22:25:10.672] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=840, y=-52, z=-717} BlockPos{x=838, y=-52, z=-719}
+[13Jul2025 22:25:27.813] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[13Jul2025 22:25:48.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zens25: Teleported zens25 to -1419.500000, 32.500000, 100.500000]
+[13Jul2025 22:26:18.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zens25: Teleported zens25 to ByJean2812]
+[13Jul2025 22:26:43.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Warden
+[13Jul2025 22:26:43.303] [Server thread/DEBUG] [tombstone/]: A new grave of the player Pulpleito8 was created at position [x:942, y:-51, z:-661, dim:minecraft:overworld]
+[13Jul2025 22:26:43.325] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[13Jul2025 22:26:50.296] [Server thread/DEBUG] [twilightforest/]: Player Pulpleito8 (d22b9c2a-031e-30ec-8cf8-ce7194d1bb5e) respawned and received items held in storage
+[13Jul2025 22:26:53.914] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[13Jul2025 22:27:00.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to 942.500000, -50.500000, -660.500000]
+[13Jul2025 22:27:15.832] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:ghastboss at BlockPos{x=-1726, y=51, z=429} at Chest with:minecraft:chests/nether_bridge
+[13Jul2025 22:27:25.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Wither Skeleton
+[13Jul2025 22:27:25.865] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:-1432, y:99, z:103, dim:minecraft:the_nether]
+[13Jul2025 22:27:25.875] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[13Jul2025 22:27:27.535] [Server thread/DEBUG] [twilightforest/]: Player ByJean2812 (3808f9c7-7752-31e7-94ba-300fec15b4b8) respawned and received items held in storage
+[13Jul2025 22:27:28.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to -270.500000, 24.500000, 960.500000]
+[13Jul2025 22:27:32.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to zens25]
+[13Jul2025 22:27:50.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to 856.500000, -49.500000, -639.500000]
+[13Jul2025 22:28:20.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Zombified Piglin
+[13Jul2025 22:28:20.125] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:-1448, y:95, z:94, dim:minecraft:the_nether]
+[13Jul2025 22:28:20.137] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[13Jul2025 22:28:21.649] [Server thread/DEBUG] [twilightforest/]: Player ByJean2812 (3808f9c7-7752-31e7-94ba-300fec15b4b8) respawned and received items held in storage
+[13Jul2025 22:28:26.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to zens25]
+[13Jul2025 22:28:34.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to -2010.500000, 66.500000, -802.500000]
+[13Jul2025 22:29:09.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to 0.500000, 125.500000, 555.500000]
+[13Jul2025 22:29:11.841] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[13Jul2025 22:29:21.137] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[13Jul2025 22:29:55.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Stare Into Despair]
+[13Jul2025 22:30:03.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 22:30:03.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 22:30:11.875] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=88, y=4, z=4312}
+[13Jul2025 22:30:13.909] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=11, y=115, z=539}
+[13Jul2025 22:30:14.639] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2609ms or 52 ticks behind
+[13Jul2025 22:30:14.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved too quickly! -75.84933210159704,111.07840000152588,-3773.0005269014973
+[13Jul2025 22:30:18.439] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=88, y=4, z=4312}
+[13Jul2025 22:30:21.697] [Worker-Main-12/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=-173, y=55, z=4241} at Chest with:minecraft:chests/underwater_ruin_small
+[13Jul2025 22:30:28.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set the weather to clear]
+[13Jul2025 22:30:32.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[13Jul2025 22:31:00.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported zens25 to ByJean2812]
+[13Jul2025 22:31:44.670] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[13Jul2025 22:32:52.197] [Worker-Main-21/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:piglinbruteboss at BlockPos{x=-1815, y=69, z=357} at Chest with:minecraft:chests/bastion_other
+[13Jul2025 22:32:55.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zens25: Teleported zens25 to 20.500000, 115.500000, 69.500000]
+[13Jul2025 22:33:08.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zens25: Teleported zens25 to ByJean2812]
+[13Jul2025 22:33:37.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Into Fire]
+[13Jul2025 22:34:57.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Who is Cutting Onions?]
+[13Jul2025 22:35:07.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 22:35:07.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 22:35:12.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Spooky Scary Skeleton]
+[13Jul2025 22:35:38.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zens25: Teleported zens25 to ByJean2812]
+[13Jul2025 22:35:57.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set the weather to clear]
+[13Jul2025 22:36:37.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 withered away
+[13Jul2025 22:36:37.770] [Server thread/DEBUG] [tombstone/]: A new grave of the player ByJean2812 was created at position [x:-1445, y:19, z:102, dim:minecraft:the_nether]
+[13Jul2025 22:36:37.818] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[13Jul2025 22:36:39.369] [Server thread/DEBUG] [twilightforest/]: Player ByJean2812 (3808f9c7-7752-31e7-94ba-300fec15b4b8) respawned and received items held in storage
+[13Jul2025 22:36:43.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to zens25]
+[13Jul2025 22:38:43.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zens25: Teleported zens25 to 20.500000, 115.500000, 69.500000]
+[13Jul2025 22:38:59.585] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[13Jul2025 22:39:18.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4405ms or 88 ticks behind
+[13Jul2025 22:39:37.815] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3835ms or 76 ticks behind
+[13Jul2025 22:39:56.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3707ms or 74 ticks behind
+[13Jul2025 22:40:16.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4666ms or 93 ticks behind
+[13Jul2025 22:40:30.214] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 22:40:30.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 22:40:30.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pulpleito8 moved too quickly! 6.993939496294843,-0.7864609615302998,-7.262741226640173
+[13Jul2025 22:40:37.074] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5944ms or 118 ticks behind
+[13Jul2025 22:40:52.409] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=88, y=4, z=4312}
+[13Jul2025 22:40:56.351] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4321ms or 86 ticks behind
+[13Jul2025 22:40:57.193] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=88, y=4, z=4312}
+[13Jul2025 22:40:57.646] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=88, y=4, z=4312}
+[13Jul2025 22:41:02.472] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=88, y=4, z=4312}
+[13Jul2025 22:41:05.391] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=88, y=4, z=4312}
+[13Jul2025 22:41:06.713] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=88, y=4, z=4312}
+[13Jul2025 22:41:07.662] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=88, y=4, z=4312}
+[13Jul2025 22:41:08.277] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=88, y=4, z=4312}
+[13Jul2025 22:41:17.857] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6527ms or 130 ticks behind
+[13Jul2025 22:41:21.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 has made the advancement [Hellfire Mantle]
+[13Jul2025 22:41:39.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6994ms or 139 ticks behind
+[13Jul2025 22:42:02.869] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8089ms or 161 ticks behind
+[13Jul2025 22:42:25.080] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7251ms or 145 ticks behind
+[13Jul2025 22:42:46.140] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6060ms or 121 ticks behind
+[13Jul2025 22:42:47.975] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[13Jul2025 22:43:08.836] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7706ms or 154 ticks behind
+[13Jul2025 22:43:32.184] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8354ms or 167 ticks behind
+[13Jul2025 22:43:54.460] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7280ms or 145 ticks behind

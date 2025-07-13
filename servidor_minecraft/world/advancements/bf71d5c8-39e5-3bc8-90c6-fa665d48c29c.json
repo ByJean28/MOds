@@ -258,6 +258,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-07-13 22:23:27 +0000",
       "minecraft:nether_wastes": "2025-07-03 04:04:52 +0000",
       "minecraft:basalt_deltas": "2025-07-03 04:05:42 +0000"
     },
@@ -745,6 +746,18 @@
   "tombstone:adventure/use_home": {
     "criteria": {
       "coded_trigger": "2025-07-13 19:28:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-07-13 22:34:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-07-13 22:33:37 +0000"
     },
     "done": true
   },
