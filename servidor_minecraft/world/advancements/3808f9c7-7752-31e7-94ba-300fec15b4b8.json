@@ -773,6 +773,7 @@
       "incendium:weeping_valley": "2025-06-30 01:57:16 +0000",
       "incendium:quartz_flats": "2025-07-03 04:15:23 +0000",
       "incendium:inverted_forest": "2025-06-30 01:03:55 +0000",
+      "incendium:volcanic_deltas": "2025-07-13 22:41:21 +0000",
       "incendium:toxic_heap": "2025-06-15 23:05:04 +0000"
     },
     "done": false
@@ -1328,6 +1329,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-07-13 22:35:12 +0000"
+    },
+    "done": true
+  },
+  "incendium:volcanic_deltas/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-07-13 22:41:21 +0000"
     },
     "done": true
   },

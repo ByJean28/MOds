@@ -809,3 +809,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jul2025 22:43:08.836] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7706ms or 154 ticks behind
 [13Jul2025 22:43:32.184] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8354ms or 167 ticks behind
 [13Jul2025 22:43:54.460] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7280ms or 145 ticks behind
+[13Jul2025 22:44:10.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to zens25]
+[13Jul2025 22:44:17.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8177ms or 163 ticks behind
+[13Jul2025 22:44:38.346] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5766ms or 115 ticks behind
+[13Jul2025 22:44:55.562] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2232ms or 44 ticks behind
+[13Jul2025 22:45:15.477] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=656, y=7, z=5774} BlockPos{x=655, y=5, z=5775}
+[13Jul2025 22:45:15.534] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=656, y=7, z=5774} BlockPos{x=655, y=5, z=5775}
+[13Jul2025 22:45:28.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[13Jul2025 22:46:58.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[13Jul2025 22:47:29.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to 86.500000, 5.500000, 4311.500000]
+[13Jul2025 22:51:50.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 has made the advancement [Suit Up]
