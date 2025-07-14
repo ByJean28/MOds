@@ -98,3 +98,50 @@
 [14Jul2025 00:45:15.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Planting the Past]
 [14Jul2025 00:46:43.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
 [14Jul2025 00:47:16.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Set own game mode to Spectator Mode]
+[14Jul2025 00:48:28.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[14Jul2025 00:48:30.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Set own game mode to Survival Mode]
+[14Jul2025 00:48:34.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[14Jul2025 00:50:18.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Lightning Dragon
+[14Jul2025 00:50:18.832] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[14Jul2025 00:50:27.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to 822.500000, -1.500000, 1488.500000]
+[14Jul2025 00:51:04.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Neighborhood Brawl]
+[14Jul2025 00:51:12.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was energized by Lightning Dragon
+[14Jul2025 00:51:12.485] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[14Jul2025 00:51:18.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to 800.500000, -11.500000, 1482.500000]
+[14Jul2025 00:51:27.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[14Jul2025 00:51:32.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Lightning Dragon
+[14Jul2025 00:51:32.570] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[14Jul2025 00:51:41.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to 811.500000, -11.500000, 1485.500000]
+[14Jul2025 00:51:54.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was struck with lightning by Lightning Dragon
+[14Jul2025 00:51:54.884] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[14Jul2025 00:51:55.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was struck with lightning by Lightning Dragon
+[14Jul2025 00:51:55.330] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[14Jul2025 00:51:56.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to 856.500000, -49.500000, -639.500000]
+[14Jul2025 00:51:57.685] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[14Jul2025 00:52:01.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to 807.500000, -11.500000, 1486.500000]
+[14Jul2025 00:52:01.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to 803.500000, -11.500000, 1478.500000]
+[14Jul2025 00:52:18.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was energized by Lightning Dragon
+[14Jul2025 00:52:18.656] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[14Jul2025 00:52:23.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[14Jul2025 00:52:55.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to 0.500000, 125.500000, 555.500000]
+[14Jul2025 00:53:00.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to zens25]
+[14Jul2025 00:54:19.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to 84.500000, 67.500000, 1974.500000]
+[14Jul2025 00:54:33.848] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/140252, l='ServerLevel[world]', x=82.64, y=64.00, z=1979.05] died, message: 'Librarian burned to death'
+[14Jul2025 00:54:35.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[14Jul2025 00:54:36.477] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/140474, l='ServerLevel[world]', x=39.98, y=65.41, z=1945.60] died, message: 'Villager was slain by Fire Dragon'
+[14Jul2025 00:54:39.669] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/140251, l='ServerLevel[world]', x=73.65, y=64.00, z=1959.94] died, message: 'Librarian burned to death'
+[14Jul2025 00:54:46.613] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/140473, l='ServerLevel[world]', x=50.70, y=63.50, z=1933.92] died, message: 'Nitwit went up in flames'
+[14Jul2025 00:54:53.791] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3512ms or 70 ticks behind
+[14Jul2025 00:55:11.721] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2941ms or 58 ticks behind
+[14Jul2025 00:55:29.812] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3133ms or 62 ticks behind
+[14Jul2025 00:55:31.323] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/140418, l='ServerLevel[world]', x=67.63, y=70.30, z=1947.30] died, message: 'Mason burned to death'
+[14Jul2025 00:55:48.301] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3522ms or 70 ticks behind
+[14Jul2025 00:55:51.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[14Jul2025 00:56:07.190] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3910ms or 78 ticks behind
+[14Jul2025 00:56:26.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4152ms or 83 ticks behind
+[14Jul2025 00:56:45.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4431ms or 88 ticks behind
+[14Jul2025 00:57:05.429] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4699ms or 93 ticks behind
+[14Jul2025 00:57:13.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to zens25]
+[14Jul2025 00:57:24.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4101ms or 82 ticks behind
+[14Jul2025 00:57:28.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to 0.500000, 125.500000, 555.500000]
+[14Jul2025 00:58:20.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to 84.500000, 67.500000, 1974.500000]
