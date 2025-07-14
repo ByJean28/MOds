@@ -783,5 +783,11 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_any_sniffer_seed": {
+    "criteria": {
+      "torchflower": "2025-07-14 00:45:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

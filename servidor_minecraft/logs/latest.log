@@ -73,3 +73,28 @@
 [14Jul2025 00:37:15.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was struck with lightning by Lightning Dragon
 [14Jul2025 00:37:15.977] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
 [14Jul2025 00:37:20.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[14Jul2025 00:37:28.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was slain by Lightning Dragon
+[14Jul2025 00:37:28.331] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[14Jul2025 00:37:32.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to 839.500000, 5.500000, 1546.500000]
+[14Jul2025 00:37:38.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Lightning Dragon
+[14Jul2025 00:37:38.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByJean2812 moved wrongly!
+[14Jul2025 00:37:38.220] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[14Jul2025 00:37:40.346] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[14Jul2025 00:37:40.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[14Jul2025 00:38:20.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was struck with lightning by Lightning Dragon
+[14Jul2025 00:38:20.940] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[14Jul2025 00:38:27.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to 835.500000, 8.500000, 1535.500000]
+[14Jul2025 00:41:56.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[14Jul2025 00:41:58.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Set own game mode to Spectator Mode]
+[14Jul2025 00:42:34.000] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[14Jul2025 00:42:34.001] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[14Jul2025 00:42:34.002] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[14Jul2025 00:42:34.002] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[14Jul2025 00:42:34.002] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[14Jul2025 00:42:35.684] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[14Jul2025 00:42:35.684] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[14Jul2025 00:42:42.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Set own game mode to Survival Mode]
+[14Jul2025 00:44:53.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[14Jul2025 00:45:15.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zens25 has made the advancement [Planting the Past]
+[14Jul2025 00:46:43.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[14Jul2025 00:47:16.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Set own game mode to Spectator Mode]
