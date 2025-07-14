@@ -13,3 +13,63 @@
 [14Jul2025 00:13:11.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
 [14Jul2025 00:15:27.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
 [14Jul2025 00:16:28.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Spectator Mode]
+[14Jul2025 00:17:14.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
+[14Jul2025 00:18:37.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Spectator Mode]
+[14Jul2025 00:20:08.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
+[14Jul2025 00:20:14.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[14Jul2025 00:20:53.067] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! -2.7556937472373875,0.0,10.2531765663133
+[14Jul2025 00:20:53.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! -2.600803997891603,0.0,11.302114302975156
+[14Jul2025 00:20:53.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! -2.39255604120558,0.0,12.368236507130291
+[14Jul2025 00:20:53.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! -2.156669248564299,-0.11523853629304881,13.408690850237349
+[14Jul2025 00:20:53.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! -1.896405002610436,-0.3321174615965674,14.426506139900084
+[14Jul2025 00:20:53.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! -1.6146398428347766,-0.6386432100073307,15.424353784424966
+[14Jul2025 00:20:53.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! -1.3139108770684516,-1.02423745639868,16.40458996593827
+[14Jul2025 00:20:53.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! -0.9964558344182706,-1.479570118008894,17.36929283707525
+[14Jul2025 00:20:53.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! -0.6642483919564484,-1.9964120618421646,18.32029532846036
+[14Jul2025 00:20:53.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! -0.31902933286085045,-2.567505192596144,19.25921408490433
+[14Jul2025 00:20:53.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 0.07430329638816602,-3.18218072092057,20.163655623669683
+[14Jul2025 00:20:53.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 0.5100720945124522,-3.8352959239021516,21.037688256442493
+[14Jul2025 00:20:53.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 0.9828732993330505,-4.522314919931318,21.88535925912197
+[14Jul2025 00:20:53.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 1.488337086859815,-5.239237061428469,22.709779304059225
+[14Jul2025 00:20:53.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 2.0313609777595047,-5.982533777228355,23.502257696515585
+[14Jul2025 00:20:53.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 2.5537714979323027,-6.6381214805638535,24.155277715769216
+[14Jul2025 00:20:53.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 3.0463598612249143,-7.21634983490577,24.676583428598178
+[14Jul2025 00:20:53.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 6.358673350600611,-7.726347243435356,15.856240097835439
+[14Jul2025 00:20:53.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 6.794306129533425,-8.17616495775843,16.15491959328665
+[14Jul2025 00:20:53.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 7.206118295384954,-8.572904181791387,16.361440049859993
+[14Jul2025 00:21:49.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 3.823091953208632,0.0,9.870617961975995
+[14Jul2025 00:21:49.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 4.332349598510177,0.0,11.099680113337854
+[14Jul2025 00:21:49.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 4.845662270934042,0.0,12.328240163670785
+[14Jul2025 00:21:49.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! 5.357216509084822,0.0,13.55860924034846
+[14Jul2025 00:21:59.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ByJean2812) moved too quickly! -7.699512384337254,-0.5087820955759099,7.129218684230636
+[14Jul2025 00:22:08.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[14Jul2025 00:22:51.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Spectator Mode]
+[14Jul2025 00:22:54.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Set own game mode to Spectator Mode]
+[14Jul2025 00:22:58.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Survival Mode]
+[14Jul2025 00:23:03.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[14Jul2025 00:24:02.522] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-6, y=108, z=507} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=east,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[14Jul2025 00:25:01.453] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=875, y=62, z=1925} but found not block entity block Block{minecraft:water}[level=1] at location
+[14Jul2025 00:25:01.453] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=875, y=62, z=1925}
+[14Jul2025 00:25:32.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Set own game mode to Survival Mode]
+[14Jul2025 00:26:47.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was struck with lightning by Lightning Dragon
+[14Jul2025 00:26:47.637] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[14Jul2025 00:26:55.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to 790.500000, 59.500000, 1688.500000]
+[14Jul2025 00:30:00.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Set own game mode to Spectator Mode]
+[14Jul2025 00:30:54.521] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler
+[14Jul2025 00:31:01.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Set own game mode to Survival Mode]
+[14Jul2025 00:32:10.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[14Jul2025 00:33:12.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[14Jul2025 00:34:37.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pulpleito8 was struck with lightning by Lightning Dragon
+[14Jul2025 00:34:37.743] [Server thread/INFO] [tombstone/]: The player Pulpleito8 has successfully been saved
+[14Jul2025 00:34:57.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to 837.500000, 7.500000, 1540.500000]
+[14Jul2025 00:35:10.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Lightning Dragon
+[14Jul2025 00:35:10.285] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[14Jul2025 00:35:13.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[14Jul2025 00:35:35.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[14Jul2025 00:35:54.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[14Jul2025 00:36:00.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was slain by Lightning Dragon
+[14Jul2025 00:36:00.486] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[14Jul2025 00:36:03.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[14Jul2025 00:37:15.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByJean2812 was struck with lightning by Lightning Dragon
+[14Jul2025 00:37:15.977] [Server thread/INFO] [tombstone/]: The player ByJean2812 has successfully been saved
+[14Jul2025 00:37:20.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
