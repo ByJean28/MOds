@@ -4,3 +4,12 @@
 [14Jul2025 00:01:16.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set the weather to clear]
 [14Jul2025 00:05:32.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zens25: Teleported zens25 to Pulpleito8]
 [14Jul2025 00:06:44.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ByJean2812: Teleported ByJean2812 to Pulpleito8]
+[14Jul2025 00:10:31.704] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ale_sweeney lost connection: Timed out
+[14Jul2025 00:10:31.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney left the game
+[14Jul2025 00:10:53.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported zens25 to Pulpleito8]
+[14Jul2025 00:11:56.720] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ale_sweeney[/127.0.131.28:53419] logged in with entity id 106211 at (-8.610454424295591, 117.0, 511.40830576952567)
+[14Jul2025 00:11:56.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ale_sweeney joined the game
+[14Jul2025 00:12:49.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[14Jul2025 00:13:11.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to ByJean2812]
+[14Jul2025 00:15:27.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Teleported Pulpleito8 to zens25]
+[14Jul2025 00:16:28.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pulpleito8: Set own game mode to Spectator Mode]
